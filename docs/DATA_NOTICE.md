@@ -18,16 +18,24 @@ Notes before publishing outputs, and what is actually committed (see LICENSE-DAT
   `findspots_mackay.csv` (own transcription/OCR of public-domain Mackay/Marshall only);
   `concordance_parpola_G.csv`, `concordance_m77_G_inferred.csv` (built from
   `indus_website_real_corpus.csv`/`cisi_real_corpus.csv`/`m77_indusscript_real_corpus.csv`
-  via `indus_decipher`, MIT, only - no GPL/CDLI/TLA/font involvement).
+  via `indus_decipher`, MIT, only - no GPL/CDLI/TLA/font involvement); `constraints.csv`
+  (`constraint_miner.py` reads only `signs_reading_order`/`site`/`first_occurrence`
+  from `inscriptions_ml.csv` and never touches the two tainted columns below - see next
+  point - so the 90 constraints carry no GPL/CDLI content despite their source file's
+  taint).
 - **`outputs/*.png` are git-ignored and must stay that way**: they render glyphs from
   the SK Indus Script font. Do not publish them without the font owner's permission.
 - **`inscriptions_ml.csv` is GPL-3.0-tainted and git-ignored**: `export_ml.py` executes
   part of `objtype.py`, which parses `data/indus-website/population-script.sql` (the
-  GPL-3.0 dump) to fill the `object_type` and `material` columns. Every file built from
-  `inscriptions_ml.csv` inherits this - `constraints.csv`, `affix_profile.csv`,
-  `conditioning_profile.csv`, `conditioning_decay.csv`, `length_control.csv`. Users
+  GPL-3.0 dump) to fill the `object_type` and `material` columns. Files that read
+  `inscriptions_ml.csv` but never reference those two columns (`constraint_miner.py`,
+  confirmed above) are clean; files that also pull in `data/cdliatf_unblocked.atf`
+  (CDLI) or `data/linearb.xyz/` for cross-corpus comparison stay excluded on CDLI/Linear
+  B provenance grounds instead - `affix_profile.csv`, `conditioning_profile.csv`,
+  `conditioning_decay.csv`, `length_control.csv` (via `affix_test.py`,
+  `conditioning_compare.py`, `conditioning_shape.py`, `length_control.py`). Users
   regenerate all of these with `run_all.sh`; CI uploads them as a (90-day) build
-  artifact, not a durable copy. To redistribute a clean version, drop the
+  artifact, not a durable copy. To redistribute `inscriptions_ml.csv` itself, drop the
   `object_type`/`material` columns in `export_ml.py` and regenerate downstream.
 - **`indus_sign_tags.csv` is git-ignored**: descends from the same font-based shape
   pipeline as the PNGs (`features.py`'s HOG clustering on rendered glyphs). The columns

@@ -10,5 +10,6 @@ outputs/*
 !outputs/findspots_mackay.csv
 !outputs/concordance_parpola_G.csv
 !outputs/concordance_m77_G_inferred.csv
+!outputs/constraints.csv
 __pycache__/
 *.pyc

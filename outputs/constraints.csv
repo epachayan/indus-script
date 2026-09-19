@@ -1,0 +1,91 @@
+kind,sign_a,sign_b,train_support,heldout_applicable,heldout_violations
+always before,G2,G740,93,93,0
+always before,G220,G740,33,38,0
+always before,G741,G740,30,21,0
+always before,G233,G740,29,20,1
+always before,G861,G740,28,26,0
+always before,G176,G740,27,12,0
+always before,G820,G2,24,25,0
+always before,G760,G740,22,25,1
+always before,G2,G240,19,26,0
+always before,G920,G740,18,17,0
+always before,G798,G740,17,22,0
+always before,G2,G233,15,13,0
+always before,G2,G235,14,11,0
+always before,G255,G740,14,14,0
+always before,G2,G760,13,11,0
+always before,G415,G100,13,8,0
+always before,G415,G220,13,14,0
+always before,G233,G520,12,4,0
+always before,G2,G231,11,5,0
+always before,G820,G1,11,6,1
+always before,G820,G60,11,6,1
+always before,G692,G60,11,6,0
+always before,G590,G740,11,22,0
+always before,G240,G520,11,12,0
+always before,G705,G740,11,19,0
+always before,G2,G798,10,12,1
+always before,G2,G415,10,12,0
+always before,G231,G740,10,4,0
+always before,G235,G33,10,6,0
+always before,G820,G220,10,9,1
+always before,G706,G33,10,9,0
+always immediately followed by,G100,G740,29,17,1
+always immediately followed by,G760,G740,23,26,1
+at most once per text,G2,,156,157,1
+at most once per text,G240,,52,52,0
+at most once per text,G861,,49,45,0
+at most once per text,G741,,46,37,0
+at most once per text,G1,,45,38,1
+at most once per text,G233,,44,32,0
+at most once per text,G235,,39,51,0
+at most once per text,G400,,35,17,0
+at most once per text,G817,,32,35,0
+never directly before,G740,G2,27,93,0
+never directly before,G740,G32,11,27,0
+never directly before,G740,G220,10,38,0
+never directly before,G740,G240,9,34,2
+never directly before,G740,G520,9,3,0
+never directly before,G820,G740,9,27,0
+never directly before,G520,G740,9,3,0
+never directly before,G1,G740,8,20,0
+never directly before,G740,G861,8,26,0
+never directly before,G740,G60,8,25,0
+never directly before,G740,G741,8,21,0
+never directly before,G740,G233,8,20,1
+never directly before,G740,G390,8,13,0
+never directly before,G60,G740,8,25,1
+never directly before,G741,G740,8,21,0
+never directly before,G740,G235,7,32,0
+never directly before,G235,G740,7,32,2
+never directly before,G33,G740,7,16,1
+never directly before,G2,G520,6,16,0
+never directly before,G32,G2,6,22,0
+never directly before,G520,G2,6,16,0
+never directly before,G2,G861,5,40,0
+never directly before,G2,G820,5,25,0
+never directly before,G2,G390,5,22,0
+never directly before,G240,G2,5,26,0
+never directly before,G817,G740,5,22,1
+never final,G220,,55,72,2
+never final,G240,,52,52,0
+never final,G233,,44,32,0
+never final,G235,,39,51,0
+never final,G176,,29,14,0
+never final,G705,,29,39,1
+never final,G803,,28,30,0
+never final,G920,,25,32,1
+never final,G415,,25,24,0
+never final,G798,,24,27,0
+never final,G760,,23,26,0
+never final,G231,,19,10,0
+never final,G255,,18,18,1
+never final,G806,,18,19,0
+never final,G3,,17,27,1
+never initial,G740,,253,245,1
+never initial,G1,,45,38,1
+never initial,G60,,43,48,1
+never initial,G400,,35,17,0
+never initial,G100,,29,17,0
+never initial,G760,,23,26,1
+never initial,G368,,19,21,0
