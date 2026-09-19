@@ -3,12 +3,11 @@
 set -e
 cd "$(dirname "$0")"; mkdir -p work/logs outputs; cd work
 for s in extract features cluster finalize motif motif_dedup site objtype functional crosscheck g400 finalize2 \
-         abroad mj_segment mj_subst m77 numerals stock size_tab robust mj_motif refine rename_families export_ml ml_sequence align_cisi align_m77 neural_nextsign mj_core count_arrow build_mackay_table mackay_context mackay_spatial match_feasibility test_numbering_offset phase_test neighbourhood_test numeral_test object_parts recode_agreement build_marshall_table marshall_test constraint_miner affix_test slot_tests slot_followups conditioning_compare conditioning_shape length_control two_register astral_test minimal_pairs_test; do
+         abroad mj_segment mj_subst m77 numerals stock size_tab robust mj_motif refine rename_families export_ml ml_sequence align_cisi align_m77 neural_nextsign mj_core count_arrow build_mackay_table mackay_context mackay_spatial match_feasibility test_numbering_offset phase_test neighbourhood_test numeral_test object_parts recode_agreement build_marshall_table marshall_test constraint_miner affix_test slot_tests slot_followups two_register astral_test minimal_pairs_test; do
   echo "== $s"; python3 ../scripts/$s.py > logs/$s.log 2>&1 || { echo "FAILED: $s (see work/logs/$s.log)"; exit 1; }
 done
 if [ -f ../data/cdliatf_unblocked.atf ]; then
-  echo "== proto_elamite"; python3 ../scripts/proto_elamite.py > logs/proto_elamite.log 2>&1 || { echo "FAILED: proto_elamite"; exit 1; }
-  for c in seal_legends name_slot numbered_titles typology; do
+  for c in conditioning_compare conditioning_shape length_control proto_elamite seal_legends name_slot numbered_titles typology; do
     echo "== $c"; python3 ../scripts/$c.py > logs/$c.log 2>&1 || { echo "FAILED: $c"; exit 1; }
   done
 else echo "(skipping CDLI steps: data/cdliatf_unblocked.atf not found)"; fi
