@@ -2,7 +2,7 @@
 import csv, numpy as np
 from sklearn.metrics import cohen_kappa_score
 A={(r['plate'],r['mackay_no']):r for r in csv.DictReader(open('../transcriptions/mackay1938_plates/photo_codings.csv'))}
-B=list(csv.DictReader(open('recode.csv')))
+B=list(csv.DictReader(open('../transcriptions/mackay1938_plates/recode_sample.csv')))
 pairs=[(A[(r['plate'],r['mackay_no'])],r) for r in B if (r['plate'],r['mackay_no']) in A]
 print(f'seals re-coded blind: {len(pairs)}')
 d=[int(b['n_signs'])-int(a['n_signs']) for a,b in pairs]
