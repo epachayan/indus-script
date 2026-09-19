@@ -1,5 +1,14 @@
 data/
 work/
-outputs/
+outputs/*
+# Exceptions: outputs with verified clean provenance (own transcriptions, or the
+# MIT-licensed indus_decipher corpus only) - not derived from the GPL-3.0 SQL dump,
+# CDLI, TLA, or the rights-reserved font pipeline. See docs/DATA_NOTICE.md.
+!outputs/mackay_seal_table.csv
+!outputs/marshall_seal_table.csv
+!outputs/marshall_seal_table_transcribed.csv
+!outputs/findspots_mackay.csv
+!outputs/concordance_parpola_G.csv
+!outputs/concordance_m77_G_inferred.csv
 __pycache__/
 *.pyc

@@ -1,0 +1,561 @@
+plate_no,size_in,level_ft,level_in,type,material,area,serial,depth_ft,source_page
+1,2.1x1.5,3,0,B,Steatite,HR,4161,3.0,p402L.csv
+2,1.8x1.8,4,2,B,Steatite,E,1187,4.17,p402L.csv
+3,1.85x1.85,2,0,B,Steatite,VS,823,2.0,p402L.csv
+4,1.8x1.8,3,0,B,Steatite,HR,582,3.0,p402L.csv
+5,1.0x?,7,0,B,Steatite,HR,3330,7.0,p402L.csv
+6,1.9x1.9,2,0,B,Steatite,HR,104,2.0,p402L.csv
+7,0.7x0.7,3,0,B,Steatite,HR,4110,3.0,p402L.csv
+8,2.0x2.0,3,0,B,Steatite,HR,743,3.0,p402L.csv
+9,2.5x2.5,2,0,B,Steatite,C,1895,2.0,p402L.csv
+10,2.1x2.1,3,0,B,Steatite,HR,4601,3.0,p402L.csv
+11,2.25x2.25,5,0,B,Steatite,C,194,5.0,p402L.csv
+12,1.85x1.85,1,6,B,Steatite,C,2691,1.5,p402L.csv
+13,0.85x?,2,6,B,Steatite,HR,1575,2.5,p402L.csv
+14,1.3x?,3,0,B,Steatite,DK,315,3.0,p402L.csv
+15,2.1x2.1,1,6,B,Steatite,VS,1329,1.5,p402L.csv
+16,2.35x2.35,3,0,B,Steatite,VS,1037,3.0,p402L.csv
+17,2.25x?,3,0,B,Steatite,HR,4568,3.0,p402L.csv
+18,2.7x2.7,2,0,B,Steatite,HR,5804,2.0,p402L.csv
+19,1.35x1.35,5,0,B,Steatite,VS,1799,5.0,p402L.csv
+20,1.4x1.4,4,9,B,Steatite,SD,1911,4.75,p402L.csv
+21,1.45x1.45,3,6,B,Steatite,VS,1469,3.5,p402L.csv
+22,1.4x1.4,surface,,B,Steatite,L,5,0.0,p402L.csv
+23,1.45x1.5,9,0,B,Steatite,HR,3730,9.0,p402L.csv
+24,1.4x1.4,6,4,B,Steatite,VS,2328,6.33,p402L.csv
+25,1.45x1.45,2,0,B,Steatite,DK,1528,2.0,p402L.csv
+26,0.9x?,8,9,B,Steatite,SD,1839,8.75,p402L.csv
+27,1.85x1.45,5,0,B,Steatite,VS,1573,5.0,p402L.csv
+28,1.4x1.4,3,6,B,Steatite,DK,2484,3.5,p402L.csv
+29,1.35x1.35,5,0,B,Steatite,HR,4868,5.0,p402L.csv
+30,1.65x1.6,surface,,B,Steatite,HR,167,0.0,p402L.csv
+31,1.6x1.6,5,0,B,Steatite,HR,5414,5.0,p402L.csv
+32,1.5x?,5,0,B,Steatite,HR,5030,5.0,p402L.csv
+33,1.8x1.8,6,6,B,Steatite,HR,2025,6.5,p402L.csv
+34,2.1x?,2,6,B,Steatite,C,181,2.5,p402L.csv
+35,1.45x1.45,5,0,B,Steatite,HR,2723,5.0,p402L.csv
+36,1.55x1.55,5,9,B,Steatite,F,46,5.75,p402L.csv
+37,1.65x1.65,1,0,B,Steatite,DK,402,1.0,p402L.csv
+38,2.5x2.5,2,6,B,Steatite,VS,2040,2.5,p402L.csv
+39,1.7x1.7,2,1,B,Steatite,VS,349,2.08,p402L.csv
+40,1.5x1.5,3,6,B,Steatite,D,187,3.5,p402L.csv
+41,1.35x1.35,3,11,B,Steatite,VS,2652,3.92,p402L.csv
+42,1.4x1.4,2,0,B,Steatite,HR,4356,2.0,p402L.csv
+43,1.3x1.3,5,5,B,Steatite,C,841,5.42,p402L.csv
+44,1.2x1.2,1,6,B,Steatite,DK,2055,1.5,p402L.csv
+45,1.25x1.25,2,6,B,Steatite,DK,188,2.5,p402L.csv
+46,1.25x1.25,3,6,B,Steatite,DK,2485,3.5,p402L.csv
+47,1.2x1.2,6,0,B,Steatite,VS,3414,6.0,p402L.csv
+48,1.15x1.15,3,0,B,Steatite,HR,4076,3.0,p402L.csv
+49,1.4x1.4,1,6,B,Steatite,DK,108,1.5,p402L.csv
+50,1.3x1.3,6,0,B,Steatite,HR,5085,6.0,p402L.csv
+51,1.35x1.35,6,0,B,Steatite,HR,4945,6.0,p402L.csv
+52,1.3x1.25,3,0,B,Steatite,HR,5629,3.0,p402L.csv
+53,1.25x1.25,3,0,B,Steatite,HR,629,3.0,p402L.csv
+54,1.4x1.4,5,0,B,Steatite,VS,3594,5.0,p402L.csv
+55,1.2x1.2,5,0,B,Steatite,DK,3069,5.0,p402L.csv
+56,,,,,,BJ,2,,p402L.csv
+57,1.4x1.4,9,0,B,Steatite,DM,189,9.0,p402L.csv
+58,1.3x1.3,8,0,B,Steatite,HR,2582,8.0,p402L.csv
+59,1.25x?,7,0,B,Steatite,E,2401,7.0,p402L.csv
+60,1.25x1.3,3,0,B,Steatite,C,3070,3.0,p402L.csv
+61,1.5x1.5,11,0,B,Steatite,HR,1694,11.0,p402L.csv
+62,,,,,,BJ,3,,p402L.csv
+63,1.65x?,11,0,B,Steatite,HR,1695,11.0,p402L.csv
+64,1.6x?,14,0,B,Steatite,HR,2468,14.0,p402L.csv
+65,1.5x1.5,4,0,B,Steatite,HR,5320,4.0,p402L.csv
+66,1.75x1.75,3,6,B,Steatite,VS,1059,3.5,p402L.csv
+67,1.85x1.85,10,0,B,Steatite,HR,2406,10.0,p402L.csv
+68,1.45x1.45,1,0,B,Steatite,D,21,1.0,p402L.csv
+69,1.6x1.6,3,0,B,Steatite,HR,640,3.0,p402L.csv
+70,1.2x1.2,5,2,B,Steatite,VS,2664,5.17,p402L.csv
+71,,,,,,BJ,4,,p402R.csv
+72,1.15x1.15,1,11,B,Steatite,DK,33,1.92,p402R.csv
+73,1.1x1.1,3,0,B,Steatite,C,3191,3.0,p402R.csv
+74,1.15x1.15,5,0,B,Steatite,DK,1541,5.0,p402R.csv
+75,1.1x1.1,7,0,B,Steatite,DK,2130,7.0,p402R.csv
+76,1.1x1.1,3,9,B,Steatite,C,3055,3.75,p402R.csv
+77,1.1x1.1,7,0,B,Steatite,C,2768,7.0,p402R.csv
+78,1.1x1.1,5,6,B,Steatite,E,1345,5.5,p402R.csv
+79,0.6x0.6,3,0,B,Steatite,E,1585,3.0,p402R.csv
+80,1.1x1.1,1,0,B,Steatite,HR,262,1.0,p402R.csv
+81,1.2x1.25,3,0,B,Steatite,DK,2198,3.0,p402R.csv
+82,1.35x?,3,3,B,Steatite,HR,2371,3.25,p402R.csv
+83,1.2x1.2,1,0,B,Steatite,DK,12,1.0,p402R.csv
+84,1.2x1.15,12,0,B,Steatite,SD,1930,12.0,p402R.csv
+85,1.5x1.5,1,0,B,Steatite,VS,1819,1.0,p402R.csv
+86,1.1x1.1,2,0,B,Steatite,HR,2863,2.0,p402R.csv
+87,1.3x1.3,6,0,B,Steatite,DK,2220,6.0,p402R.csv
+88,1.15x1.15,1,3,B,Steatite,VS,1,1.25,p402R.csv
+89,1.0x1.0,4,0,B,Steatite,VS,3332,4.0,p402R.csv
+90,1.2x1.25,2,1,B,Steatite,VS,47,2.08,p402R.csv
+91,1.25x1.3,5,6,B,Steatite,DK,2147,5.5,p402R.csv
+92,1.05x1.05,3,0,B,Steatite,HR,4411,3.0,p402R.csv
+93,,,,,,BJ,4,,p402R.csv
+94,1.15x1.15,8,0,B,Steatite,B,426,8.0,p402R.csv
+95,1.3x1.3,1,3,B,Steatite,DK,92,1.25,p402R.csv
+96,1.25x1.25,,,B,Steatite,HR,4625a,,p402R.csv
+97,1.2x1.2,2,0,B,Steatite,HR,4385,2.0,p402R.csv
+98,1.25x1.25,3,0,B,Steatite,E,829,3.0,p402R.csv
+99,1.15x1.15,2,1,B,Steatite,VS,49,2.08,p402R.csv
+100,1.15x?,10,0,B,Steatite,SD,2010,10.0,p402R.csv
+101,1.3x1.3,3,0,B,Steatite,DK,1522,3.0,p402R.csv
+102,1.35x1.35,surface,,B,Steatite,HR,4560,0.0,p402R.csv
+103,1.15x1.15,surface,,B,Steatite,HR,683,0.0,p402R.csv
+104,1.0x1.0,5,0,B,Steatite,VS,1779,5.0,p402R.csv
+105,1.0x1.0,6,0,B,Steatite,SD,2445,6.0,p402R.csv
+106,0.85x0.85,3,0,B,Steatite,HR,4238,3.0,p402R.csv
+107,1.1x1.1,7,0,B,Steatite,E,296,7.0,p402R.csv
+108,1.0x1.0,6,0,B,Steatite,DK,596,6.0,p402R.csv
+109,1.1x1.1,1,3,B,Steatite,E,230,1.25,p402R.csv
+110,0.9x0.9,3,0,B,Steatite,HR,4111,3.0,p402R.csv
+111,,6,0,B,Steatite,SD,1850,6.0,p402R.csv
+112,1.2x?,,,B,Steatite,E,2548,,p402R.csv
+113,1.05x1.05,3,0,B,Steatite,DK,962,3.0,p402R.csv
+114,1.0x1.0,6,0,B,Steatite,HR,4965,6.0,p402R.csv
+115,1.15x1.15,3,0,B,Steatite,E,470,3.0,p402R.csv
+116,1.1x1.1,6,0,B,Steatite,DM,67,6.0,p402R.csv
+117,1.15x1.2,7,0,B,Steatite,VS,3595,7.0,p402R.csv
+118,1.05x1.05,8,0,B,Steatite,SD,570,8.0,p402R.csv
+119,1.05x1.05,6,0,B,Steatite,VS,2989,6.0,p402R.csv
+120,1.15x1.15,,,C,Pottery,HR,4264,,p402R.csv
+121,1.1x1.1,5,8,B,Steatite,VS,2542,5.67,p402R.csv
+122,1.1x1.1,4,6,B,Steatite,D,316,4.5,p402R.csv
+123,1.0x1.0,2,4,B,Steatite,HR,3732a,2.33,p402R.csv
+124,,9,0,B,Steatite,HR,5700,9.0,p402R.csv
+125,1.0x1.0,5,0,B,Steatite,E,2484a,5.0,p402R.csv
+126,1.0x1.0,7,0,B,Steatite,HR,3207,7.0,p402R.csv
+127,1.05x1.05,2,5,B,Steatite,HR,4368,2.42,p402R.csv
+128,1.1x1.1,11,0,B,Steatite,VS,778,11.0,p402R.csv
+129,1.4x0.6,1,0,B,Steatite,E,1094,1.0,p402R.csv
+130,1.05x1.05,2,6,B,Steatite,VS,1468,2.5,p402R.csv
+131,1.05x1.05,5,0,B,Steatite,VS,3391,5.0,p402R.csv
+132,1.2x1.2,3,9,B,Steatite,D,552,3.75,p402R.csv
+133,1.05x1.05,4,0,B,Steatite,B,383,4.0,p402R.csv
+134,1.1x1.1,,,B,Steatite,E,2767,,p402R.csv
+135,1.15x1.15,,,B,Steatite,HR,2973,,p402R.csv
+136,1.05x1.05,3,6,B,Steatite (black),C,329,3.5,p402R.csv
+137,?x0.4,18,0,B,Steatite,VS,3154,18.0,p402R.csv
+138,1.25x?,2,8,B,Steatite,HR,4986,2.67,p402R.csv
+139,1.45x?,6,0,B,Steatite,HR,5531,6.0,p402R.csv
+140,1.2x1.2,7,0,B,Steatite,DK,3279,7.0,p402R.csv
+141,1.0x1.0,5,6,B,Steatite,HR,1950,5.5,p403L.csv
+142,1.35x1.35,1,6,B,Steatite,DK,3054,1.5,p403L.csv
+143,0.8x0.8,,,B,Steatite,HR,4057,,p403L.csv
+144,0.9x?,6,0,B,Steatite,HR,5076,6.0,p403L.csv
+145,0.3x?,2,6,B,Steatite,DK,2971,2.5,p403L.csv
+146,1.0x1.0,2,9,B,Steatite,E,845,2.75,p403L.csv
+147,0.9x0.9,2,6,B,Steatite,DK,221,2.5,p403L.csv
+148,0.9x0.9,5,6,B,Steatite,VS,1961,5.5,p403L.csv
+149,0.95x0.95,2,0,B,Steatite,HR,4384,2.0,p403L.csv
+150,0.9x0.9,1,4,B,Steatite,C,3155,1.33,p403L.csv
+151,1.05x1.05,5,0,B,Steatite,HR,5905,5.0,p403L.csv
+152,0.3x?,,,B,Steatite,C,392,,p403L.csv
+153,0.31x?,2,0,B,Steatite,A,274,2.0,p403L.csv
+154,0.85x0.85,3,1,B,Steatite,VS,90,3.08,p403L.csv
+155,0.85x0.85,3,0,B,Steatite,DK,1892,3.0,p403L.csv
+156,1.0x1.0,12,6,B,Steatite,HR,2522,12.5,p403L.csv
+157,1.0x1.0,3,6,B,Steatite,VS,1666,3.5,p403L.csv
+158,0.95x0.95,4,7,B,Steatite,DM,50,4.58,p403L.csv
+159,1.05x1.05,4,6,B,Steatite,E,491,4.5,p403L.csv
+160,1.0x1.0,9,0,B,Steatite,E,1809,9.0,p403L.csv
+161,1.05x1.05,4,0,B,Steatite,HR,5030,4.0,p403L.csv
+162,1.0x1.0,3,0,B,Steatite,HR,4291,3.0,p403L.csv
+163,0.85x0.85,4,0,B,Steatite,VS,3380,4.0,p403L.csv
+164,1.15x0.35,5,0,B,Steatite,HR,398,5.0,p403L.csv
+165,,5,6,B,Steatite,C,206,5.5,p403L.csv
+166,0.9x0.9,3,0,B,Steatite,HR,4635,3.0,p403L.csv
+167,0.85x0.85,4,0,B,Steatite,HR,5311,4.0,p403L.csv
+168,1.1x1.1,6,0,B,Steatite,HR,3791,6.0,p403L.csv
+169,0.95x0.95,7,0,B,Steatite,C,810,7.0,p403L.csv
+170,1.05x?,5,6,B,Steatite,E,2053,5.5,p403L.csv
+171,0.8x0.8,3,0,B,Steatite,HR,5703,3.0,p403L.csv
+172,1.1x1.1,3,0,B,Steatite,VS,2372,3.0,p403L.csv
+173,0.95x0.95,3,6,B,Steatite,HR,4994,3.5,p403L.csv
+174,0.9x0.9,4,0,B,Steatite,HR,3277,4.0,p403L.csv
+175,1.35x0.3,3,0,B,Steatite,VS,1558,3.0,p403L.csv
+176,1.2x1.2,2,0,B,Steatite,E,96,2.0,p403L.csv
+177,1.2x1.2,5,0,B,Steatite,VS,2541,5.0,p403L.csv
+178,1.2x?,4,0,B,Steatite,E,1521,4.0,p403L.csv
+179,1.0x1.0,6,0,B,Steatite,SD,1553,6.0,p403L.csv
+180,1.05x1.05,6,0,B,Steatite,C,3133,6.0,p403L.csv
+181,1.05x1.05,10,0,B,Steatite,SD,1731,10.0,p403L.csv
+182,1.1x1.1,6,6,B,Steatite,C,2394,6.5,p403L.csv
+183,1.0x1.0,,,B,Steatite,HR,2268,,p403L.csv
+184,,5,0,B,Steatite,HR,4873,5.0,p403L.csv
+185,1.05x0.30,2,6,B,Steatite,E,2006,2.5,p403L.csv
+186,1.15x1.15,3,0,B,Steatite,E,1008,3.0,p403L.csv
+187,1.05x1.1,6,0,B,Steatite,E,2217,6.0,p403L.csv
+188,1.05x1.05,3,0,B,Steatite (black),HR,4519,3.0,p403L.csv
+189,0.95x0.95,5,3,B,Steatite,C,2023,5.25,p403L.csv
+190,1.0x1.05,3,0,B,Steatite,C,3024,3.0,p403L.csv
+191,,2,6,B,Steatite,VS,235,2.5,p403L.csv
+192,0.8x0.8,3,5,C,Steatite,VS,272,3.42,p403L.csv
+193,0.8x0.8,5,0,B,Steatite,DK,744,5.0,p403L.csv
+194,0.8x0.8,8,6,B,Steatite,C,2114,8.5,p403L.csv
+195,0.6x0.6,,,B,Steatite,HR,4622,,p403L.csv
+196,0.85x?,2,0,B,Steatite,DK,925,2.0,p403L.csv
+197,0.8x0.8,2,9,B,Steatite,C,3202,2.75,p403L.csv
+198,0.75x0.75,6,0,B,Steatite,E,1912,6.0,p403L.csv
+199,0.85x0.85,2,6,B,Steatite,C,2803,2.5,p403L.csv
+200,0.75x0.75,7,4,B,Steatite,HR,1451,7.33,p403L.csv
+201,0.85x0.85,2,0,B,Steatite,HR,4400,2.0,p403L.csv
+202,0.8x0.8,4,0,B,Steatite,HR,5607,4.0,p403L.csv
+203,0.75x0.75,4,0,B,Steatite,HR,5261,4.0,p403L.csv
+204,0.8x0.8,4,6,B,Steatite,C,435,4.5,p403L.csv
+205,0.85x0.85,4,3,B,Steatite,D,289,4.25,p403L.csv
+206,0.85x0.85,4,0,B,Steatite,HR,5596,4.0,p403L.csv
+207,0.75x0.75,3,0,B,Steatite,HR,4124,3.0,p403L.csv
+208,0.9x0.9,4,0,B,Steatite,HR,5597,4.0,p403L.csv
+209,0.95x?,4,6,B,Steatite,VS,3359,4.5,p403L.csv
+210,,,,,,BJ,10,,p403L.csv
+211,1.0x?,2,0,B,Steatite,HR,4585,2.0,p403R.csv
+212,0.6x0.6,2,0,B,Steatite,C,2692,2.0,p403R.csv
+213,0.7x0.7,4,0,B,Steatite,HR,5594,4.0,p403R.csv
+214,0.8x0.85,6,0,B,Steatite,HR,5057,6.0,p403R.csv
+215,0.85x0.85,2,0,B,Steatite,E,1154,2.0,p403R.csv
+216,1.0x?,2,0,B,Steatite,HR,2869,2.0,p403R.csv
+217,0.85x0.85,5,6,B,Steatite,VS,2374,5.5,p403R.csv
+218,0.85x0.85,,,B,Steatite,HR,5789,,p403R.csv
+219,0.85x0.85,5,0,B,Steatite,DK,1519,5.0,p403R.csv
+220,0.85x0.85,3,0,B,Steatite,E,653,3.0,p403R.csv
+221,0.85x0.85,4,0,B,Steatite,HR,6098,4.0,p403R.csv
+222,0.75x0.75,5,0,B,Steatite,HR,5656,5.0,p403R.csv
+223,,6,0,B,Steatite,HR,5146,6.0,p403R.csv
+224,0.8x0.8,4,0,B,Steatite,HR,1951,4.0,p403R.csv
+225,0.9x0.9,3,0,B,Steatite,VS,2202,3.0,p403R.csv
+226,0.8x0.8,3,6,B,Steatite,HR,4872,3.5,p403R.csv
+227,0.9x0.9,2,0,C,Steatite,L,323,2.0,p403R.csv
+228,0.9x0.9,10,0,B,Steatite,B,608,10.0,p403R.csv
+229,0.85x0.85,4,6,B,Steatite,E,187,4.5,p403R.csv
+230,0.9x0.9,2,0,C,Steatite,L,323,2.0,p403R.csv
+231,0.95x0.95,1,0,B,Steatite,HR,4436,1.0,p403R.csv
+232,0.85x0.85,3,0,B,Steatite,DK,1892,3.0,p403R.csv
+233,0.85x0.85,3,0,B,Steatite,D,619,3.0,p403R.csv
+234,0.9x0.9,5,0,B,Steatite,L,742,5.0,p403R.csv
+235,0.9x0.9,6,6,B,Steatite,E,297,6.5,p403R.csv
+236,1.0x1.0,4,7,B,Steatite,HR,1365,4.58,p403R.csv
+237,0.75x0.75,2,0,B,Steatite,HR,5516,2.0,p403R.csv
+238,1.0x?,6,0,B,Steatite,HR,1673,6.0,p403R.csv
+239,1.05x?,6,0,B,Steatite,HR,3792,6.0,p403R.csv
+240,0.95x0.95,2,0,B,Steatite,HR,4386,2.0,p403R.csv
+241,,4,0,B,Steatite,HR,5648,4.0,p403R.csv
+242,1.1x?,5,0,B,Steatite,L,476,5.0,p403R.csv
+243,0.85x0.85,2,0,B,Steatite,VS,505,2.0,p403R.csv
+244,,,,,,BJ,5,,p403R.csv
+245,0.95x0.95,5,6,B,Steatite,HR,5310,5.5,p403R.csv
+246,1.0x1.0,3,0,B,Steatite,HR,3506,3.0,p403R.csv
+247,0.95x?,3,0,B,Steatite,HR,2595,3.0,p403R.csv
+248,,,,,,BJ,6,,p403R.csv
+249,0.85x0.85,1,6,B,Steatite,C,2327,1.5,p403R.csv
+250,?x1.6,5,6,B,Steatite,VS,2582,5.5,p403R.csv
+251,0.95x0.95,2,0,B,Steatite,HR,5699,2.0,p403R.csv
+252,0.95x0.95,3,0,B,Steatite,HR,2596,3.0,p403R.csv
+253,0.85x0.85,3,0,B,Steatite,HR,4492,3.0,p403R.csv
+254,0.9x0.9,5,0,B,Steatite,DK,160,5.0,p403R.csv
+255,,1,2,B,Steatite,HR,3010,1.17,p403R.csv
+256,0.9x0.9,3,0,B,Steatite,HR,4112,3.0,p403R.csv
+257,1.0x1.0,7,0,B,Steatite,HR,5772,7.0,p403R.csv
+258,,6,0,B,Steatite,HR,5251,6.0,p403R.csv
+259,,3,0,B,Steatite,DK,2027,3.0,p403R.csv
+260,0.4x?,1,3,B,Steatite,DK,91,1.25,p403R.csv
+261,0.8x0.8,5,6,B,Steatite,E,268,5.5,p403R.csv
+262,0.85x0.85,4,0,B,Steatite,C,3201,4.0,p403R.csv
+263,,2,0,B,Steatite,HR,2912,2.0,p403R.csv
+264,?x0.85,5,0,B,Steatite,L,661,5.0,p403R.csv
+265,1.0x0.3,5,0,B,Steatite,E,2484,5.0,p403R.csv
+266,0.65x0.65,4,6,B,Steatite,HR,4409,4.5,p403R.csv
+267,0.5x0.5,2,0,B,Steatite,E,2294,2.0,p403R.csv
+268,0.6x0.6,3,6,C,Steatite,C,162,3.5,p403R.csv
+269,0.6x0.6,16,0,B,Steatite,B,650,16.0,p403R.csv
+270,0.5x0.5,4,0,B,Steatite,C,2372,4.0,p403R.csv
+271,,5,0,B,Steatite,B,434,5.0,p403R.csv
+272,0.5x0.5,B.P.,,B,Steatite,L,316,,p403R.csv
+273,0.6x0.6,10,0,B,Steatite,DK,2294,10.0,p403R.csv
+274,0.63x0.6,5,0,B,Steatite,C,1863,5.0,p403R.csv
+275,0.6x0.2,3,0,B,Steatite,L,899,3.0,p403R.csv
+276,,,,B,Steatite,HR,4244,,p403R.csv
+277,0.6x0.6,1,0,C,Steatite,E,250,1.0,p403R.csv
+278,0.55x0.55,9,0,B,Steatite,VS,2518,9.0,p403R.csv
+279,0.65x0.70,2,0,B,Steatite,DK,1510,2.0,p403R.csv
+280,?,4,0,B,Steatite,HR,5589,4.0,p403R.csv
+281,0.8x?,3,0,B,Steatite,E,1829,3.0,p404L.csv
+282,0.75x0.25,5,2,B,Steatite,C,2766,5.17,p404L.csv
+283,0.5x0.5,2,5,B,Steatite,HR,4054,2.42,p404L.csv
+284,?x0.9x?,4,0,B,Steatite,C,3035,4.0,p404L.csv
+285,0.7x0.7,4,0,B,Steatite,HR,1804,4.0,p404L.csv
+286,0.7x0.7,2,4,B,Steatite,HR,3732b,2.33,p404L.csv
+287,0.75x0.75,3,6,B,Steatite,C,1956,3.5,p404L.csv
+288,0.75x0.75,4,0,B,Steatite,C,2823,4.0,p404L.csv
+289,0.9x?,6,0,B,Steatite,D,90,6.0,p404L.csv
+290,,7,0,B,Steatite,E,348,7.0,p404L.csv
+291,,2,6,?,Steatite,VS,2852,2.5,p404L.csv
+292,0.7x0.7,3,0,B,Steatite,E,388,3.0,p404L.csv
+293,0.85x?,4,0,B,Steatite,HR,4629,4.0,p404L.csv
+294,1.1x1.1,2,0,B,Steatite,DK,1512,2.0,p404L.csv
+295,0.7x0.7,,,B,Steatite,VS,3172,,p404L.csv
+296,0.75x?,7,0,B,Steatite,E,976,7.0,p404L.csv
+297,,,,,,BJ,8,,p404L.csv
+298,,6,0,B,Steatite,HR,3841,6.0,p404L.csv
+299,,4,0,B,Steatite,HR,5788,4.0,p404L.csv
+300,0.35x?,6,0,B,Steatite,E,323,6.0,p404L.csv
+301,0.25x?,5,3,B,Steatite,C,2024,5.25,p404L.csv
+302,0.95x0.9,2,2,B,Steatite,DK,3205,2.17,p404L.csv
+303,0.95x0.95,5,0,B,Steatite,C,290,5.0,p404L.csv
+304,1.0x1.0,surface,,B,Steatite,L,385,0.0,p404L.csv
+305,0.75x0.75,3,0,B,Steatite,HR,5225,3.0,p404L.csv
+306,1.1x1.1,5,0,B,Steatite,HR,5193,5.0,p404L.csv
+307,0.95x0.95,4,0,B,Steatite,L,351,4.0,p404L.csv
+308,0.8x0.8,,,B,Steatite,C,2767,,p404L.csv
+309,0.9,4,0,H,Steatite,HR,4393,4.0,p404L.csv
+310,0.85x0.85,8,0,B,Steatite,DK,1542,8.0,p404L.csv
+311,0.8x0.8,,,C,Steatite,HR,4503,,p404L.csv
+312,0.95x0.95,6,0,B,Steatite,VS,3503,6.0,p404L.csv
+313,0.30x?,2,0,B,,VS,2543,2.0,p404L.csv
+314,1.0x1.0,3,0,B,Steatite,VS,1754,3.0,p404L.csv
+315,1.05x1.05,2,4,B,Steatite,VS,59,2.33,p404L.csv
+316,1.2x?,4,0,B,Steatite,L,904,4.0,p404L.csv
+317,1.1x1.1,3,0,B,Steatite,HR,583,3.0,p404L.csv
+318,1.15x0.35,3,6,B,Steatite,HR,4364,3.5,p404L.csv
+319,1.05x1.05,10,0,B,Steatite,HR,5949,10.0,p404L.csv
+320,0.85x0.85,5,0,B,Steatite,HR,1793,5.0,p404L.csv
+321,1.6x1.6,4,0,B,Steatite,C,2582,4.0,p404L.csv
+322,1.1x1.1,2,0,B,Steatite,HR,4318,2.0,p404L.csv
+323,0.95x0.95,2,0,B,Steatite,HR,4387,2.0,p404L.csv
+324,1.2x1.2,6,0,B,Steatite,HR,4098,6.0,p404L.csv
+325,1.1x1.1,2,0,B,Steatite,DK,2797,2.0,p404L.csv
+326,1.0x1.0,1,6,B,Steatite,DK,209,1.5,p404L.csv
+327,,4,0,B,Steatite,C,2073,4.0,p404L.csv
+328,0.3x?,2,3,B,Steatite,DK,681,2.25,p404L.csv
+329,1.1x?,3,0,B,Steatite,HR,4348,3.0,p404L.csv
+330,1.45x0.8,4,5,B,Steatite,C,606,4.42,p404L.csv
+331,1.2x1.2,4,6,B,Steatite,VS,3093,4.5,p404L.csv
+332,,,,,,BJ,1,,p404L.csv
+333,1.35x1.3,6,6,B,Steatite,VS,3026,6.5,p404L.csv
+334,1.4x?,5,6,B,Steatite,E,1346,5.5,p404L.csv
+335,1.55x1.55,,,B,Steatite,HR,2657,,p404L.csv
+336,0.75x0.75,,,B,Steatite,E,1846,,p404L.csv
+337,1.5x1.55,8,6,B,Steatite,B,588,8.5,p404L.csv
+338,1.35x1.3,5,0,B,Steatite,HR,5028,5.0,p404L.csv
+339,1.4x1.4,3,0,B,Steatite,DK,2137,3.0,p404L.csv
+340,1.3x1.25,3,0,B,Steatite,HR,3080,3.0,p404L.csv
+341,0.8x0.2,surface,,B,Steatite,L,386,0.0,p404L.csv
+342,1.4x1.4,4,0,B,Steatite,HR,5992,4.0,p404L.csv
+343,1.35x1.4,1,6,B,Steatite,HR,4433,1.5,p404L.csv
+344,1.1x1.1,4,0,B,Steatite,C,2853,4.0,p404L.csv
+345,1.3x1.3,4,0,B,Steatite,HR,5635,4.0,p404L.csv
+346,1.1x1.1,8,0,B,Steatite,HR,5971,8.0,p404L.csv
+347,0.9x0.9,4,0,B,Steatite,E,1181,4.0,p404L.csv
+348,0.35x?,4,0,B,Steatite,VS,1438,4.0,p404L.csv
+349,1.0x?,2,6,B,Steatite,C,1893,2.5,p404L.csv
+350,0.7x0.7,2,6,,Steatite,DK,426,2.5,p404L.csv
+351,1.0x1.0,5,0,B,Steatite,C,427,5.0,p404R.csv
+352,1.0x?,2,6,B,Steatite,HR,4469,2.5,p404R.csv
+353,0.75x0.8,3,0,B,Steatite,D,392,3.0,p404R.csv
+354,?,3,0,B,Steatite,L,860,3.0,p404R.csv
+355,1.05x1.05,3,0,B,Steatite,DK,2869,3.0,p404R.csv
+356,0.9x0.9,3,0,C,Steatite,L,323,3.0,p404R.csv
+357,1.6x1.6,5,0,B,Steatite,VS,1574,5.0,p404R.csv
+358,1.2x1.2,0,6,B,Steatite,DK,797,0.5,p404R.csv
+359,0.65x0.35,6,6,F,Steatite,C,310,6.5,p404R.csv
+360,0.55x0.55,2,11,B,Steatite,D,417,2.92,p404R.csv
+361,1.2x1.2,4,6,B,Steatite,DK,2340,4.5,p404R.csv
+362,,,,B,Steatite,E,1651,,p404R.csv
+363,,3,0,B,Steatite,D,104,3.0,p404R.csv
+364,0.55x?,8,0,B,Steatite,VS,2876,8.0,p404R.csv
+365,1.1x1.1,2,6,B,Steatite,HR,1965,2.5,p404R.csv
+366,0.8x0.8,3,0,B,Steatite,HR,4055,3.0,p404R.csv
+367,0.75x0.75,3,6,B,Steatite,VS,3450,3.5,p404R.csv
+368,0.30x?,4,0,B,Steatite,C,675,4.0,p404R.csv
+369,1.25x1.25,4,6,B,Steatite,C,353,4.5,p404R.csv
+370,1.15x1.15,3,0,B,Steatite,HR,5611,3.0,p404R.csv
+371,0.45x?,10,0,B,Steatite,C,2053,10.0,p404R.csv
+372,1.3x1.3,2,6,B,Steatite,HR,1696,2.5,p404R.csv
+373,1.3x1.2,8,0,B,Steatite,HR,5972,8.0,p404R.csv
+374,1.5x?,2,5,B,Steatite,HR,4355,2.42,p404R.csv
+375,1.4x?,3,0,B,Steatite,VS,1816,3.0,p404R.csv
+376,1.15x1.15,6,0,B,Steatite,HR,4212E,6.0,p404R.csv
+377,1.05x?,5,0,B,Steatite (brown),E,1277,5.0,p404R.csv
+378,0.95x0.95,3,0,B,Steatite,HR,2596,3.0,p404R.csv
+379,,4,3,B,Steatite,HR,5946,4.25,p404R.csv
+380,1.05x1.05,6,0,B,Steatite,HR,4952,6.0,p404R.csv
+381,1.3x1.3,4,6,B,Steatite,VS,1753,4.5,p404R.csv
+382,1.05x1.05,surface,,B,Steatite,L,384,0.0,p404R.csv
+383,1.4,3,0,H,Steatite,E,1886,3.0,p404R.csv
+384,1.2x1.0,1,2,B,Steatite,E,1432,1.17,p404R.csv
+385,1.0x0.2,2,1,B,Steatite,SD,2172,2.08,p404R.csv
+386,1.4x1.4,4,0,B,Steatite,C,2896,4.0,p404R.csv
+387,1.3x1.3,5,0,B,Steatite,B,63,5.0,p404R.csv
+388,0.8x0.2,8,6,B,Steatite,VS,3094,8.5,p404R.csv
+389,0.9x0.7,,,B,Steatite,D,171,,p404R.csv
+390,,9,1,B,Steatite,DM,72,9.08,p404R.csv
+391,0.7x0.35,1,6,F,Steatite,C,51,1.5,p404R.csv
+392,0.3x?,2,0,B,Steatite,VS,2049,2.0,p404R.csv
+393,1.7x1.0,3,0,F,Steatite (black),HR,3130,3.0,p404R.csv
+394,1.5x0.6,6,6,B,Steatite (brown),C,3158,6.5,p404R.csv
+395,1.1x1.1,5,6,B,Steatite,VS,1190,5.5,p404R.csv
+396,,4,0,B,Steatite,HR,5676,4.0,p404R.csv
+397,,12,0,B,Steatite,VS,3227,12.0,p404R.csv
+398,,9,0,F,Steatite,C,1814,9.0,p404R.csv
+399,,,,,,BJ,9,,p404R.csv
+400,1.0x0.95,3,0,B,Steatite,HR,3005,3.0,p404R.csv
+401,1.0x0.65,8,0,F,Steatite,HR,2023,8.0,p404R.csv
+402,1.55x0.5,8,0,F,Steatite (red),HR,6187,8.0,p404R.csv
+403,2.25x0.6,,,F,Steatite,D,262,,p404R.csv
+404,2.4x0.75,7,0,B,Steatite,VS,3546,7.0,p404R.csv
+405,1.85x0.6,2,6,F,Steatite (grey),HR,1050,2.5,p404R.csv
+406,2.1x0.65,8,0,F,Steatite,DM,255,8.0,p404R.csv
+407,1.25x0.55,3,0,F,Steatite (black),DK,1436,3.0,p404R.csv
+408,?x0.4,2,0,F,Steatite,E,2505,2.0,p404R.csv
+409,?x0.4,3,0,F,Steatite,DK,1398,3.0,p404R.csv
+410,0.65x0.4,3,6,F,Steatite,VS,1681,3.5,p404R.csv
+411,0.6x0.45,4,6,F,Steatite (black),D,288,4.5,p404R.csv
+412,0.7x0.45,2,0,D,Steatite (brown),E,2039,2.0,p404R.csv
+413,0.7x0.45,2,0,D,Steatite (brown),E,2039,2.0,p404R.csv
+414,1.05x0.35,4,0,F,Steatite,SD,818,4.0,p404R.csv
+415,0.85x0.4,5,0,F,Steatite (grey),D,114,5.0,p404R.csv
+416,0.8x0.35,1,6,F,Steatite,D,150,1.5,p404R.csv
+417,,4,0,B,Steatite,HR,5167,4.0,p404R.csv
+418,1.1x0.45,3,0,F,Steatite,C,217,3.0,p404R.csv
+419,0.95x0.3,3,0,F,Steatite,HR,5796,3.0,p404R.csv
+420,0.95x0.45,8,0,D,Steatite (black),HR,5147,8.0,p404R.csv
+421,1.45x0.45,3,0,F,Steatite,VS,1082,3.0,p405L.csv
+422,0.95x0.45,6,0,F,Steatite (yellow),HR,6210,6.0,p405L.csv
+423,,1,9,F,Steatite,C,2056,1.75,p405L.csv
+424,1.2x0.4,5,3,F,Steatite,D,207,5.25,p405L.csv
+425,0.95x0.3,6,0,F,Steatite,HR,2780,6.0,p405L.csv
+426,1.55x0.45,2,6,F,Steatite,HR,1574,2.5,p405L.csv
+427,0.9x0.5,4,0,F,Steatite (black),DK,2732,4.0,p405L.csv
+428,0.65x0.4,3,6,F,Steatite,VS,1681,3.5,p405L.csv
+429,1.65x0.6,9,0,F,Steatite,E,2475,9.0,p405L.csv
+430,1.15x0.45,6,0,F,Steatite,HR,1121,6.0,p405L.csv
+431,1.65x0.7,1,0,F,Pottery (red),HR,116,1.0,p405L.csv
+432,?x0.5,4,0,F,Steatite,HR,5260,4.0,p405L.csv
+433,1.2x0.75,4,0,F,Steatite (black),HR,4125,4.0,p405L.csv
+434,?x0.4,2,6,F,Steatite,VS,1694,2.5,p405L.csv
+435,1.3x0.55,5,3,D,Steatite (brown),A,148,5.25,p405L.csv
+436,1.2x0.55,3,6,F,Steatite,HR,2674,3.5,p405L.csv
+437,0.9x0.5,3,2,F,Steatite (black),C,554,3.17,p405L.csv
+438,1.4x0.6,1,0,F,Steatite,E,1095,1.0,p405L.csv
+439,0.95x0.45,8,0,F,Steatite,DK,1638,8.0,p405L.csv
+440,1.3x0.55,5,3,D,Steatite (brown),A,148,5.25,p405L.csv
+441,1.05x0.5,5,0,D,Steatite (brown),HR,5248,5.0,p405L.csv
+442,1.05x0.4,3,0,D,Steatite (black),HR,3732,3.0,p405L.csv
+443,,1,6,B,Steatite,HR,4434,1.5,p405L.csv
+444,1.05x0.45,2,3,F,Steatite,VS,3454,2.25,p405L.csv
+445,?x0.55,5,0,F,Steatite,L,650,5.0,p405L.csv
+446,?x0.5,3,0,F,Steatite,HR,350,3.0,p405L.csv
+447,1.5x0.45,6,4,F,Steatite,VS,2289,6.33,p405L.csv
+448,?x0.85,10,0,F,Steatite,HR,6177,10.0,p405L.csv
+449,1.1x0.5,6,0,F,Steatite,DK,597,6.0,p405L.csv
+450,1.55x0.7,4,5,F,Pottery (red),C,656,4.42,p405L.csv
+451,1.25x?,2,6,B,Steatite,VS,880,2.5,p405L.csv
+452,?x0.25,3,0,F,Steatite,B,290,3.0,p405L.csv
+453,1.2x0.65,3,0,F,Steatite (black),HR,3478,3.0,p405L.csv
+454,,surface,,F,Steatite,L,291,0.0,p405L.csv
+455,?x0.65,4,0,F,Steatite,HR,4373,4.0,p405L.csv
+456,0.6x0.6,5,6,F,Steatite,C,204,5.5,p405L.csv
+457,1.05x0.6,10,0,F,Steatite,VS,3553,10.0,p405L.csv
+458,1.55x0.2,8,4,F,Steatite,SD,1962,8.33,p405L.csv
+459,0.7x?,3,1,D,Steatite,VS,208,3.08,p405L.csv
+460,0.9x0.7,9,6,I,Steatite,VS,2846,9.5,p405L.csv
+461,?x0.6,2,0,F,Steatite,HR,4459,2.0,p405L.csv
+462,?x0.65,6,0,F,Steatite (black),HR,3767,6.0,p405L.csv
+463,?x0.65,3,6,F,Steatite,VS,953,3.5,p405L.csv
+464,1.45x0.6,2,5,F,Steatite,HR,4109,2.42,p405L.csv
+465,1.6x0.65,1,0,F,Steatite,VS,2100,1.0,p405L.csv
+466,1.5x0.65,1,0,F,Steatite,DK,1291,1.0,p405L.csv
+467,1.8x0.75,3,6,F,Steatite (grey),C,1878,3.5,p405L.csv
+468,1.4x0.55,4,0,F,Steatite,HR,4285,4.0,p405L.csv
+469,1.1x0.6,10,0,F,Steatite,HR,3689,10.0,p405L.csv
+470,1.7x0.65,1,6,F,Steatite,HR,4237,1.5,p405L.csv
+471,0.7x0.7,9,0,C,Steatite,HR,2240,9.0,p405L.csv
+472,0.7x0.7,9,0,C,Steatite,HR,2240,9.0,p405L.csv
+473,0.7x0.7,9,0,C,Steatite,HR,2240,9.0,p405L.csv
+474,,4,0,,Steatite,D,263,4.0,p405L.csv
+475,0.7x0.7,3,0,C,Steatite (black),E,904,3.0,p405L.csv
+476,0.7x0.7,3,0,C,Steatite (black),E,904,3.0,p405L.csv
+477,0.6x0.6,,,C,Steatite,C,2631,,p405L.csv
+478,Dm. 1.25,5,0,H,Steatite,VS,3227,5.0,p405L.csv
+479,?,5,0,B,Steatite,SD,533,5.0,p405L.csv
+480,?x0.6,,,B,Steatite (black),E,1007,,p405L.csv
+481,?,,,?,Faience (yellow),,,,p405L.csv
+482,0.55x0.55,9,4,E,Steatite,HR,1400,9.33,p405L.csv
+483,,,,,Faience (yellow),B,731,,p405L.csv
+484,,4,0,?,Steatite,F,30,4.0,p405L.csv
+485,,2,0,B,Steatite,C,40,2.0,p405L.csv
+486,,1,6,,Steatite,C,1287,1.5,p405L.csv
+487,0.65x0.65,,,B,Steatite (black),HR,4394,,p405L.csv
+488,,8,0,,Steatite,B,604,8.0,p405L.csv
+489,?,,,?,Steatite,,,,p405L.csv
+490,,5,0,B,Steatite,HR,2939,5.0,p405L.csv
+491,,2,3,B,Steatite,E,894,2.25,p405R.csv
+492,,6,0,B,Steatite,DK,595,6.0,p405R.csv
+493,1.25x?,2,6,B,Steatite,VS,880,2.5,p405R.csv
+494,1.3x0.7,2,0,F,Steatite,DK,931,2.0,p405R.csv
+495,1.05x?,2,0,B,Steatite (brown),DK,844,2.0,p405R.csv
+496,?x?x0.3,,,B,Steatite (black),DK,,,p405R.csv
+497,,4,0,B (?),Steatite,VS,3331,4.0,p405R.csv
+498,?x0.45,7,0,F,Steatite (black),E,2528,7.0,p405R.csv
+499,,5,0,B,Steatite,DK,2363,5.0,p405R.csv
+500,0.75x0.75,2,9,E,Faience (yellow),D,234,2.75,p405R.csv
+501,0.5x0.5,2,0,E,Faience,HR,2728,2.0,p405R.csv
+502,0.6x0.6,3,4,E,Steatite,HR,5572,3.33,p405R.csv
+503,0.7x0.7,surface,,E,Faience,L,209,0.0,p405R.csv
+504,0.75x0.75,3,0,E,Faience (yellow),HR,5503,3.0,p405R.csv
+505,0.65x0.65,5,0,E,Faience,DM,7,5.0,p405R.csv
+506,0.7x0.7,8,0,E,Faience,HR,6147,8.0,p405R.csv
+507,0.65x0.65,3,0,E,Faience (yellow),HR,4869,3.0,p405R.csv
+508,0.8x0.8,,,C,Steatite,HR,4503,,p405R.csv
+509,0.65x0.65,6,0,E,Faience,HR,6163,6.0,p405R.csv
+510,0.55x0.55,4,0,E,Faience (yellow),HR,5628,4.0,p405R.csv
+511,0.7x0.7,3,0,E,Faience (yellow),HR,5657,3.0,p405R.csv
+512,0.7x0.7,,,F,Faience (yellow),E,1723,,p405R.csv
+513,0.7x0.7,5,0,E,Faience (yellow),VS,1960,5.0,p405R.csv
+514,0.7x0.7,12,0,E,Faience (yellow),HR,1464,12.0,p405R.csv
+515,0.65x0.65,1,6,E,Faience (yellow),E,1989,1.5,p405R.csv
+516,0.65x0.65,surface,,E,Faience (grey),HR,1,0.0,p405R.csv
+517,0.55x?,3,0,,Faience (yellow),C,2927,3.0,p405R.csv
+518,0.6x?,,,E,Faience,MUS,8,,p405R.csv
+519,?x?x0.3,2,9,B,Steatite,D,349,2.75,p405R.csv
+520,0.55x0.55,6,0,E,Steatite (brown),HR,6207,6.0,p405R.csv
+521,0.55x0.55,5,0,E,Faience (yellow),VS,1278,5.0,p405R.csv
+522,?x0.6,surface,,F,Steatite (black),DK,1298,0.0,p405R.csv
+523,?x0.6,5,0,G,Faience (yellow),VS,928,5.0,p405R.csv
+524,,3,0,G,Faience (yellow),B,594,3.0,p405R.csv
+525,,,,G,Faience (yellow),E,1261,,p405R.csv
+526,0.7x0.7,3,6,G,Faience (yellow),E,492,3.5,p405R.csv
+526b,1.1x0.40,3,6,F,Steatite,L,702,3.5,p405R.csv
+527,Dm. 0.75,5,0,J,Steatite,E,1908,5.0,p405R.csv
+528,0.7x0.7,2,0,G,Faience (yellow),HR,3388,2.0,p405R.csv
+528b,0.7x0.75,4,0,E,Faience (yellow),VS,3459,4.0,p405R.csv
+529,2.7x0.25,4,0,A,Ivory,HR,5515,4.0,p405R.csv
+530,?x0.25,3,0,A,Ivory,HR,4985,3.0,p405R.csv
+531,?x0.3,4,0,A,Ivory,DK,2666,4.0,p405R.csv
+532,?x0.3,12,0,A,Ivory,VS,875,12.0,p405R.csv
+533,2.75x0.3,10,0,A,Ivory,VS,958,10.0,p405R.csv
+534,1.35x1.35,8,0,B,Steatite,DK,1543,8.0,p405R.csv
+535,1.2x1.2,2,6,B,Steatite,VS,665,2.5,p405R.csv
+536,1.1x1.1,6,0,B,Steatite,HR,5787,6.0,p405R.csv
+537,1.15x1.15,3,0,B,Steatite,VS,955,3.0,p405R.csv
+538,0.30x?,4,0,B,Steatite,C,2572,4.0,p405R.csv
+539,1.2x1.2,2,0,B,Steatite,DK,121,2.0,p405R.csv
+540,1.25x1.3,5,0,B,Steatite,D,258,5.0,p405R.csv
+541,1.2x1.2,2,0,B,Steatite,HR,49,2.0,p405R.csv
+542,1.2x1.2,6,0,B,Steatite,L,785,6.0,p405R.csv
+543,1.15x1.15,1,0,B,Steatite,HR,4435,1.0,p405R.csv
+544,1.3x1.3,4,0,B,Steatite,DK,3518,4.0,p405R.csv
+545,,,,B,Steatite,HR,2022,,p405R.csv
+546,0.9x?,1,6,B,Steatite,F,47,1.5,p405R.csv
+547,0.9x?,,,B,Steatite,HR,5876,,p405R.csv
+548,1.4x1.4,8,6,B,Steatite,HR,1110,8.5,p405R.csv
+549,1.4x1.4,,,B,Steatite,MUS,1,,p405R.csv
+550,1.2x1.2,2,0,B,Steatite,HR,140,2.0,p405R.csv
+551,0.9x0.25,3,0,B,Steatite,HR,4399,3.0,p405R.csv
+552,1.25x1.25,8,0,B,Steatite,B,428,8.0,p405R.csv
+553,1.55x1.55,4,3,B,Steatite,SD,92,4.25,p405R.csv
+554,,2,0,B,Steatite (black),DK,2651,2.0,p405R.csv
+555,1.4x1.4,17,6,B,Steatite,DM,135,17.5,p405R.csv
+556,0.85x0.85,5,6,B,Steatite,C,2277,5.5,p405R.csv
+557,1.2x1.2,6,0,F,Steatite,VS,623,6.0,p405R.csv
+557b,1.15x1.15,8,5,F,Steatite,B,426,8.42,p405R.csv

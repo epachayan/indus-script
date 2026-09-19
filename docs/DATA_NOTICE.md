@@ -12,11 +12,31 @@ in this repository; `setup.sh` fetches it from the original sources at pinned co
 | Mackay 1938, Further Excavations at Mohenjo-daro (Internet Archive OCR) | out of copyright | Seal find-spots |
 | CDLI data dump (cdli-gh/data) | CDLI terms of use | Proto-Elamite, seal legends, admin texts |
 
-Notes before publishing outputs:
-- `outputs/*.png` render glyphs from the SK Indus Script font. They are git-ignored;
-  do not publish them without the font owner's permission.
-- All of `outputs/` is git-ignored: several tables are derived partly from the GPL-3.0
-  SQL dump. Users regenerate them with `run_all.sh`; CI uploads them as build artifacts.
+Notes before publishing outputs, and what is actually committed (see LICENSE-DATA):
+- **Committed (clean provenance, CC BY 4.0):** `mackay_seal_table.csv`,
+  `marshall_seal_table.csv`, `marshall_seal_table_transcribed.csv`,
+  `findspots_mackay.csv` (own transcription/OCR of public-domain Mackay/Marshall only);
+  `concordance_parpola_G.csv`, `concordance_m77_G_inferred.csv` (built from
+  `indus_website_real_corpus.csv`/`cisi_real_corpus.csv`/`m77_indusscript_real_corpus.csv`
+  via `indus_decipher`, MIT, only - no GPL/CDLI/TLA/font involvement).
+- **`outputs/*.png` are git-ignored and must stay that way**: they render glyphs from
+  the SK Indus Script font. Do not publish them without the font owner's permission.
+- **`inscriptions_ml.csv` is GPL-3.0-tainted and git-ignored**: `export_ml.py` executes
+  part of `objtype.py`, which parses `data/indus-website/population-script.sql` (the
+  GPL-3.0 dump) to fill the `object_type` and `material` columns. Every file built from
+  `inscriptions_ml.csv` inherits this - `constraints.csv`, `affix_profile.csv`,
+  `conditioning_profile.csv`, `conditioning_decay.csv`, `length_control.csv`. Users
+  regenerate all of these with `run_all.sh`; CI uploads them as a (90-day) build
+  artifact, not a durable copy. To redistribute a clean version, drop the
+  `object_type`/`material` columns in `export_ml.py` and regenerate downstream.
+- **`indus_sign_tags.csv` is git-ignored**: descends from the same font-based shape
+  pipeline as the PNGs (`features.py`'s HOG clustering on rendered glyphs). The columns
+  are the author's own classification labels and geometric stats, not font artwork, but
+  this hasn't been cleared for redistribution.
+- **`seal_legend_comparison.csv` and `typology_metrics.csv` are git-ignored**: built
+  from the CDLI dump and/or the Linear A/B and TLA corpora, each under its own terms
+  (CDLI terms of use; TLA CC-BY-SA requires derivatives to carry the same licence).
+  Not cleared for redistribution.
 - Readings of individual inscriptions ultimately come from Parpola (CISI), Mahadevan
   (1977) and related corpora; cite them in any write-up.
 

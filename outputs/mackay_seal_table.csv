@@ -1,0 +1,710 @@
+no,type,dims_in,material,block,house,room,street,level_ft,field_no,pdf_page,area,level_dk_ft,phase_estimate
+1,E,0.7x0.68x0.23,V. Paste,,,,,surface,DK 10436,45,DK,,surface
+2,B,0.94x0.92x0.3,Steatite,,,,West St.,+2.0,DK 10323,45,DK,2.0,Late I
+3,B,1.05x1.12x0.2,Steatite,,,,,surface,DK 10799,45,DK,,surface
+4,F,1.42x0.7x0.45,Steatite,9,III,26,,-2.0,DK 3431,45,DK,-2.0,Late I
+5,B,0.9x0.9x0.28,Steatite,1,VI,51,,-2.2,DK 5223,45,DK,-2.2,Late I
+6,?,0.77x0.49x0.3,Steatite,8A,,42,,-3.2,DK 10087,46,DK,-3.2,Late I
+7,B,1.12x1.12x0.25,Steatite,9,III,29,,-2.4,DK 3379,46,DK,-2.4,Late I
+8,B,1.3x1.3x0.45,Steatite,,,,,-2.4,DK 10014,46,DK,-2.4,Late I
+9,B,1.6x?x0.4,Steatite,19,,13,,-2.5,DK 10508,46,DK,-2.5,Late I
+10,B,0.9x0.9x0.28,Steatite,,,,Central St.,-2.5,DK 11617,46,DK,-2.5,Late I
+11,B,1.33x1.32x0.35,Steatite,10,III,1,,-3.0,DK 4663,46,DK,-3.0,Late I
+12,B,0.97x0.97x0.35,Steatite,7,V,63,,-2.9,DK 3353,46,DK,-2.9,Late I
+13,B,1.05x1.05x0.3,Steatite,15,VI,29,,-3.5,DK 11212,46,DK,-3.5,Late I
+14,B,0.9x0.9x0.2,Steatite,18,,88,,-3.5,DK 10157,46,DK,-3.5,Late I
+15,B,1.11x1.11x0.31,Steatite,20,I,6,,-3.5,DK 12523,46,DK,-3.5,Late I
+16,B,0.61x0.61x0.25,Silver,9,XII,95,,-3.5,DK 10302,46,DK,-3.5,Late I
+17,E,0.6x0.6x0.16,Paste,8,III,25,,-3.6,DK 10511,46,DK,-3.6,Late I
+18,B,1.1x1.05x0.32,Steatite,9,I,36,,-3.2,DK 3285,46,DK,-3.2,Late I
+19,B,1.85x1.85x0.5,Steatite,7,V,53,,-3.7,DK 3356,46,DK,-3.7,Late I
+20,F,?x0.35x?,Steatite,8,II,22,,-4.2,DK 3335,46,DK,-4.2,Late I
+21,B,0.8x0.8x0.31,Steatite,22,,5,,-3.7,DK 10149,46,DK,-3.7,Late I
+22,B,1.0x1.0x0.28,Steatite,8A,,44,,-4.0,DK 10753,46,DK,-4.0,Late I
+23,B,1.19x1.19x0.36,Steatite,22,II,10,,-3.8,DK 10107,46,DK,-3.8,Late I
+24,B,1.36x1.39x0.38,Steatite,18,,107,,-3.9,DK 12688,46,DK,-3.9,Late I
+25,F,0.51x0.32,Steatite,6A,,37,,-4.0,DK 10334,46,DK,-4.0,Late I
+26,B,1.25x1.35x0.4,Steatite,9,III,35,,-3.7,DK 3373,46,DK,-3.7,Late I
+27,B,1.3x1.25x0.34,Steatite,18,,76,,-4.2,DK 10889,46,DK,-4.2,Late I
+28,F,1.6x0.85x0.3,Steatite,9,VII,19,,-4.1,DK 3631,46,DK,-4.1,Late I
+29,B,1.17x1.15x0.39,Steatite,17,III,29,,-4.0,DK 10895,46,DK,-4.0,Late I
+30,D,1.31x0.65x0.4,Steatite,21,II,87,,-4.4,DK 10355,46,DK,-4.4,Late I
+31,B,1.05x1.04x0.34,Steatite,14,III,25,,-3.9,DK 10559,46,DK,-3.9,Late I
+32,B,1.6x1.65x0.35,Steatite,7,III,41,,-4.3,DK 3361,46,DK,-4.3,Late I
+33,B,1.38x1.58x0.5,Steatite,7,V,52,,-4.3,DK 3567,46,DK,-4.3,Late I
+34,B,1.33x1.16x0.45,Steatite,8,III,30,,-4.3,DK 10893,46,DK,-4.3,Late I
+35,B,0.75x0.75x0.22,Steatite,9,I,47,,-4.2,DK 10566,46,DK,-4.2,Late I
+36,E,1.35x0.66x0.39,Steatite,21,IV,27,,-4.4,DK 10356,46,DK,-4.4,Late I
+37,E,0.7x0.67x0.22,Faience,8A,,34,,-4.7,DK 10763,46,DK,-4.7,Late I
+38,F,0.96x0.34x0.24,Steatite,,,,Bet. Bls. 3 and 5,-4.5,DK 3504,46,DK,-4.5,Late I
+39,F,0.66x0.3x0.24,Steatite,9,I,47,,-4.8,DK 10567,47,DK,-4.8,Late I
+40,B,0.35 thick,Steatite,8,II,21,,-4.5,DK 3344,47,DK,-4.5,Late I
+41,F,1.0x0.5x0.4,Steatite,18,,57,,-4.5,DK 10231,47,DK,-4.5,Late I
+42,B,1.0x0.75x0.3,Steatite,,VIII,,St. bet. Bls. 7 & 9,-4.6,DK 3439,47,DK,-4.6,Late I
+43,F,1.35x0.55x0.44,Steatite,25,I,13,,-4.7,DK 10101,47,DK,-4.7,Late I
+44,F,1.23x0.53x0.38,Steatite,16,II,11,,-4.7,DK 11625,47,DK,-4.7,Late I
+45,B,0.8x0.78x0.25,Steatite,8A,,44,,-4.5,DK 10829,47,DK,-4.5,Late I
+46,F,1.35x0.42x0.3,Steatite,9,III,30,,-4.9,DK 3530,47,DK,-4.9,Late I
+47,B,0.8x0.8x0.25,Steatite,8A,,41,,-4.6,DK 12018,47,DK,-4.6,Late I
+49,F,1.03x0.33x0.28,Steatite,9,I,46,,-4.7,DK 10609,47,DK,-4.7,Late I
+50,B,1.0x0.98x0.3,Steatite,15,V,22,,-4.6,DK 10208,47,DK,-4.6,Late I
+51,B,1.3x1.3x0.36,Steatite,19,,7,,-4.7,DK 12418,47,DK,-4.7,Late I
+52,B,1.07x1.09x0.3,Steatite,6A,,38,,-4.8,DK 10359,47,DK,-4.8,Late I
+53,B,?x?x0.3,Steatite,22,,10,,-4.6,DK 10271,47,DK,-4.6,Late I
+54,B,1.29x?x0.35,Steatite,16,II,11,,-4.6,DK 11649,47,DK,-4.6,Late I
+55,F,0.62x0.38x0.25,Steatite,7,V,54,,-5.2,DK 3329,47,DK,-5.2,Late I
+56,B,0.9x0.9x0.26,Steatite,22,,3,,-4.7,DK 10974,47,DK,-4.7,Late I
+57,B,0.9x0.9x0.26,Steatite,,,,Central St.,-4.7,DK 10366,47,DK,-4.7,Late I
+58,B,0.7x0.7x0.34,Steatite,13,III,11,,-4.6,DK 11439,47,DK,-4.6,Late I
+59,?,0.7x0.62x0.3,Steatite,17,III,23,,-4.7,DK 11550,47,DK,-4.7,Late I
+60,B,0.82x0.82x0.28,Steatite,19,,9,,-4.7,DK 12110,47,DK,-4.7,Late I
+61,F,0.91x0.45x0.3,Steatite,20,I,1,,-4.9,DK 12344,47,DK,-4.9,Late I
+62,B,1.2x0.95x0.3,Steatite,9,VI,30,,-4.9,DK 4479,47,DK,-4.9,Late I
+63,F,1.0x?x0.3,Steatite,16,II,11,,-5.2,DK 10471,47,DK,-5.2,Late I
+64,B,1.88x1.98x0.28,Steatite,9,VII,52,,-4.9,DK 4671,47,DK,-4.9,Late I
+65,B,1.3x1.3x0.5,Steatite,7,V,52,,-5.0,DK 3399,47,DK,-5.0,Late I
+66,B,0.8x0.8x0.2,Steatite,16,II,11,,-5.0,DK 11690,47,DK,-5.0,Late I
+67,B,1.0x0.98x0.3,Steatite,15,IV,17,,-5.0,DK 11126,47,DK,-5.0,Late I
+68,B,2.07x?x0.5,Steatite,17,III,23,,-5.2,DK 11713,47,DK,-5.2,Late I
+69,B,0.85x0.85x0.3,Steatite,5,I,7,,-5.3,DK 3432,47,DK,-5.3,Late I
+70,B,1.17x1.17x0.36,Steatite,18,,78,,-5.4,DK 12342,47,DK,-5.4,Late I
+72,F,0.53x0.39x0.27,Steatite,14,III,24,,-5.4,DK 11433,47,DK,-5.4,Late I
+73,F,0.7x0.4x0.2,Faience,9A,VIII,48,,-6.0,DK 12703,47,DK,-6.0,Late II
+74,B,1.45x1.45x0.32,Steatite,23,II,11,,-5.6,DK 11862,48,DK,-5.6,Late I
+75,B,1.36x1.36x0.25,Steatite,13,III,13,,-5.6,DK 11794,48,DK,-5.6,Late I
+76,B,1.28x1.28x0.38,Steatite,18,,88,,-5.5,DK 11997,48,DK,-5.5,Late I
+77,F,1.3x0.58x0.4,Steatite,7,VI,76,,-5.7,DK 3957,48,DK,-5.7,Late I
+78,A,1.65x0.55,Faience,25,I,4,,-5.9,DK 10079,48,DK,-5.9,Late I
+79,B,1.05x1.05x0.34,Steatite,7,II,87,,-5.6,DK 3472,48,DK,-5.6,Late I
+80,B,1.25x1.25x0.3,Steatite,8,III,30,,-5.6,DK 10923,48,DK,-5.6,Late I
+81,B,0.92x0.9x0.25,Steatite,22,,2,,-5.6,DK 10905,48,DK,-5.6,Late I
+82,B,0.98x1.0x0.3,Steatite,22,,2,,-5.6,DK 10906,48,DK,-5.6,Late I
+83,B,1.12x1.09x0.35,Steatite,18,,111,,-5.7,DK 11249,48,DK,-5.7,Late I
+84,B,1.45x1.45x0.4,Steatite,18,,44,,-5.6,DK 11284,48,DK,-5.6,Late I
+85,B,1.25x1.25x0.3,Steatite,14,II,8,,-5.9,DK 11030,48,DK,-5.9,Late I
+86,B,1.24x1.24x0.46,Steatite,20,II,13,,-5.7,DK 12596,48,DK,-5.7,Late I
+87,B,0.9x0.9x0.26,Steatite,18,,99,,-5.8,DK 11868,48,DK,-5.8,Late I
+88,B,0.98x0.98x0.28,Steatite,,,,First St. (30),-5.9,DK 10279,48,DK,-5.9,Late I
+89,B,?x?x0.14,Steatite,22,,4,,-5.8,DK 10973,48,DK,-5.8,Late I
+90,B,0.84x0.84x0.25,Steatite,26,I,6,,-5.9,DK 10091,48,DK,-5.9,Late I
+91,B,1.13x1.13x0.38,Steatite,22,,4,,-5.8,DK 10963,48,DK,-5.8,Late I
+92,F,1.6x0.66x0.62,Steatite,3,V,8,,-5.9,DK 3987,48,DK,-5.9,Late I
+93,F,0.7x0.45x0.25,Steatite,16,II,19,,-5.1,DK 10222,48,DK,-5.1,Late I
+94,B,1.3x0.53x0.4,Steatite,10,III,66,,-6.0,DK 4688,48,DK,-6.0,Late II
+95,B,0.86x0.85x0.32,Steatite,23,II,8,,-6.1,DK 3500,48,DK,-6.1,Late II
+96,B,0.7x0.7x0.26,Steatite,9,VIII,15,,-6.4,DK 12123,48,DK,-6.4,Late II
+97,F,1.04x0.6x0.35,Steatite,15,VI,27,,-6.1,DK 11375,48,DK,-6.1,Late II
+98,B,1.59x?x0.4,Steatite,21,I,2,,-6.1,DK 10914,48,DK,-6.1,Late II
+99,B,1.1x1.1x0.34,Steatite,18,,39,,-6.1,DK 11359,48,DK,-6.1,Late II
+100,D,1.15x0.7x0.4,Steatite,9,VIII,16,,-6.1,DK 7995,48,DK,-6.1,Late II
+101,F,1.53x0.68x0.5,Steatite,25,I,10,,-6.3,DK 11378,48,DK,-6.3,Late II
+102,B,1.13x1.13x0.33,Steatite,8,III,47,,-6.1,DK 10948,48,DK,-6.1,Late II
+103,B,1.4x1.4x0.4,Steatite,9,VIII,21,,-6.1,DK 7945,48,DK,-6.1,Late II
+104,B,1.0x1.0x0.3,Steatite,7,VIII,28,,-6.1,DK 4180,48,DK,-6.1,Late II
+105,B,1.0x1.0x0.25,Steatite,9,VIII,21,,-6.1,DK 7956,48,DK,-6.1,Late II
+106,F,1.22x0.56x0.4,Steatite,8,III,28,,-6.2,DK 11877,48,DK,-6.2,Late II
+107,B,1.08x1.1x0.3,Steatite,1,IV,41,,-6.3,DK 4695,49,DK,-6.3,Late II
+108,B,1.2x1.2x0.35,Steatite,21,IV,23,,-6.4,DK 12318,49,DK,-6.4,Late II
+109,B,1.23x1.23x0.29,Steatite,15,IV,17,,-6.3,DK 11196,49,DK,-6.3,Late II
+110,B,1.07x1.07x0.29,Steatite,15,VI,29,,-6.3,DK 11329,49,DK,-6.3,Late II
+111,B,1.02x1.01x0.3,Steatite,20,I,1,,-6.4,DK 12963,49,DK,-6.4,Late II
+112,B,?x?x0.3,Steatite,7,VIII,22,,-6.4,DK 4028,49,DK,-6.4,Late II
+113,B,0.72x0.71x0.23,Steatite,20,II,19,,-6.4,DK 13036,49,DK,-6.4,Late II
+114,B,1.1x1.05x0.29,Steatite,,,,First St. (28),-6.4,DK 10317,49,DK,-6.4,Late II
+115,B,1.09x1.09x0.38,Steatite,,,,West St.,-6.4,DK 11374,49,DK,-6.4,Late II
+116,B,0.85x?x0.28,Steatite,23,II,11,,-6.6,DK 11845,49,DK,-6.6,Late II
+117,B,1.1x?x0.3,Steatite,,,,First St. (30),-6.5,DK 10289,49,DK,-6.5,Late II
+118,F,?x0.5x0.3,Steatite,7,III,42,,-6.5,DK 7921,49,DK,-6.5,Late II
+119,B,1.6x?x0.35,Steatite,26,I,5,,-6.7,DK 10551,49,DK,-6.7,Late II
+120,F,1.63x0.45x0.35,Steatite,9,IX,75,,-6.5,DK 10400,49,DK,-6.5,Late II
+121,B,1.05x1.05x0.25,Steatite,,,,,-6.5,DK 7908,49,DK,-6.5,Late II
+122,B,0.91x0.91x0.3,Steatite,,,,West St.,-6.6,DK 11373,49,DK,-6.6,Late II
+123,B,1.25x1.25x0.33,Steatite,26,I,2,,-6.6,DK 10965,49,DK,-6.6,Late II
+124,B,1.21x1.21x0.34,Steatite,,,,First St. (30),-6.6,DK 10460,49,DK,-6.6,Late II
+125,F,0.98x0.38x0.3,Steatite,21,III,31,,-6.6,DK 10915,49,DK,-6.6,Late II
+126,B,1.01x1.01x0.27,Steatite,9,VIII,10,,-6.7,DK 7993,49,DK,-6.7,Late II
+127,B,1.17x1.17x0.39,Steatite,21,IV,27,,-6.6,DK 12356,49,DK,-6.6,Late II
+128,B,1.3x1.27x0.37,Steatite,8A,,44,,-6.6,DK 10916,49,DK,-6.6,Late II
+129,B,1.2x1.2x0.3,Steatite,16,II,15,,-6.8,DK 11349,49,DK,-6.8,Late II
+130,B,1.48x1.45x0.34,Steatite,25,I,6,,-6.7,DK 11358,49,DK,-6.7,Late II
+131,B,1.0x0.95x0.3,Steatite,1,V,43,,-6.6,DK 4812,49,DK,-6.6,Late II
+132,B,1.1x1.1x0.35,Steatite,18,,87,,-6.7,DK 12222,49,DK,-6.7,Late II
+133,D,1.35x0.57x0.38,Steatite,9,VIII,20,,-6.8,DK 8037,49,DK,-6.8,Late II
+134,B,1.15x1.15x0.37,Steatite,9,XII,92,,-6.8,DK 11298,49,DK,-6.8,Late II
+135,B,0.7x0.7x0.45,Steatite,9,IV,6,,-6.8,DK 4085,49,DK,-6.8,Late II
+136,B,1.0x1.0x0.28,Steatite,23,I,2,,-6.7,DK 11607,49,DK,-6.7,Late II
+137,B,1.1x0.95x0.3,Steatite,7,IX,31,,-6.6,DK 4624,49,DK,-6.6,Late II
+138,F,1.6x0.58x0.48,Steatite,7,VI,61,,-6.9,DK 4181,49,DK,-6.9,Late II
+139,B,0.89x0.85x0.29,Steatite,18,,87,,-6.8,DK 12202,49,DK,-6.8,Late II
+140,B,1.32x1.32x0.32,Steatite,,,,Bet. Bls. 4 & 7,-7.0,DK 5462,50,DK,-7.0,Late II
+141,B,1.05x1.08x0.25,Steatite,7,VIII,21,,-7.0,DK 4052,50,DK,-7.0,Late II
+142,D,1.35x0.56x0.4,Steatite,,,,Bet. Bls. 14 & 15,-7.1,DK 11456,50,DK,-7.1,Late II
+143,B,0.75x0.75x0.28,Steatite,18,,5,,-7.0,DK 13023,50,DK,-7.0,Late II
+144,B,0.75x0.75x0.28,Steatite,18,,17,,-7.1,DK 11026,50,DK,-7.1,Late II
+145,B,1.05x1.05x0.32,Steatite,18,,68,,-7.2,DK 11177,50,DK,-7.2,Late II
+146,B,1.42x1.4x0.3,Steatite,4,,13,,-7.1,DK 4182,50,DK,-7.1,Late II
+147,B,0.9x0.95x0.25,Steatite,,,,First St. (30),-7.1,DK 10483,50,DK,-7.1,Late II
+148,B,?x?x0.72,Steatite,4,,3,,-7.1,DK 10281,50,DK,-7.1,Late II
+150,B,1.25x?x0.37,Steatite,18,,17,,-7.2,DK 10950,50,DK,-7.2,Late II
+151,?,1.1x0.7x0.75,Steatite,17,II,13,,-7.2,DK 11961,50,DK,-7.2,Late II
+152,B,0.65x0.65x0.25,Steatite,5,I,2,,-7.3,DK 3930,50,DK,-7.3,Late II
+153,B,1.2x1.2x0.33,Steatite,,,,Surface (locus),-7.3,DK 11402,50,DK,-7.3,Late II
+154,B,0.9x0.9x0.25,Steatite,8,III,9,,-7.3,DK 7948,50,DK,-7.3,Late II
+155,B,0.59x0.59x0.15,Steatite,9,VIII,14,,-7.1,DK 8014,50,DK,-7.1,Late II
+156,B,1.1x1.15x0.3,Steatite,7,II,89,,-7.2,DK 3615,50,DK,-7.2,Late II
+157,B,1.15x1.15x0.3,Steatite,8,III,9,,-7.3,DK 7947,50,DK,-7.3,Late II
+158,B,0.72x0.72x0.29,Steatite,,,,West St.,-7.4,DK 11395,50,DK,-7.4,Late II
+159,F,1.29x0.45x0.35,Steatite,7,II,29,,-7.4,DK 3540,50,DK,-7.4,Late II
+160,B,0.76x0.76x0.3,Steatite,18,,54,,-7.5,DK 11746,50,DK,-7.5,Late II
+161,B,0.76x0.76x0.22,Steatite,9,VIII,21,,-7.4,DK 7990,50,DK,-7.4,Late II
+162,F,1.2x0.5x0.3,Steatite,,,,Bet. Bls. 12 & 12A,-7.4,DK 4794,50,DK,-7.4,Late II
+163,B,?x?x0.51,Steatite,7,V,64,,-7.5,DK 5656,50,DK,-7.5,Late II
+164,F,1.23x0.59x0.38,Steatite,9,VIII,10,,-7.5,DK 8038,50,DK,-7.5,Late II
+165,B,0.65x0.65x0.2,Steatite,13,III,13,,-7.6,DK 11714,50,DK,-7.6,Late II
+166,B,1.05x1.05x0.3,Steatite,23,III,14,,-7.6,DK 12504,50,DK,-7.6,Late II
+167,B,1.08x?x0.34,Steatite,23,II,13,,-7.5,DK 11729,50,DK,-7.5,Late II
+168,B,1.2x1.2x0.35,Steatite,21,IV,23,,-7.6,DK 12138,50,DK,-7.6,Late II
+169,B,1.7x1.7x0.36,Steatite,13,III,18,,-7.6,DK 11275,50,DK,-7.6,Late II
+170,F,1.1x0.45x0.31,Steatite,6,I,3,,-7.7,DK 3734,50,DK,-7.7,Late II
+171,B,1.06x1.06x0.35,Steatite,18,,74,,-7.6,DK 11502,50,DK,-7.6,Late II
+172,E,0.6x0.58x0.15,Steatite,10,II,27,,-7.8,DK 4773,50,DK,-7.8,Late II
+173,C,0.68x0.68x0.33,Steatite,18,,3,,-7.6,DK 12153,50,DK,-7.6,Late II
+174,B,1.72x?x0.49,Steatite,,,,West St.,-7.7,DK 12124,51,DK,-7.7,Late II
+175,B,0.8x0.8x0.2,Steatite,16,I,10,,-7.6,DK 11635,51,DK,-7.6,Late II
+176,B,0.61x0.61x0.23,Steatite,,,,Central St.,-7.7,DK 11756,51,DK,-7.7,Late II
+177,B,1.32x1.38x0.4,Steatite,10,III,56,,-7.7,DK 5371,51,DK,-7.7,Late II
+178,B,1.4x1.4x0.38,Steatite,9,VIII,21,,-7.5,DK 8054,51,DK,-7.5,Late II
+179,B,1.06x1.25x0.4,Steatite,18,,47,,-7.7,DK 12208,51,DK,-7.7,Late II
+180,B,1.25x1.25x0.4,Steatite,7,IX,29,,-7.9,DK 7920,51,DK,-7.9,Late II
+181,B,0.85x0.79x0.19,Steatite,,,,Central St.,-7.9,DK 14921,51,DK,-7.9,Late II
+182,B,?x?x0.32,Steatite,17,I,6,,-7.9,DK 11908,51,DK,-7.9,Late II
+183,F,1.15x0.47x0.32,Steatite,21,I,1,,-7.8,DK 11870,51,DK,-7.8,Late II
+184,B,1.31x1.31x0.35,Steatite,,,,First St. (24),-7.8,DK 10712,51,DK,-7.8,Late II
+185,B,0.95x0.95x0.29,Steatite,,,,Bet. Bls. 7 & 8,-8.0,DK 3477,51,DK,-8.0,Late II
+186,B,0.96x0.92x0.3,Steatite,,,,Bet. Bls. 1 (III) & 7,-8.0,DK 6627,51,DK,-8.0,Late II
+187,B,1.19x1.19x0.34,Steatite,16,I,9,,-8.0,DK 11557,51,DK,-8.0,Late II
+188,B,0.42x0.42x0.15,Steatite,13,III,17,,-8.0,DK 11340,51,DK,-8.0,Late II
+189,C,1.2x1.2x0.45,Steatite,21,IV,27,,-8.1,DK 12109,51,DK,-8.1,Late II
+190,B,1.3x1.3x0.26,Steatite,18,,20,,-7.9,DK 11245,51,DK,-7.9,Late II
+191,B,1.15x1.15x0.35,Steatite,7,II,88,,-8.1,DK 3617,51,DK,-8.1,Late II
+192,B,1.11x?x0.34,Steatite,17,III,24,,-8.1,DK 12326,51,DK,-8.1,Late II
+193,B,1.02x1.05x0.23,Steatite,,,,Bet. Bls. 1 (IV) & 10,-8.1,DK 5227,51,DK,-8.1,Late II
+194,B,1.38x?x0.39,Steatite,18,,87,,-8.1,DK 12324,51,DK,-8.1,Late II
+195,B,0.92x0.92x0.21,Steatite,18,,80,,-8.1,DK 12281,51,DK,-8.1,Late II
+196,B,0.62x0.61x0.23,Steatite,18,,32,,-8.1,DK 12318,51,DK,-8.1,Late II
+197,B,1.56x1.55x0.5,Steatite,6,III,21,,-8.1,DK 3879,51,DK,-8.1,Late II
+198,B,1.06x1.05x0.38,Steatite,9,VIII,14,,-8.2,DK 8100,51,DK,-8.2,Late II
+199,B,0.65x0.65x0.25,Steatite,6,III,12,,-8.3,DK 3649,51,DK,-8.3,Late II
+200,F,0.9x0.5x0.33,Steatite,,,,Bet. Bls. 1 (III) & 2,-8.2,DK 4379,51,DK,-8.2,Late II
+201,B,0.94x0.6x0.28,Steatite,18,,41,,-8.4,DK 12160,51,DK,-8.4,Late II
+202,B,1.08x1.08x0.3,Steatite,6A,,41,,-8.2,DK 11216,51,DK,-8.2,Late II
+203,B,0.7x0.7x0.2,Steatite,18,,75,,-8.3,DK 11366,51,DK,-8.3,Late II
+204,F,1.3x0.65x0.4,Steatite,9,VII,17,,-8.3,DK 3937,51,DK,-8.3,Late II
+205,F,1.46x0.54x0.37,Steatite,21,III,18,,-8.6,DK 11264,51,DK,-8.6,Late III
+206,B,1.33x?x0.35,Steatite,,,,Bet. Bls. 27 & 28,-8.3,DK 11860,51,DK,-8.3,Late II
+207,B,1.4x1.45x0.4,Steatite,21,III,21,,-8.4,DK 11184,52,DK,-8.4,Late II
+208,B,1.18x1.18x0.3,Steatite,,,,Bet. Bls. 7 (I) & 10,-8.3,DK 4648,52,DK,-8.3,Late II
+209,B,?x?x0.07,Steatite,7,III,39,,-8.2,DK 5644,52,DK,-8.2,Late II
+210,B,0.91x?x?,Steatite,,,,Central St.,-8.5,DK 11386,52,DK,-8.5,Late III
+211,B,1.01x1.01x0.31,Steatite,9,IX,63,,-8.3,DK 12654,52,DK,-8.3,Late II
+212,B,0.65x0.65x0.25,Steatite,6,III,12,,-8.3,DK 3649,52,DK,-8.3,Late II
+213,F,1.2x0.46x0.34,Steatite,9,IX,65,,-8.4,DK 12668,52,DK,-8.4,Late II
+214,B,1.05x1.05x0.35,Steatite,7,I,6,,-8.3,DK 5912,52,DK,-8.3,Late II
+215,B,0.9x0.81x0.28,Steatite,9,XII,94,,-8.3,DK 12618,52,DK,-8.3,Late II
+216,B,1.11x1.08x0.3,Steatite,6A,,36,,-8.3,DK 12293,52,DK,-8.3,Late II
+217,B,1.06x0.7x0.34,Steatite,7,III,44,,-8.3,DK 7936,52,DK,-8.3,Late II
+218,B,0.78x0.78x0.37,Steatite,9,IX,63,,-8.2,DK 12657,52,DK,-8.2,Late II
+219,B,0.78x0.78x0.25,Steatite,9,X,88,,-8.4,DK 12182,52,DK,-8.4,Late II
+220,D,0.8x0.4x0.2,Steatite,9,VII,47,,-8.3,DK 5748,52,DK,-8.3,Late II
+221,F,1.11x0.4x0.29,Steatite,7,V,63,,-8.5,DK 5559,52,DK,-8.5,Late III
+222,B,1.05x1.05x0.32,Steatite,15,I,5,,-8.4,DK 12050,52,DK,-8.4,Late II
+223,B,0.91x?x0.43,Steatite,,,,First St. (29),-8.7,DK 11364,52,DK,-8.7,Late III
+224,B,1.02x0.99x0.29,Steatite,8A,,41,,-8.4,DK 12967,52,DK,-8.4,Late II
+225,B,2.25x2.25x0.53,Steatite,21,III,21,,-8.6,DK 11213,52,DK,-8.6,Late III
+226,B,0.6x0.6x0.02,Steatite,9,VI,36,,-8.4,DK 7952,52,DK,-8.4,Late II
+227,F,1.45x0.68x0.52,Steatite,,,,Bet. Bls. 1 (IV) and 10,-8.5,DK 4741,52,DK,-8.5,Late III
+228,B,1.7x1.25x0.5,Steatite,6A,,32,,-8.5,DK 10863,52,DK,-8.5,Late III
+229,B,1.3x1.2x0.55,Steatite,9,IV,6,,-8.4,DK 8186,52,DK,-8.4,Late II
+230,F,1.61x0.73x0.61,Steatite,9A,VIII,59,,-8.4,DK 12965,52,DK,-8.4,Late II
+231,B,1.2x1.05x0.3,Steatite,8,I,8,,-8.6,DK 8024,52,DK,-8.6,Late III
+232,B,1.25x1.25x0.48,Steatite,7,II,89,,-8.7,DK 3589,52,DK,-8.7,Late III
+233,B,1.15x1.15x0.38,Steatite,29,I,21,,-8.7,DK 12117,52,DK,-8.7,Late III
+234,B,1.0x1.0x0.3,Steatite,9,IX,65,,-8.7,DK 12644,52,DK,-8.7,Late III
+235,B,1.2x?x0.28,Steatite,6,III,21,,-8.9,DK 3882,52,DK,-8.9,Late III
+236,F,0.98x0.49x0.31,Paste,8,III,30,,-8.8,DK 12286,52,DK,-8.8,Late III
+237,B,1.06x1.06x0.31,Steatite,9,IX,65,,-8.8,DK 12689,52,DK,-8.8,Late III
+238,B,1.19x1.19x0.4,Steatite,18,,21,,-8.8,DK 12370,52,DK,-8.8,Late III
+239,B,0.75x0.75x0.25,Steatite,1,VI,53,,-8.7,DK 5514,52,DK,-8.7,Late III
+240,F,1.2x0.47x0.38,Steatite,9A,V,73,,-8.7,DK 8265,53,DK,-8.7,Late III
+241,B,1.1x?x0.3,Steatite,9,VI,31,,-8.8,DK 8075,53,DK,-8.8,Late III
+242,B,1.05x1.05x0.32,Steatite,10,II,25,,-8.8,DK 6500,53,DK,-8.8,Late III
+243,B,1.4x?x0.33,Steatite,12,V,90,,-8.8,DK 4747,53,DK,-8.8,Late III
+244,B,0.75x0.75x0.25,Steatite,9,IX,64,,-8.8,DK 12783,53,DK,-8.8,Late III
+245,B,?x?x0.39,Steatite,9,III,29,,-8.8,DK 8231,53,DK,-8.8,Late III
+246,B,0.95x0.95x0.37,Steatite,7,IX,30,,-9.0,DK 7997,53,DK,-9.0,Late III
+247,B,1.72x1.70x0.5,Steatite,13,III,21,,-9.3,DK 12070,53,DK,-9.3,Late III
+248,F,0.98x0.49x0.31,V. Paste,8,III,30,,-8.8,DK 12286,53,DK,-8.8,Late III
+249,B,1.0x1.0x0.34,Steatite,14,IV,26,,-8.9,DK 11846,53,DK,-8.9,Late III
+250,B,0.81x0.81x0.26,Steatite,8,III,46,,-9.0,DK 12486,53,DK,-9.0,Late III
+251,B,1.15x1.15x0.32,Steatite,29,I,1,,-9.0,DK 12159,53,DK,-9.0,Late III
+252,B,0.86x0.86x0.29,Steatite,16,I,9,,-9.0,DK 11491,53,DK,-9.0,Late III
+253,B,1.05x1.05x0.25,Steatite,9,VIII,15,,-9.2,DK 8139,53,DK,-9.2,Late III
+254,B,0.9x0.86x0.28,Steatite,,,,Bet. Bls. 6 & 8,-9.2,DK 10273,53,DK,-9.2,Late III
+255,B,1.06x1.06x0.35,Steatite,22,,2,,-9.4,DK 11938,53,DK,-9.4,Late III
+256,B,0.8x0.8x0.25,Steatite,17,I,3,,-9.0,DK 12047,53,DK,-9.0,Late III
+257,B,0.85x0.82x0.22,Steatite,4,,13,,-9.1,DK 3416,53,DK,-9.1,Late III
+258,B,1.13x1.13x0.36,Steatite,17,I,7,,-9.2,DK 12194,53,DK,-9.2,Late III
+259,B,1.4x?x0.34,Steatite,29,I,1,,-9.2,DK 12245,53,DK,-9.2,Late III
+260,B,1.11x1.15x0.42,Steatite,4,,13,,-9.3,DK 3421,53,DK,-9.3,Late III
+261,B,0.9x0.9x0.31,Steatite,9,X,80,,-9.3,DK 12779,53,DK,-9.3,Late III
+262,B,0.92x?x0.25,Steatite,7,I,13,,-9.5,DK 4815,53,DK,-9.5,Late III
+263,B,1.05x1.03x0.31,Steatite,10,II,25,,-9.4,DK 5924,53,DK,-9.4,Late III
+264,B,1.25x1.29x0.3,Steatite,,,,West St.,-9.8,DK 12294,53,DK,-9.8,Late III
+265,B,0.88x0.88x0.25,Steatite,,,,Bet. Bls. 3 & 4,-9.6,DK 4562,53,DK,-9.6,Late III
+266,F,1.0x0.6x0.7,Steatite,,,,First St. (31),-9.5,DK 11221,53,DK,-9.5,Late III
+267,B,1.12x1.08x0.32,Steatite,9,IX,59,,-9.5,DK 12763,53,DK,-9.5,Late III
+268,B,0.92x0.94x0.23,Steatite,9A,VIII,44,,-9.3,DK 12775,53,DK,-9.3,Late III
+269,B,1.2x1.14x0.34,Steatite,9,XI,75,,-9.3,DK 12498,53,DK,-9.3,Late III
+270,B,0.7x0.7x0.22,Steatite,23,I,2,,-9.8,DK 11926,53,DK,-9.8,Late III
+271,B,1.32x1.37x0.4,Steatite,,,,First St. (24),-9.5,DK 12593,53,DK,-9.5,Late III
+272,B,1.38x1.35x0.4,Steatite,2,II,22,,-9.4,DK 5331,53,DK,-9.4,Late III
+273,F,1.6x0.59x0.35,Steatite,1,III,1,,-9.5,DK 4604,54,DK,-9.5,Late III
+274,B,0.91x0.91x0.26,Steatite,9A,VIII,55,,-9.6,DK 12857,54,DK,-9.6,Late III
+275,B,0.88x0.88x0.28,Steatite,13,II,7,,-9.6,DK 12211,54,DK,-9.6,Late III
+276,B,1.2x0.7x0.29,Steatite,9,XI,75,,-9.4,DK 12516,54,DK,-9.4,Late III
+277,B,1.36x1.36x0.35,Steatite,7,II,89,,-9.6,DK 3642,54,DK,-9.6,Late III
+278,B,1.23x1.2x0.39,Steatite,10,IV,73,,-9.5,DK 5439,54,DK,-9.5,Late III
+279,B,1.28x1.2x0.28,Steatite,9A,V,75,,-9.5,DK 8165,54,DK,-9.5,Late III
+280,B,1.15x1.14x0.31,Steatite,12,V,95,,-9.7,DK 5575,54,DK,-9.7,Late III
+281,B,1.0x1.0x0.35,Steatite,4,,13,,-9.6,DK 3422,54,DK,-9.6,Late III
+282,B,0.8x0.78x0.27,Steatite,9,IX,66,,-9.9,DK 12849,54,DK,-9.9,Late III
+283,B,0.98x0.98x0.3,Steatite,,,,First St. (29),-9.7,DK 11233,54,DK,-9.7,Late III
+284,B,1.0x0.96x0.27,Steatite,8,III,37,,-9.5,DK 8103,54,DK,-9.5,Late III
+285,B,1.15x1.14x0.31,Steatite,12,V,95,,-9.7,DK 5575,54,DK,-9.7,Late III
+286,B,1.0x1.0x0.29,Steatite,8,III,47,,-9.6,DK 12449,54,DK,-9.6,Late III
+287,B,1.45x?x0.41,Steatite,8,III,37,,-9.9,DK 8105,54,DK,-9.9,Late III
+288,F,1.45x0.6x0.4,Steatite,12A,II,12,,-9.9,DK 5476,54,DK,-9.9,Late III
+289,F,1.15x0.48x0.35,Steatite,2,I,8,,-10.2,DK 4271,54,DK,-10.2,Late III
+290,B,1.0x1.0x0.25,Steatite,,,,Bet. Bls. 1 (III) & 3,-9.7,DK 4458,54,DK,-9.7,Late III
+291,B,0.88x0.58x0.42,Steatite,9,I,24,,-9.8,DK 8150,54,DK,-9.8,Late III
+292,D,1.03x0.45x0.3,Steatite,4,,6,,-9.8,DK 5667,54,DK,-9.8,Late III
+293,B,0.9x0.9x0.3,Steatite,8,II,17,,-9.9,DK 7906,54,DK,-9.9,Late III
+294,B,0.8x0.8x0.25,Steatite,7,III,52,,-9.7,DK 5718,54,DK,-9.7,Late III
+295,B,0.88x0.88x0.23,Steatite,9,I,37,,-9.9,DK 8106,54,DK,-9.9,Late III
+296,B,0.7x0.7x0.19,Steatite,7,VI,76,,-9.9,DK 7200,54,DK,-9.9,Late III
+297,F,2.05x0.58x0.42,Steatite,1,I,15,,-10.0,DK 4546,54,DK,-10.0,Late III
+298,B,0.91x0.91x0.28,Steatite,9,IX,63,,-10.1,DK 12851,54,DK,-10.1,Late III
+299,C,0.6x0.6x0.25,Steatite,6,II,10,,-10.0,DK 3876,54,DK,-10.0,Late III
+300,B,0.82x0.8x0.28,Steatite,18,,40,,-10.1,DK 12323,54,DK,-10.1,Late III
+301,F,2.23x0.53x0.46,Steatite,1,III,2,,-10.1,DK 4603,54,DK,-10.1,Late III
+302,F,1.14x0.5x0.35,Steatite,,,,Bet. Bls. 3 & 4,-10.2,DK 3463,54,DK,-10.2,Late III
+303,F,?x0.4x0.02,Steatite,7,V,78,,-10.2,DK 7883,54,DK,-10.2,Late III
+304,B,0.95x0.92x0.29,Steatite,3,IV,48,,-10.2,DK 4155,54,DK,-10.2,Late III
+305,B,0.93x0.93x0.25,Steatite,7,IX,33,,-10.4,DK 8041,54,DK,-10.4,Late III
+306,B,1.49x1.49x0.37,Steatite,,,,First St. (28),-10.3,DK 12606,55,DK,-10.3,Late III
+307,B,1.3x1.3x0.33,Steatite,3,V,12,,-10.1,DK 3606,55,DK,-10.1,Late III
+308,F,0.95x0.45x0.25,Steatite,1,I,12,,-10.3,DK 5429,55,DK,-10.3,Late III
+309,B,0.9x0.9x0.25,Steatite,8,III,31,,-10.3,DK 12502,55,DK,-10.3,Late III
+310,B,1.17x1.5x0.24,Steatite,,,,Bet. Bls. 12 & 12A,-10.3,DK 5095,55,DK,-10.3,Late III
+311,B,0.93x0.93x0.25,Steatite,5,II,7,,-10.5,DK 3370,55,DK,-10.5,Late III
+312,B,1.07x?x0.3,Steatite,10,IV,84,,-10.5,DK 6914,55,DK,-10.5,Late III
+313,B,0.75x0.75x0.19,Steatite,,,,Bet. Bls. 7 & 8,-10.3,DK 3522,55,DK,-10.3,Late III
+314,B,1.39x1.4x0.34,Steatite,3,V,10,,-10.5,DK 5128,55,DK,-10.5,Late III
+315,F,1.01x0.8x0.42,Steatite,29,I,1,,-10.4,DK 12551,55,DK,-10.4,Late III
+316,B,1.08x1.09x0.29,Steatite,,,,Bet. Bls. 1 (I) & 2,-10.5,DK 7039,55,DK,-10.5,Late III
+317,B,?x?x0.28,Steatite,10,IV,81,,-10.5,DK 6498,55,DK,-10.5,Late III
+318,F,0.76x0.44x0.28,Steatite,16,I,5,,-10.5,DK 11824,55,DK,-10.5,Late III
+319,F,1.2x0.65x0.48,Steatite,,,,Bet. Bls. 1 (I) & 2,-10.5,DK 5892,55,DK,-10.5,Late III
+320,E,0.61x0.6x0.13,Steatite,10,IV,79,,-10.8,DK 5632,55,DK,-10.8,Late III
+321,B,0.56x0.59x0.21,Steatite,6A,,33,,-10.4,DK 12586,55,DK,-10.4,Late III
+322,B,0.97x0.9x0.3,Steatite,8,I,8,,-10.6,DK 12835,55,DK,-10.6,Late III
+323,B,1.21x1.18x0.27,Steatite,9,X,55,,-10.6,DK 12782,55,DK,-10.6,Late III
+324,B,1.41x0.93x0.5,Steatite,9,IV,6,,-10.6,DK 8222,55,DK,-10.6,Late III
+325,F,1.88x0.66x0.37,Steatite,4,,2,,-10.7,DK 7048,55,DK,-10.7,Late III
+326,B,0.9x0.92x0.26,Steatite,6,I,3,,-10.6,DK 3719,55,DK,-10.6,Late III
+327,D,0.78x0.46x0.2,Steatite,1,VI,52,,-10.7,DK 3473,55,DK,-10.7,Late III
+328,C,0.73x0.07x0.3,Steatite,14,I,2,,-10.6,DK 11795,55,DK,-10.6,Late III
+329,D,0.78x0.46x0.2,Steatite,1,VI,52,,-10.7,DK 5473,55,DK,-10.7,Late III
+330,B,?x?x0.35,Steatite,,,,Bet. Bls. 1 (I) & 2,-10.8,DK 5840,55,DK,-10.8,Late III
+331,B,?x?x0.29,Steatite,9,IV,4,,-10.8,DK 8224,55,DK,-10.8,Late III
+332,B,1.12x1.12x0.24,Steatite,,,,West St.,-10.7,DK 12158,55,DK,-10.7,Late III
+333,B,1.35x1.32x0.4,Steatite,2,I,6,,-10.8,DK 4321,55,DK,-10.8,Late III
+334,B,1.07x1.07x0.3,Steatite,7,II,88,,-10.8,DK 3692,55,DK,-10.8,Late III
+335,B,?x?x0.25,Steatite,,,,Bet. Bls. 3 & 4,-10.8,DK 3423,55,DK,-10.8,Late III
+336,F,1.09x0.56x0.35,Steatite,10,III,63,,-10.8,DK 5174,55,DK,-10.8,Late III
+337,B,1.15x1.1x0.3,Steatite,7,IX,30,,-10.8,DK 7888,55,DK,-10.8,Late III
+338,B,1.05x1.05x0.3,Steatite,7,II,88,,-10.8,DK 3693,55,DK,-10.8,Late III
+339,D,0.75x0.4x0.15,Steatite,,,,Bet. Bls. 10A & 11,-11.1,DK 5663,56,DK,-11.1,Late III
+340,B,1.26x1.25x0.34,Steatite,12,V,95,,-10.9,DK 5742,56,DK,-10.9,Late III
+341,B,0.88x0.56x0.25,Steatite,,,,First St. (15),-10.9,DK 12621,56,DK,-10.9,Late III
+342,B,0.87x0.85x0.31,Steatite,2,II,32,,-10.9,DK 5325,56,DK,-10.9,Late III
+343,B,0.89x0.89x0.3,Steatite,3,VI,30,,-11.1,DK 3627,56,DK,-11.1,Late III
+344,B,0.92x0.92x0.31,Steatite,8,III,30,,-11.0,DK 12837,56,DK,-11.0,Late III
+345,F,0.72x0.35x0.24,Steatite,10,III,62,,-11.0,DK 5577,56,DK,-11.0,Late III
+346,F,0.89x0.41x0.21,Steatite,12,I,2,,-11.0,DK 12576,56,DK,-11.0,Late III
+347,B,1.0x1.0x0.26,Steatite,9,VIII,21,,-11.0,DK 8203,56,DK,-11.0,Late III
+348,B,0.89x0.87x0.26,Steatite,,,,Bet. Bls. 8A & 8A (as printed),-11.1,DK 12583,56,DK,-11.1,Late III
+349,B,0.89x0.89x0.28,Steatite,,,,Bet. Bls. 4 & 7,-11.0,DK 5729,56,DK,-11.0,Late III
+350,F,1.4x0.42x0.46,Steatite,9,VII,17,,-11.2,DK 6171,56,DK,-11.2,Late III
+351,B,1.3x1.3x0.45,Steatite,,,,Bet. Bls. 1 and 10 (1),-11.1,DK 6377,56,DK,-11.1,Late III
+352,C,0.92x0.92x0.35,Steatite,7,III,40,,-11.3,DK 8137,56,DK,-11.3,Late III
+353,B,1.4x1.38x0.3,Steatite,2,II,22,,-11.2,DK 4364,56,DK,-11.2,Late III
+354,B,0.78x0.77x0.26,Steatite,11,III,26,,-11.6,DK 5580,56,DK,-11.6,Intermediate I
+355,B,0.9x0.9x0.3,Steatite,,VIII,,Bet. Bls. 7 & 9,-11.5,DK 8121,56,DK,-11.5,Intermediate I
+356,B,?x?x0.27,Steatite,9,I,50,,-11.3,DK 12848,56,DK,-11.3,Late III
+357,B,0.87x?x0.33,Steatite,1,I,18,,-11.3,DK 5470,56,DK,-11.3,Late III
+358,B,0.75x0.75x0.7,Steatite,9,II,12,,-11.1,DK 5042,56,DK,-11.1,Late III
+359,B,1.03x1.03x0.25,Steatite,,,,Bet. Bls. 1 & 10 (1),-11.3,DK 6389,56,DK,-11.3,Late III
+360,B,1.0x0.95x0.26,Steatite,9,X,80,,-11.6,DK 12897,56,DK,-11.6,Intermediate I
+361,B,0.95x0.95x0.25,Steatite,9,XI,70,,-11.5,DK 12877,56,DK,-11.5,Intermediate I
+362,B,1.05x1.05x0.3,Steatite,,,,Bet. Bls. 6 & 8,-11.6,DK 7924,56,DK,-11.6,Intermediate I
+363,B,0.89x0.94x0.27,Steatite,12,I,46,,-11.6,DK 6530,56,DK,-11.6,Intermediate I
+364,B,1.02x1.02x0.26,Steatite,,,,Bet. Bls. 1 (V) & 10,-11.7,DK 5890,56,DK,-11.7,Intermediate I
+365,B,1.01x0.95x0.27,Steatite,7,I,3,,-11.8,DK 5785,56,DK,-11.8,Intermediate I
+366,B,1.32x?x0.27,Steatite,9,XI,70,,-11.4,DK 12878,56,DK,-11.4,Late III
+367,B,1.75x1.75x0.5,Steatite,4,,15,,-11.8,DK 5393,56,DK,-11.8,Intermediate I
+368,B,0.96x?x0.29,Steatite,10,II,22,,-11.6,DK 6317,56,DK,-11.6,Intermediate I
+369,F,0.77x0.3x0.25,Steatite,3,VI,47,,-11.8,DK 3743,56,DK,-11.8,Intermediate I
+370,B,0.86x0.86x0.29,Steatite,9,VII,48,,-11.7,DK 5791,56,DK,-11.7,Intermediate I
+371,B,0.79x0.79x0.28,Steatite,,,,First St. (35),-11.7,DK 10924,56,DK,-11.7,Intermediate I
+372,?,1.25x0.62x0.4,Steatite,,VIII,,Bet. Bls. 7 & 9,-11.9,DK 8141,57,DK,-11.9,Intermediate I
+373,B,1.0x0.99x0.3,Steatite,9,XI,72,,-12.5,DK 12908,57,DK,-12.5,Intermediate I
+374,-,Sealing,Faience,9,VII,17,,-10.1,DK 5837,57,DK,-10.1,Late III
+375,B,0.8x0.8x0.25,Steatite,9,VI,36,,-11.8,DK 8227,57,DK,-11.8,Intermediate I
+376,A,0.86x0.5,Calcite,3,VI,32,,-11.8,DK 3599,57,DK,-11.8,Intermediate I
+377,C,0.82x0.78x0.22,Steatite,7,III,40,,-11.9,DK 8143,57,DK,-11.9,Intermediate I
+378,B,0.9x0.95x0.34,Steatite,7,III,52,,-11.9,DK 5847,57,DK,-11.9,Intermediate I
+378A,D,1.31x0.65x0.4,Steatite,21,II,7,,-4.4,DK 10355,57,DK,-4.4,Late I
+378B,B,1.3x1.2x0.55,Steatite,9,IV,6,,-8.4,DK 8186,57,DK,-8.4,Late II
+378C,B,1.3x1.2x0.55,Steatite,9,IV,6,,-8.4,DK 8186,57,DK,-8.4,Late II
+378D,A,0.86x0.5,Calcite,3,VI,32,,-11.8,DK 3599,57,DK,-11.8,Intermediate I
+379,B,0.68x0.68x0.21,Steatite,7,I,13,,-12.0,DK 5677,57,DK,-12.0,Intermediate I
+380,B,0.9x0.91x0.25,Steatite,,,,Bet. Bls. 12 & 12A,-12.0,DK 5332,57,DK,-12.0,Intermediate I
+381,B,1.02x1.05x0.29,Steatite,10,I,2,,-12.0,DK 5669,57,DK,-12.0,Intermediate I
+382,B,0.78x0.78x0.22,Steatite,7,V,66,,-12.1,DK 8013,57,DK,-12.1,Intermediate I
+383,E,0.7x0.7x0.11,Faience,,,,First St. (14),-12.1,DK 3810,57,DK,-12.1,Intermediate I
+384,B,1.17x0.69x0.45,Steatite,10,IV,71,,-12.2,DK 5619,57,DK,-12.2,Intermediate I
+385,B,1.20x?x0.28,Steatite,,III,,Bet. Bls. 7 & 9,-12.2,DK 8327,57,DK,-12.2,Intermediate I
+386,B,0.98x0.66x0.29,Steatite,9,VI,78,,-12.2,DK 7569,57,DK,-12.2,Intermediate I
+387,F,0.95x0.5x0.38,Steatite,10,IV,70,,-12.2,DK 6091,57,DK,-12.2,Intermediate I
+388,F,1.0x0.59x0.55,Steatite,10,III,62,,-12.2,DK 5639,57,DK,-12.2,Intermediate I
+389,B,0.72x0.72x0.25,Steatite,10,IV,87,,-12.2,DK 6340,57,DK,-12.2,Intermediate I
+390,B,1.03x1.03x0.35,Steatite,12,V,96,,-12.3,DK 6837,57,DK,-12.3,Intermediate I
+391,F,1.1x0.6x0.4,Steatite,,,,Bet. Bls. 10A & 11,-12.3,DK 6080,57,DK,-12.3,Intermediate I
+392,F,1.3x0.48x0.35,Steatite,,,,Bet. Bls. 2 & 3,-12.3,DK 4471,57,DK,-12.3,Intermediate I
+393,B,1.1x1.1x0.22,Steatite,12,I,1,,-12.3,DK 8480,57,DK,-12.3,Intermediate I
+394,?,1.6x?x?,Steatite,10,IV,70,,-12.4,DK 5941,57,DK,-12.4,Intermediate I
+395,F,1.14x0.44x0.37,Steatite,,I,,Lane east of Bl. 1,-12.4,DK 7242,57,DK,-12.4,Intermediate I
+396,B,1.66x1.63x0.5,Steatite,1,III,2,,-12.4,DK 5250,57,DK,-12.4,Intermediate I
+397,F,1.0x0.48x0.29,Steatite,,,,Bet. Bls. 4 & 5,-12.4,DK 4178,57,DK,-12.4,Intermediate I
+398,B,1.53x1.52x0.38,Steatite,1,III,1,,-12.4,DK 6599,57,DK,-12.4,Intermediate I
+399,B,1.09x1.05x0.3,Steatite,9,VII,17,,-12.4,DK 5678,57,DK,-12.4,Intermediate I
+400,?,1.6,Steatite,10,IV,70,,-12.4,DK 5941,57,DK,-12.4,Intermediate I
+401,B,0.85x0.8x0.2,Steatite,9,IV,6,,-12.4,DK 8249,58,DK,-12.4,Intermediate I
+402,B,0.92x0.92x0.26,Steatite,,,,Alley west of Bl. 1,-12.4,DK 6713,58,DK,-12.4,Intermediate I
+403,B,0.96x0.96x0.25,Steatite,3,III,36,,-12.4,DK 3818,58,DK,-12.4,Intermediate I
+404,B,0.8x0.58x0.25,Steatite,7,VII,57,,-12.4,DK 7571,58,DK,-12.4,Intermediate I
+405,C,1.05x1.05x0.45,Steatite,6,I,1,,-12.4,DK 4161,58,DK,-12.4,Intermediate I
+406,B,1.35x1.35x0.35,Steatite,7,V,78,,-12.5,DK 7925,58,DK,-12.5,Intermediate I
+407,B,0.95x0.93x0.29,Steatite,,,,Bet. Bls. 1 & 10 (I),-12.5,DK 6422,58,DK,-12.5,Intermediate I
+408,B,0.8x0.8x0.28,Steatite,,II,,West of Bl. 1,-12.2,DK 8450,58,DK,-12.2,Intermediate I
+409,B,0.65x0.64x0.2,Steatite,8,II,23,,-12.5,DK 8877,58,DK,-12.5,Intermediate I
+410,B,0.77x0.77x0.25,Steatite,7,V,66,,-12.5,DK 8028,58,DK,-12.5,Intermediate I
+411,B,1.2x1.2x0.3,Steatite,1,VI,52,,-12.6,DK 5307,58,DK,-12.6,Intermediate I
+412,B,1.47x0.62x0.4,Steatite,1,VII,35,,-16.8,DK 5323,58,DK,-16.8,Intermediate II
+413,B,0.95x0.95x0.3,Steatite,1,I,21,,-12.7,DK 6093,58,DK,-12.7,Intermediate I
+414,D,1.09x0.62x0.35,Steatite,1,I,16,,-12.7,DK 6901,58,DK,-12.7,Intermediate I
+415,B,0.79x0.79x0.22,Steatite,,,,Bet. Bls. 1 & 10 (I),-12.7,DK 6596,58,DK,-12.7,Intermediate I
+416,B,1.5x0.75x0.47,Steatite,,I,,Lane east of Bl. 1,-12.7,DK 7257,58,DK,-12.7,Intermediate I
+417,B,1.22x1.22x0.3,Steatite,3,VI,39,,-12.8,DK 3790,58,DK,-12.8,Intermediate I
+418,B,0.82x0.81x0.2,Steatite,1,VII,38,,-12.8,DK 5651,58,DK,-12.8,Intermediate I
+419,B,0.82x0.81x0.26,Steatite,1,III,1,,-12.8,DK 5787,58,DK,-12.8,Intermediate I
+420,B,1.4x1.39x0.3,Steatite,1,II,7,,-12.8,DK 5175,58,DK,-12.8,Intermediate I
+421,B,1.2x1.15x0.35,Steatite,1,VI,56,,-12.8,DK 5494,58,DK,-12.8,Intermediate I
+422,B,2.3x2.3x0.65,Steatite,1,I,18,,-12.8,DK 5419,58,DK,-12.8,Intermediate I
+423,B,0.86x0.85x0.3,Steatite,8,III,37,,-12.9,DK 5717,58,DK,-12.9,Intermediate I
+424,B,1.01x1.0x0.29,Steatite,10,II,20,,-12.9,DK 7062,58,DK,-12.9,Intermediate I
+425,B,1.08x0.7x0.31,Steatite,7,V,54,,-12.9,DK 5697,58,DK,-12.9,Intermediate I
+426,B,1.11x1.1x0.34,Steatite,1,III,1,,-12.9,DK 5821,58,DK,-12.9,Intermediate I
+427,B,1.06x1.06x0.32,Steatite,,III,,Bet. Bls. 7 & 9,-12.9,DK 8359,58,DK,-12.9,Intermediate I
+428,F,1.03x0.5x0.3,Steatite,,,,Bet. Bls. 1 (V) & 10,-13.0,DK 5820,58,DK,-13.0,Intermediate I
+429,B,0.98x0.94x0.3,Steatite,9,VII,17,,-12.0,DK 6380,58,DK,-12.0,Intermediate I
+430,B,1.6x1.55x0.33,Steatite,,,,Bet. Bls. 1 (IV) & 10,-14.9,DK 6847,58,DK,-14.9,Intermediate II
+431,B,1.97x1.33x0.52,Steatite,9,VIII,18,,-13.0,DK 8378,58,DK,-13.0,Intermediate I
+432,B,1.34x0.8x0.39,Steatite,,III,,Bet. Bls. 9 & 10,-13.0,DK 6624,58,DK,-13.0,Intermediate I
+433,B,0.88x0.87x0.28,Steatite,,,,Alley west of Bl. 1,-13.0,DK 5859,58,DK,-13.0,Intermediate I
+434,-,2.55x0.2,Ivory,7,II,29,,-13.0,DK 5081,59,DK,-13.0,Intermediate I
+435,B,0.98x0.99x0.28,Steatite,7,VIII,22,,-13.0,DK 6229,59,DK,-13.0,Intermediate I
+436,B,1.72x1.67x0.49,Steatite,7,I,15,,-13.1,DK 6791,59,DK,-13.1,Intermediate I
+437,-,3.9,Ivory,1,II,9,,-13.1,DK 5672,59,DK,-13.1,Intermediate I
+438,B,1.3x1.3x0.3,Steatite,5,I,2,,-13.2,DK 3980,59,DK,-13.2,Intermediate I
+439,F,1.0x0.45x0.35,Steatite,7,IX,32,,-13.2,DK 8202,59,DK,-13.2,Intermediate I
+440,B,1.25x1.25x0.35,Steatite,8,I,8,,-13.2,DK 8841,59,DK,-13.2,Intermediate I
+441,B,1.28x1.25x0.35,Steatite,,VIII,,Bet. Bls. 7 and 9,-13.2,DK 8159,59,DK,-13.2,Intermediate I
+442,B,1.0x0.97x0.3,Steatite,9,VII,51,,-13.2,DK 5900,59,DK,-13.2,Intermediate I
+443,B,0.87x0.86x0.26,Steatite,3,VI,31,,-13.2,DK 4137,59,DK,-13.2,Intermediate I
+444,B,0.61x0.61x0.2,Steatite,9,II,11,,-13.2,DK 8346,59,DK,-13.2,Intermediate I
+445,B,0.85x0.85x0.29,Steatite,,I,19,,-13.3,DK 6390,59,DK,-13.3,Intermediate I
+446,B,1.25x1.15x0.3,Steatite,,,,Bet. Bls. 10 & 12,-13.3,DK 6357,59,DK,-13.3,Intermediate I
+447,B,0.87x0.87x0.27,Steatite,7,I,15,,-13.3,DK 6792,59,DK,-13.3,Intermediate I
+448,B,?x?x0.31,Steatite,9,III,35,,-13.3,DK 8643,59,DK,-13.3,Intermediate I
+449,C,0.65x0.65x0.3,Steatite,7,V,78,,-13.4,DK 7941,59,DK,-13.4,Intermediate I
+450,B,0.95x0.94x0.34,Steatite,1,I,21,,-13.4,DK 6658,59,DK,-13.4,Intermediate I
+451,B,1.08x1.02x0.32,Steatite,,,,Bet. Bls. 12 & 12A,-13.4,DK 5341,59,DK,-13.4,Intermediate I
+452,B,0.68x0.69x0.2,Steatite,12,V,91,,-13.4,DK 5539,59,DK,-13.4,Intermediate I
+453,B,1.2x0.84x0.35,Steatite,,I,,Lane east of Bl. 1,-13.4,DK 6664,59,DK,-13.4,Intermediate I
+454,B,0.5x0.5x0.16,Steatite,10,IV,86,,-13.4,DK 7342,59,DK,-13.4,Intermediate I
+455,B,1.34x1.34x0.37,Steatite,,II,,Alley west of Bl. 1,-13.5,DK 6127,59,DK,-13.5,Intermediate I
+456,B,1.09x1.08x0.3,Steatite,12,V,96,,-13.5,DK 6550,59,DK,-13.5,Intermediate I
+457,B,0.77x0.77x0.25,Steatite,12A,I,13,,-13.5,DK 5640,59,DK,-13.5,Intermediate I
+458,B,0.8x0.8x0.22,Steatite,12,I,11,,-13.5,DK 5749,59,DK,-13.5,Intermediate I
+459,B,1.1x1.1x0.3,Steatite,,,,Bet. Bls. 11 & 12A,-13.5,DK 7145,59,DK,-13.5,Intermediate I
+460,B,0.73x0.73x0.22,Steatite,,,,Bet. Bls. 1 & 7,-13.6,DK 6753,59,DK,-13.6,Intermediate I
+461,F,1.42x0.55x0.46,Steatite,,I,,Lane east of Bl. 1,-13.6,DK 7349,59,DK,-13.6,Intermediate I
+462,B,0.96x0.78x0.3,Steatite,,II,,Lane east of Bl. 10,-13.6,DK 7913,59,DK,-13.6,Intermediate I
+463,B,1.1x1.1x0.35,Steatite,10,II,26,,-13.6,DK 7722,59,DK,-13.6,Intermediate I
+464,B,0.7x0.7x0.23,Steatite,7,I,19,,-13.6,DK 6153,59,DK,-13.6,Intermediate I
+465,B,1.15x1.11x0.25,Steatite,9,VI,36,,-13.7,DK 8254,59,DK,-13.7,Intermediate I
+466,B,1.02x1.0x0.27,Steatite,2,I,8,,-13.8,DK 9127,59,DK,-13.8,Intermediate I
+467,B,1.1x?x0.34,Steatite,12,V,91,,-13.8,DK 5582,60,DK,-13.8,Intermediate I
+468,B,1.2x1.2x0.33,Steatite,,,,First St. (10),-13.9,DK 8026,60,DK,-13.9,Intermediate I
+469,B,1.02x1.02x0.27,Steatite,,,,Bet. Bls. 1 & 10 (I),-13.9,DK 6360,60,DK,-13.9,Intermediate I
+470,F,1.5x0.5x0.35,Steatite,1,I,15,,-13.9,DK 5708,60,DK,-13.9,Intermediate I
+471,B,1.25x1.0x0.29,Steatite,9,VII,17,,-13.9,DK 6429,60,DK,-13.9,Intermediate I
+472,B,0.82x0.82x0.3,Steatite,5,I,4,,-14.0,DK 4073,60,DK,-14.0,Intermediate I
+473,B,0.95x0.75x0.3,Steatite,7,I,15,,-14.0,DK 6266,60,DK,-14.0,Intermediate I
+474,B,0.87x0.85x0.2,Steatite,2,III,16,,-14.0,DK 4301,60,DK,-14.0,Intermediate I
+475,B,1.1x1.1x0.3,Steatite,,,,Lane bet. Bls. 1 & 7,-14.0,DK 6777,60,DK,-14.0,Intermediate I
+476,B,1.08x1.07x0.35,Steatite,1,III,2,,-14.0,DK 5709,60,DK,-14.0,Intermediate I
+477,F,1.42x0.62x0.3,Steatite,3,IV,45,,-14.1,DK 3755,60,DK,-14.1,Intermediate I
+478,B,1.2x1.2x0.3,Steatite,4,,13,,-14.1,DK 4967,60,DK,-14.1,Intermediate I
+479,B,0.95x0.95x0.2,Marble,12A,II,21,,-14.3,DK 7313,60,DK,-14.3,Intermediate I
+480,B,1.15x1.12x0.29,Steatite,3,VI,31,,-14.4,DK 4151,60,DK,-14.4,Intermediate I
+481,B,1.15x1.15x0.39,Steatite,,I,,Lane east of Bl. 1,-14.4,DK 7137,60,DK,-14.4,Intermediate I
+482,-,1.81,Ivory,7,V,54,,-14.4,DK 7366,60,DK,-14.4,Intermediate I
+483,B,1.18x?x0.33,Steatite,7,V,66,,-14.4,DK 8062,60,DK,-14.4,Intermediate I
+484,B,0.63x0.61x0.21,Steatite,1,V,46,,-14.5,DK 6385,60,DK,-14.5,Intermediate II
+485,F,1.17x0.47x0.3,Steatite,1,III,17,,-14.5,DK 5156,60,DK,-14.5,Intermediate II
+486,B,1.15x1.15x0.44,Steatite,,,,Bet. Bls. 4 & 5,-14.5,DK 4206,60,DK,-14.5,Intermediate II
+487,B,1.6x?x0.5,Steatite,1,III,4,,-14.6,DK 5778,60,DK,-14.6,Intermediate II
+488,A,1.0x0.59,Steatite,4,,12,,-14.5,DK 5828,60,DK,-14.5,Intermediate II
+489,B,1.21x1.08x0.38,Steatite,,,,First St. (21),-14.5,DK 8072,60,DK,-14.5,Intermediate II
+490,B,0.89x0.85x0.24,Steatite,,,,Bet. Bls. 1 & 10 (I),-14.7,DK 6633,60,DK,-14.7,Intermediate II
+491,B,1.06x1.03x0.41,Steatite,,,,First St. (15),-14.7,DK 13006,60,DK,-14.7,Intermediate II
+492,C,1.18x1.18x0.25,Steatite,7,IV,72,,-14.7,DK 8204,60,DK,-14.7,Intermediate II
+493,B,0.99x0.99x0.22,Steatite,7,III,48,,-14.8,DK 8253,60,DK,-14.8,Intermediate II
+494,B,0.97x0.95x0.21,Steatite,,,,Lane bet. Bls. 10 & 12,-14.8,DK 7734,60,DK,-14.8,Intermediate II
+495,B,0.81x0.81x0.21,Steatite,2,II,23,,-14.8,DK 4337,60,DK,-14.8,Intermediate II
+496,B,?x?x0.3,Steatite,7,VIII,28,,-14.8,DK 6003,60,DK,-14.8,Intermediate II
+497,?,1.05x0.9x0.52,Steatite,7,III,43,,-14.8,DK 8250,60,DK,-14.8,Intermediate II
+498,B,0.8x0.78x0.27,Steatite,,,,Bet. Bls. 1 (III) & 2,-14.8,DK 6838,60,DK,-14.8,Intermediate II
+499,F,1.8x0.46x0.35,Steatite,2,I,7,,-14.8,DK 9187,60,DK,-14.8,Intermediate II
+500,H,1.1x0.21,Steatite,,,,Bet. Bls. 1 & 7,-14.8,DK 6844,61,DK,-14.8,Intermediate II
+501,B,1.1x0.9x0.29,Steatite,4,,12,,-14.9,DK 5852,61,DK,-14.9,Intermediate II
+502,B,0.67x0.65x0.25,Steatite,1,I,22,,-14.9,DK 7676,61,DK,-14.9,Intermediate II
+503,B,1.07x1.05x0.3,Steatite,1,IV,61,,-15.0,DK 5459,61,DK,-15.0,Intermediate II
+504,B,0.85x0.85x0.25,Steatite,10,I,5,,-15.0,DK 5925,61,DK,-15.0,Intermediate II
+505,D,0.75x0.36x0.1,Steatite,1,II,32,,-15.0,DK 5671,61,DK,-15.0,Intermediate II
+506,B,0.95x0.95x0.3,Steatite,1,IV,73,,-15.1,DK 5533,61,DK,-15.1,Intermediate II
+507,B,1.15x1.12x0.3,Steatite,2,I,10,,-15.1,DK 4313,61,DK,-15.1,Intermediate II
+508,D,0.8x0.4x0.18,Steatite,,,,First St. (10),-15.1,DK 8089,61,DK,-15.1,Intermediate II
+509,A,0.8,Steatite,1,VIII,63,,-15.1,DK 5849,61,DK,-15.1,Intermediate II
+510,I,1.0x0.86x0.21,Steatite,9,VI,34,,-15.2,DK 8321,61,DK,-15.2,Intermediate II
+511,B,1.2x1.2x0.34,Steatite,,,,Bet. 1 & 10 (I),-15.2,DK 6689,61,DK,-15.2,Intermediate II
+512,B,1.04x1.04x0.25,Steatite,1,V,47,,-15.3,DK 6764,61,DK,-15.3,Intermediate II
+513,B,1.05x1.04x0.3,Steatite,,,,Bet. Bls. 12 & 12A,-15.3,DK 5392,61,DK,-15.3,Intermediate II
+514,B,1.0x1.0x0.27,Steatite,,,,Bet. Bls. 12 & 12A,-15.3,DK 5368,61,DK,-15.3,Intermediate II
+515,F,0.85x0.4x0.26,Steatite,1,IV,30,,-15.3,DK 5413,61,DK,-15.3,Intermediate II
+516,B,0.5x0.47x0.21,Steatite,1,I,16,,-15.3,DK 8864,61,DK,-15.3,Intermediate II
+517,B,0.78x0.77x0.2,Steatite,12,V,92,,-15.3,DK 5601,61,DK,-15.3,Intermediate II
+518,B,1.1x1.1x0.26,Steatite,3,IV,45,,-15.4,DK 7221,61,DK,-15.4,Intermediate II
+519,B,1.2x1.2x0.3,Steatite,7,V,66,,-15.4,DK 8104,61,DK,-15.4,Intermediate II
+520,B,0.64x0.64x0.16,Silver,12,I,4,,-15.4,DK 8563,61,DK,-15.4,Intermediate II
+521,B,1.23x1.2x0.27,ditto after Silver (as printed),,,,Bet. Bls. 1 (V) & 10,-15.5,DK 5935,61,DK,-15.5,Intermediate II
+522,B,1.26x1.25x0.34,ditto after Silver (as printed),3,III,26,,-15.5,DK 7033,61,DK,-15.5,Intermediate II
+523,B,0.71x0.71x0.2,ditto after Silver (as printed),7,IX,31,,-15.5,DK 8023,61,DK,-15.5,Intermediate II
+524,B,1.32x1.27x0.33,ditto after Silver (as printed),,,,First St. (21),-15.6,DK 7708,61,DK,-15.6,Intermediate II
+525,B,0.61x0.6x0.15,ditto after Silver (as printed),1,I,16,,-15.7,DK 7052,61,DK,-15.7,Intermediate II
+526,D,0.94x0.4x0.32,ditto after Silver (as printed),5,III,8,,-15.7,DK 7694,61,DK,-15.7,Intermediate II
+527,B,0.66x0.66x0.19,ditto after Silver (as printed),9A,V,67,,-15.7,DK 8406,61,DK,-15.7,Intermediate II
+528,D,1.5x0.73x0.4,ditto after Silver (as printed),9A,V,75,,-15.7,DK 6698,61,DK,-15.7,Intermediate II
+529,B,1.29x1.0x0.33,ditto after Silver (as printed),1,V,45,,-15.8,DK 7512,61,DK,-15.8,Intermediate II
+530,B,1.51x1.5x0.44,ditto after Silver (as printed),1,I,74,,-15.8,DK 5605,61,DK,-15.8,Intermediate II
+531,B,1.1x0.74x0.26,ditto after Silver (as printed),3,VI,47,,-15.9,DK 7150,61,DK,-15.9,Intermediate II
+532,B,0.95x0.95x0.3,ditto after Silver (as printed),,,,Bet. Bls. 11 & 12A,-15.9,DK 4907,61,DK,-15.9,Intermediate II
+533,B,1.1x1.1x0.28,Silver (as printed),,,,First St. (10),-15.9,DK 8168,62,DK,-15.9,Intermediate II
+534,B,1.15x1.15x0.3,ditto after Silver (as printed),,,,First St. (10),-15.9,DK 8166,62,DK,-15.9,Intermediate II
+535,B,1.03x1.02x0.28,ditto after Silver (as printed),,,,Bet. Bls. 1 (IV) & 10,-15.9,DK 5969,62,DK,-15.9,Intermediate II
+536,B,1.12x1.15x0.28,ditto after Silver (as printed),7,VIII,28,,-15.9,DK 6002,62,DK,-15.9,Intermediate II
+537,F,1.64x0.55x0.32,ditto after Silver (as printed),,,,Bet. Bls. 10A and 11,-23.6,DK 7172,62,DK,-23.6,Early
+538,B,1.04x1.04x0.33,ditto after Silver (as printed),1,VI,52,,-16.0,DK 7190,62,DK,-16.0,Intermediate II
+539,B,1.31x1.31x0.35,ditto after Silver (as printed),7,III,43,,-16.1,DK 8242,62,DK,-16.1,Intermediate II
+540,B,0.69x0.69x0.25,Steatite,,I,,Lane east of Bl. 1,-16.1,DK 3889,62,DK,-16.1,Intermediate II
+541,F,1.41x0.49x0.33,Steatite,,I,,Lane east of Bl. 1,-16.1,DK 7406,62,DK,-16.1,Intermediate II
+542,D,1.05x0.73x0.46,Steatite,12A,II,18,,-16.2,DK 7269,62,DK,-16.2,Intermediate II
+543,B,1.1x1.1x0.3,Steatite,10,III,55,,-16.2,DK 6210,62,DK,-16.2,Intermediate II
+544,D,1.05x0.73x0.46,Steatite,12A,II,18,,-16.2,DK 7269,62,DK,-16.2,Intermediate II
+545,B,0.95x0.82x0.29,Steatite,8,II,18,,-16.2,DK 9111,62,DK,-16.2,Intermediate II
+546,B,1.01x1.0x0.33,Steatite,1,IV,24,,-16.3,DK 6125,62,DK,-16.3,Intermediate II
+547,B,0.76x0.76x0.19,Steatite,,,,Bet. Bls. 1 (III) & 7,-16.3,DK 6448,62,DK,-16.3,Intermediate II
+548,B,1.05x1.05x0.34,Steatite,4,,13,,-16.4,DK 5707,62,DK,-16.4,Intermediate II
+549,B,0.99x0.98x0.32,Steatite,,,,Bet. Bls. 11 & 12A,-16.4,DK 5418,62,DK,-16.4,Intermediate II
+550,E,0.7x0.7x0.15,Steatite,,,,Bet. Bls. 11 & 12A,-16.4,DK 5414,62,DK,-16.4,Intermediate II
+551,B,0.77x0.27x0.28,Faience (as printed),,,,Bet. Bls. 9A & 12A,-16.4,DK 5573,62,DK,-16.4,Intermediate II
+552,B,0.91x0.9x0.28,ditto after Faience (as printed),1,I,74,,-16.5,DK 5636,62,DK,-16.5,Intermediate II
+553,B,0.91x0.9x0.28,ditto after Faience (as printed),1,I,74,,-16.5,DK 5636,62,DK,-16.5,Intermediate II
+554,B,1.0x0.98x0.22,ditto after Faience (as printed),1,VIII,63,,-16.5,DK 5875,62,DK,-16.5,Intermediate II
+555,B,1.07x1.07x0.36,ditto after Faience (as printed),,I,,Lane east of Bl. 1,-16.5,DK 7333,62,DK,-16.5,Intermediate II
+556,B,1.1x1.1x0.3,ditto after Faience (as printed),7,V,54,,-16.5,DK 7790,62,DK,-16.5,Intermediate II
+557,B,0.75x0.71x0.21,ditto after Faience (as printed),7,III,46,,-16.5,DK 8279,62,DK,-16.5,Intermediate II
+558,B,1.03x0.65x0.34,ditto after Faience (as printed),2,IV,20,,-16.5,DK 7447,62,DK,-16.5,Intermediate II
+559,B,0.65x0.4x0.33,ditto after Faience (as printed),2,IV,20,,-16.5,DK 7448,62,DK,-16.5,Intermediate II
+560,B,0.77x0.75x0.28,ditto after Faience (as printed),7,VII,57,,-16.5,DK 7570,62,DK,-16.5,Intermediate II
+561,B,1.36x1.36x0.35,ditto after Faience (as printed),9A,V,75,,-16.6,DK 7280,62,DK,-16.6,Intermediate II
+562,B,1.2x1.16x0.3,ditto after Faience (as printed),9,VIII,14,,-16.7,DK 6795,62,DK,-16.7,Intermediate II
+563,B,0.97x0.97x0.3,ditto after Faience (as printed),,,,Bet. Bls. 11 & 12A,-16.7,DK 5432,62,DK,-16.7,Intermediate II
+564,B,0.9x0.9x0.22,ditto after Faience (as printed),7,VIII,53,,-16.8,DK 8463,62,DK,-16.8,Intermediate II
+565,B,0.5x0.5x0.1,ditto after Faience (as printed),7,IV,49,,-16.8,DK 8218,62,DK,-16.8,Intermediate II
+566,B,?x?x0.46,Faience (as printed),,,,Bet. Bls. 10 & 12,-16.9,DK 5703,63,DK,-16.9,Intermediate II
+567,B,1.0x1.0x0.27,ditto after Faience (as printed),12,V,89,,-16.9,DK 5967,63,DK,-16.9,Intermediate II
+568,D,1.0x0.48x0.39,ditto after Faience (as printed),,,,Bet. Bls. 10 & 12,-16.9,DK 5702,63,DK,-16.9,Intermediate II
+569,B,0.98x0.98x0.26,ditto after Faience (as printed),7,IX,31,,-16.9,DK 8223,63,DK,-16.9,Intermediate II
+570,B,1.0x0.65x0.26,ditto after Faience (as printed),,,,Bet. Bls. 12 & 12A,-16.9,DK 5446,63,DK,-16.9,Intermediate II
+571,B,0.75x0.72x0.25,ditto after Faience (as printed),1,III,17,,-16.9,DK 7268,63,DK,-16.9,Intermediate II
+572,B,1.1x1.1x0.3,ditto after Faience (as printed),,,,First St. (6),-17.0,DK 8212,63,DK,-17.0,Intermediate II
+573,B,1.25x1.25x0.35,Steatite,5,I,3,,-17.0,DK 7538,63,DK,-17.0,Intermediate II
+574,B,1.15x1.15x0.31,Steatite,10,IV,86,,-17.0,DK 7135,63,DK,-17.0,Intermediate II
+575,?,1.23x0.8x0.4,Steatite,12,V,96,,-17.1,DK 6898,63,DK,-17.1,Intermediate II
+576,B,1.31x1.31x0.28,Steatite,1,VI,52,,-17.2,DK 9069,63,DK,-17.2,Intermediate II
+577,B,0.85x0.83x0.25,Steatite,7,IV,72,,-17.2,DK 8209,63,DK,-17.2,Intermediate II
+578,B,1.56x1.56x0.36,Steatite,1,I,15,,-17.3,DK 7283,63,DK,-17.3,Intermediate II
+579,F,0.95x0.46x0.33,Steatite,,I,,Lane east of Bl. 1,-17.4,DK 7465,63,DK,-17.4,Intermediate II
+580,B,0.96x0.95x0.23,Steatite,12,V,92,,-17.4,DK 5891,63,DK,-17.4,Intermediate II
+581,B,0.95x0.95x0.3,Steatite,,III,,Bet. Bls. 7 & 9,-17.4,DK 8528,63,DK,-17.4,Intermediate II
+582,B,0.78x0.78x0.25,Steatite,,,,Bet. Bls. 1 (III) & 2,-17.4,DK 7464,63,DK,-17.4,Intermediate II
+583,B,1.25x1.25x0.4,Steatite,3,III,36,,-17.4,DK 7402,63,DK,-17.4,Intermediate II
+584,B,1.2x1.2x0.37,Steatite,11,III,41,,-17.6,DK 7820,63,DK,-17.6,Intermediate II
+585,B,0.9x0.85x0.25,Steatite,7,IV,49,,-17.6,DK 8248,63,DK,-17.6,Intermediate II
+586,E,0.65x0.61x0.17,Faience,,,,First St. (22),-17.6,DK 8213,63,DK,-17.6,Intermediate II
+587,C,1.32x1.32x0.39,Steatite,2,IV,22,,-17.6,DK 7372,63,DK,-17.6,Intermediate II
+588,B,1.11x1.11x0.3,Steatite,4,,16,,-17.7,DK 6381,63,DK,-17.7,Intermediate II
+589,B,1.33x1.33x0.4,Steatite,1,I,72,,-17.7,DK 6335,63,DK,-17.7,Intermediate II
+590,B,1.4x1.4x0.33,Steatite,1,I,20,,-17.7,DK 5848,63,DK,-17.7,Intermediate II
+591,B,0.81x0.81x0.25,Steatite,,,,First St. (21),-17.8,DK 7601,63,DK,-17.8,Intermediate II
+592,B,0.75x0.75x0.25,Steatite,7,IV,71,,-17.9,DK 8287,63,DK,-17.9,Intermediate II
+593,B,1.12x1.12x0.3,Steatite,,I,,East of Bl. 1,-17.8,DK 7415,63,DK,-17.8,Intermediate II
+594,B,1.0x1.0x0.29,Steatite,7,VIII,52,,-17.8,DK 8539,63,DK,-17.8,Intermediate II
+595,B,1.3x1.3x0.3,Steatite,10,I,5,,-17.8,DK 7875,63,DK,-17.8,Intermediate II
+596,B,1.92x1.15x0.49,Steatite,,VI,,Lane east of Bl. 9,-17.9,DK 8422,63,DK,-17.9,Intermediate II
+597,B,1.13x1.08x0.3,Steatite,1,III,2,,-17.9,DK 8946,63,DK,-17.9,Intermediate II
+598,B,1.4x1.36x0.42,Steatite,10,III,67,,-18.0,DK 6531,63,DK,-18.0,Intermediate III
+599,F,1.4x0.62x0.45,Steatite,1,I,17,,-18.0,DK 7288,64,DK,-18.0,Intermediate III
+600,B,0.56x0.56x0.23,Faience,,III,,Bet. Bls. 10 & 12,-18.0,DK 6140,64,DK,-18.0,Intermediate III
+601,B,0.97x0.96x0.29,Steatite,1,IV,63,,-18.0,DK 5641,64,DK,-18.0,Intermediate III
+602,B,0.73x0.73x0.23,Steatite,,,,Bet. Bls. 10A & 12,-18.1,DK 6209,64,DK,-18.1,Intermediate III
+603,F,1.53x0.59x0.4,Steatite,2,IV,15,,-18.1,DK 5567,64,DK,-18.1,Intermediate III
+604,J,0.7x0.15,Steatite,7,V,54,,-18.1,DK 7810,64,DK,-18.1,Intermediate III
+604B,B,0.83x0.83x0.3,Steatite,10A,,7,,-18.1,DK 7136,64,DK,-18.1,Intermediate III
+605,B,1.38x1.38x0.45,Steatite,1,I,75,,-18.1,DK 8856,64,DK,-18.1,Intermediate III
+606,B,1.2x1.07x0.28,Steatite,1,VII,35,,-18.2,DK 9114,64,DK,-18.2,Intermediate III
+607,B,0.72x0.7x0.24,Steatite,3,IV,29,,-18.2,DK 6704,64,DK,-18.2,Intermediate III
+608,B,0.72x0.72x0.22,Steatite,,,,Bet. Bls. 1 (IV) & 10,-18.2,DK 6886,64,DK,-18.2,Intermediate III
+609,B,0.85x0.85x0.2,Steatite,11,III,34,,-18.3,DK 6827,64,DK,-18.3,Intermediate III
+610,B,?x?x0.3,Steatite,1A,,58,,-18.3,DK 8472,64,DK,-18.3,Intermediate III
+611,B,1.15x1.15x0.32,Steatite,1,I,21,,-18.3,DK 8963,64,DK,-18.3,Intermediate III
+612,B,1.0x1.0x0.3,Steatite,,,,Bet. Bls. 10 & 12,-18.4,DK 6861,64,DK,-18.4,Intermediate III
+613,B,0.96x0.92x0.23,Steatite,,,,Bet. Bls. 1 & 10 (I),-18.4,DK 6798,64,DK,-18.4,Intermediate III
+614,B,1.28x1.28x0.35,Steatite,1,III,17,,-18.4,DK 8984,64,DK,-18.4,Intermediate III
+615,B,1.2x1.2x0.28,Steatite,9A,V,75,,-18.4,DK 7469,64,DK,-18.4,Intermediate III
+616,B,1.92x1.92x0.56,Steatite,1,I,74,,-18.5,DK 8916,64,DK,-18.5,Intermediate III
+617,B,0.95x0.93x0.35,Steatite,1,I,21,,-18.5,DK 8962,64,DK,-18.5,Intermediate III
+618,B,0.86x0.86x0.25,Steatite,,,,First St. (7),-18.6,DK 8236,64,DK,-18.6,Intermediate III
+619,E,0.65x0.65x0.17,Faience,,,,Bet. Bls. 5 and 6,-18.6,DK 7756,64,DK,-18.6,Intermediate III
+620,B,0.86x0.85x0.3,Steatite,1,I,74,,-18.6,DK 6267,64,DK,-18.6,Intermediate III
+621,B,1.07x0.95x0.24,Steatite,,,,Bet. Bls. 1 & 7,-18.8,DK 7115,64,DK,-18.8,Intermediate III
+622,B,0.97x0.97x0.35,Steatite,1,III,1,,-18.9,DK 8930,64,DK,-18.9,Intermediate III
+623,B,0.75x0.7x0.21,Steatite,7,III,44,,-19.1,DK 8869,64,DK,-19.1,Intermediate III
+624,-,0.8x0.3,Pottery,,,,Bet. Bls. 1 & 10 (I),-19.1,DK 7116,64,DK,-19.1,Intermediate III
+625,B,0.79x0.79x0.23,Steatite,,,,Bet. Bls. 11 & 12,-19.2,DK 5710,64,DK,-19.2,Intermediate III
+626,B,1.47x1.47x0.36,Steatite,,,,First St. (13),-19.2,DK 8553,64,DK,-19.2,Intermediate III
+627,B,?x?x0.4,Steatite,,,,Bet. Bls. 11 & 12A,-19.3,DK 5215,64,DK,-19.3,Intermediate III
+628,B,1.41x1.39x0.31,Steatite,10,IV,83,,-19.3,DK 7077,64,DK,-19.3,Intermediate III
+629,B,1.05x1.05x0.35,Steatite,1,I,82,,-19.3,DK 8985,64,DK,-19.3,Intermediate III
+630,B,0.95x0.95x0.3,Steatite,12,V,96,,-19.4,DK 8629,64,DK,-19.4,Intermediate III
+631,C,0.8x0.8x0.22,Steatite,3,VI,47,,-19.4,DK 7374,65,DK,-19.4,Intermediate III
+632,B,0.83x0.82x0.28,Steatite,,,,Bet. Bls. 12 & 12A,-19.5,DK 5537,65,DK,-19.5,Intermediate III
+633,B,0.86x0.86x0.26,Steatite,2,I,7,,-19.6,DK 9283,65,DK,-19.6,Intermediate III
+634,B,0.85x0.86x0.25,Steatite,,,,Bet. Bls. 11 & 12A,-19.8,DK 5256,65,DK,-19.8,Intermediate III
+635,B,0.97x0.97x0.29,Steatite,1,II,63,,-19.8,DK 9002,65,DK,-19.8,Intermediate III
+636,C,0.92x0.92x0.36,Steatite,,,,First St. (21),-19.9,DK 8519,65,DK,-19.9,Intermediate III
+637,B,0.75x0.76x0.14,Steatite,,,,Bet. Bls. 12 & 12A,-19.9,DK 5554,65,DK,-19.9,Intermediate III
+638,B,0.65x0.64x0.2,Steatite,4,,10,,-20.0,DK 6751,65,DK,-20.0,Intermediate III
+639,B,1.0x0.98x0.28,Steatite,1,VIII,63,,-20.0,DK 6068,65,DK,-20.0,Intermediate III
+640,B,1.27x0.72x0.33,Steatite,,VI,,Bet. Bls. 5 & 7,-20.0,DK 6842,65,DK,-20.0,Intermediate III
+641,B,1.22x1.22x0.31,Steatite,9A,V,75,,-20.0,DK 7597,65,DK,-20.0,Intermediate III
+642,B,0.78x0.77x0.26,Steatite,11,III,26,,-20.0,DK 5580,65,DK,-20.0,Intermediate III
+643,D,1.2x0.6x0.46,Steatite,,I,,Lane east of Bl. 1,-20.0,DK 9255,65,DK,-20.0,Intermediate III
+644,B,1.18x1.16x0.31,Steatite,7,II,88,,-20.1,DK 8703,65,DK,-20.1,Intermediate III
+645,B,1.24x1.2x0.3,Steatite,12,V,95,,-20.2,DK 7287,65,DK,-20.2,Intermediate III
+646,B,0.9x0.9x0.26,Steatite,1,I,82,,-20.2,DK 9085,65,DK,-20.2,Intermediate III
+647,B,0.81x0.81x0.27,Steatite,,,,First St. (1),-20.3,DK 8494,65,DK,-20.3,Intermediate III
+648,B,1.3x1.25x0.27,Steatite,7,I,19,,-20.4,DK 8473,65,DK,-20.4,Intermediate III
+649,B,0.7x0.7x0.19,Steatite,4,,16,,-20.5,DK 6423,65,DK,-20.5,Intermediate III
+650,B,0.75x0.75x?,Steatite,7,VIII,28,,-20.6,DK 8756,65,DK,-20.6,Intermediate III
+651,B,1.53x1.52x0.32,Steatite,5,I,2,,-20.6,DK 7462,65,DK,-20.6,Intermediate III
+652,B,0.77x0.77x0.22,Steatite,,,,Bet. Bls. 1 (I) & 2,-20.6,DK 9343,65,DK,-20.6,Intermediate III
+653,B,1.6x1.6x0.43,Paste,3,VI,40,,-20.7,DK 7825,65,DK,-20.7,Intermediate III
+654,F,2.17x0.59x0.4,Steatite,1,IV,61,,-20.7,DK 9134,65,DK,-20.7,Intermediate III
+655,B,1.19x1.18x0.34,Steatite,,III,,Bet. Bls. 10 & 12,-20.7,DK 7066,65,DK,-20.7,Intermediate III
+656,B,0.86x0.86x0.23,Steatite,1,III,2,,-20.9,DK 9086,65,DK,-20.9,Intermediate III
+657,B,1.06x1.05x0.28,Steatite,,,,Bet. Bls. 10A & 11,-20.9,DK 6625,65,DK,-20.9,Intermediate III
+658,D,1.05x0.7x0.44,Limestone,1,III,4,,-21.0,DK 9050,65,DK,-21.0,Intermediate III
+659,B,?x?x0.28,Steatite,,,,First St. (21),-21.1,DK 8544,65,DK,-21.1,Intermediate III
+660,B,1.07x1.06x0.21,Steatite,1,III,1,,-21.1,DK 9049,65,DK,-21.1,Intermediate III
+661,I,1.75x0.5x0.2,Steatite,,,,First St. (22),-21.2,DK 8440,65,DK,-21.2,Intermediate III
+662,B,0.53x0.53x0.11,Steatite,,,,First St. (22),-21.3,DK 8478,65,DK,-21.3,Intermediate III
+663,B,0.9x0.9x0.2,Steatite,7,III,51,,-21.3,DK 8957,65,DK,-21.3,Intermediate III
+664,B,0.9x0.85x0.2,Steatite,,,,First St. (6),-21.3,DK 8650,66,DK,-21.3,Intermediate III
+665,B,?x?x0.3,Steatite,,,,First St. (21),-21.4,DK 8479,66,DK,-21.4,Intermediate III
+666,B,1.21x1.21x0.31,Steatite,4,,16,,-21.6,DK 8923,66,DK,-21.6,Intermediate III
+667,B,1.27x1.05x0.29,Steatite,,,,First St. (1),-21.7,DK 8764,66,DK,-21.7,Intermediate III
+668,F,0.95x0.78x0.29,Steatite,,,,First St. (18),-21.8,DK 8411,66,DK,-21.8,Intermediate III
+669,B,1.16x1.14x0.31,Steatite,,,,Bet. Bls. 11 & 12,-21.8,DK 6934,66,DK,-21.8,Intermediate III
+670,B,0.6x0.6x0.2,Steatite,7,VIII,16,,-21.9,DK 8853,66,DK,-21.9,Intermediate III
+671,B,?x?x0.25,Steatite,,,,First St. (21),-22.0,DK 8666,66,DK,-22.0,Early
+672,B,?x?x0.3,Steatite,,VI,,Bet. Bls. 5 & 7,-22.2,DK 7321,66,DK,-22.2,Early
+673,B,0.86x0.79x0.19,Steatite,,,,Bet. Bls. 10A & 11,-22.6,DK 7289,66,DK,-22.6,Early
+674,B,1.2x1.18x0.25,Steatite,,,,First St. (12),-22.6,DK 8634,66,DK,-22.6,Early
+675,B,0.96x0.96x0.32,Steatite,,,,First St. (1),-22.8,DK 8792,66,DK,-22.8,Early
+676,B,1.28x1.28x0.4,Steatite,7,I,3,,-23.4,DK 9475,66,DK,-23.4,Early
+677,B,1.13x1.1x0.25,Steatite,,,,Bet. Bls. 10 & 12,-23.6,DK 7040,66,DK,-23.6,Early
+678,B,0.9x0.87x0.3,Steatite,,,,Bet. Bls. 10 & 12,-23.7,DK 7050,66,DK,-23.7,Early
+679,F,1.32x0.55x0.5,Steatite,,,,Bet. Bls. 10 & 12,-23.7,DK 7061,66,DK,-23.7,Early
+680,B,1.34x1.34x0.36,Steatite,,,,Bet. Bls. 10A & 12,-23.8,DK 7147,66,DK,-23.8,Early
+681,B,1.34x0.98x0.35,Steatite,,,,Bet. Bls. 10A & 12,-24.0,DK 6700,66,DK,-24.0,Early
+682,F,0.7x0.49x0.41,Steatite,1A,,89,,-24.4,DK 5831,66,DK,-24.4,Early
+683,D,0.95x0.28x0.12,Steatite,,,,Bet. Bls. 1 & 10 (I),-25.1,DK 9427,66,DK,-25.1,Early
+684,B,0.7x0.7x0.18,Steatite,7,I,14,,-25.4,DK 9506,66,DK,-25.4,Early
+685,B,1.32x1.32x0.4,Steatite,7,I,3,,-26.9,DK 9563,66,DK,-26.9,Early
+686,B,1.18x0.87x0.36,Steatite,7,I,3,,-30.5,DK 9713,66,DK,-30.5,Early
+686A,B,1.6x1.55x0.33,Steatite,,,,Bet. Bls. 1 (IV) & 10,-14.9,DK 6847,66,DK,-14.9,Intermediate II
+686B,B,0.97x0.95x0.21,Steatite,,,,Bet. Bls. 10 & 12,-14.8,DK 7734,66,DK,-14.8,Intermediate II
+686C,B,1.38x1.38x0.38,Steatite,,,,Bet. Bls. 9 (VIII) & 10,-18.1,DK 7665,66,DK,-18.1,Intermediate III
+687,B,1.0x0.97x0.26,Steatite,,,,North of DK Area (164),-16.0,DK.H. 10,66,DK-H,-16.0,Intermediate II
+688,F,0.8x0.6x0.3,Steatite,,,,North of DK Area (164),-17.8,DK.H. 7,66,DK-H,-17.8,Intermediate II
+689,B,1.5x1.46x0.37,Steatite,,,,North of DK Area (164),-18.5,DK.H. 31,66,DK-H,-18.5,Intermediate III
+690,B,1.65x0.77x0.39,Steatite,,,,North of DK Area (164),-19.1,DK.H. 64,66,DK-H,-19.1,Intermediate III
+691,B,1.22x1.22x0.36,Steatite,,,,North of DK Area (164),-19.3,DK.H. 36,66,DK-H,-19.3,Intermediate III
+692,B,0.83x0.80x0.26,Steatite,,,,North of DK Area (164),-22.1,DK.H. 66,66,DK-H,-22.1,Early
+693,B,0.9x0.9,Steatite,,,,Surface (SD area),surface,SD 2823,66,SD,,surface
+694,B,1.4x1.4x0.35,Steatite,8,,4,,+7.3,SD 2850,67,SD,9.5,Late I
+695,B,0.75x0.75x0.25,Steatite,,,,Main St. bet. Bls. 1 & 6,+2.1,SD 2735,67,SD,4.3,Late I
+696,B,1.10x1.10x0.2,Steatite,,,,Main St. bet. Bls. 1 & 6,+2.1,SD 2697,67,SD,4.3,Late I
+697,F,1.0x0.45x0.29,Steatite,,,,Main St. bet. Bls. 1 & 6,+1.2,SD 3054,67,SD,3.4,Late I
+698,B,1.05x1.03x0.3,Steatite,1,,67,,+0.1,SD 3058,67,SD,2.3,Late I
+699,D,1.2x0.6x0.25,Steatite,,,,Surface,surface,SD 3162,67,SD,,surface
+700,B,0.78x0.78x0.25,Steatite,6,,23,,-1.5,SD 3280,67,SD,0.7,Late I
+701,B,0.9x0.9x0.28,Steatite,,,,Street bet. Bls. 1 & 2,-1.1,SD 3192,67,SD,1.1,Late I
+702,B,0.18x0.15x0.38,Steatite,6,,13,,-0.8,SD 3226,67,SD,1.4,Late I
+703,B,0.49x0.48x0.15,Steatite,10,,7,,-1.1,SD 3130,67,SD,1.1,Late I
+704,B,1.1x1.1x0.4,Steatite,6,,30,,-0.7,SD 3295,67,SD,1.5,Late I

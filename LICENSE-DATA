@@ -4,8 +4,13 @@ This licence covers the TRANSCRIBED and CODED data produced by this project:
   transcriptions/mackay1938_seal_table/
   transcriptions/marshall1931_seal_table/
   transcriptions/mackay1938_plates/
-and the files in outputs/ derived solely from them
-  (mackay_seal_table.csv, marshall_seal_table_transcribed.csv).
+and the files in outputs/ derived solely from them or from the MIT-licensed
+indus_decipher corpus (see docs/DATA_NOTICE.md for the full provenance trace):
+  outputs/mackay_seal_table.csv, outputs/marshall_seal_table.csv,
+  outputs/marshall_seal_table_transcribed.csv, outputs/findspots_mackay.csv,
+  outputs/concordance_parpola_G.csv, outputs/concordance_m77_G_inferred.csv.
+The rest of outputs/ is not covered by this licence and is git-ignored - see
+docs/DATA_NOTICE.md for which files those are and why.
 
 These are transcriptions of public-domain publications (Mackay 1938; Marshall 1931) made
 by the author from page images, together with features coded from public-domain plate

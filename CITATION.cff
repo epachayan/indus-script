@@ -6,9 +6,11 @@ authors:
   - family-names: Koshy
     given-names: Nitin Stephen
     orcid: "https://orcid.org/0009-0009-2690-0588"
-version: 0.2.0
+version: 0.2.1
 date-released: 2026-09-19
-license: MIT
+license:
+  - MIT
+  - CC-BY-4.0
 license-url: "https://github.com/epachayan/indus-script/blob/main/LICENSE"
 repository-code: "https://github.com/epachayan/indus-script"
 type: dataset
