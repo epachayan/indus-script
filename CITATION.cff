@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use these data or this code, please cite as below."
+title: "Indus script: machine-readable seal catalogues from Mackay (1938) and Marshall (1931), with photo-coded text features and a reproducible analysis pipeline"
+abstract: "Two hand-transcribed, machine-readable catalogues of Mohenjo-daro seals with find-spots and levels; text features coded from all thirteen of Mackay's seal plates; a held-out validated constraint set on Indus sign sequences; and a reproducible pipeline of genre- and size-matched structural comparisons against Sumerian, Egyptian, Aegean and proto-cuneiform corpora. Results are mainly negative and documented as such. No decipherment is offered."
+authors:
+  - family-names: Koshy
+    given-names: Nitin Stephen
+    orcid: "https://orcid.org/0009-0009-2690-0588"
+version: 0.2.0
+date-released: 2026-09-19
+license: MIT
+license-url: "https://github.com/epachayan/indus-script/blob/main/LICENSE"
+repository-code: "https://github.com/epachayan/indus-script"
+type: dataset
+keywords:
+  - Indus script
+  - Harappan script
+  - Mohenjo-daro
+  - undeciphered writing systems
+  - seal inscriptions
+  - archaeological data
+  - negative results
+references:
+  - type: book
+    title: "Further Excavations at Mohenjo-daro"
+    authors: [{family-names: Mackay, given-names: "Ernest J. H."}]
+    year: 1938
+  - type: book
+    title: "Mohenjo-daro and the Indus Civilization"
+    authors: [{family-names: Marshall, given-names: John}]
+    year: 1931

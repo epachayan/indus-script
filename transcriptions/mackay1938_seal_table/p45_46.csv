@@ -1,0 +1,39 @@
+no,type,dims_in,material,block,house,room,street,level_ft,field_no,pdf_page
+1,E,0.7x0.68x0.23,V. Paste,,,,,surface,DK 10436,45
+2,B,0.94x0.92x0.3,Steatite,,,,West St.,+2.0,DK 10323,45
+3,B,1.05x1.12x0.2,Steatite,,,,,surface,DK 10799,45
+4,F,1.42x0.7x0.45,Steatite,9,III,26,,-2.0,DK 3431,45
+5,B,0.9x0.9x0.28,Steatite,1,VI,51,,-2.2,DK 5223,45
+6,?,0.77x0.49x0.3,Steatite,8A,,42,,-3.2,DK 10087,46
+7,B,1.12x1.12x0.25,Steatite,9,III,29,,-2.4,DK 3379,46
+8,B,1.3x1.3x0.45,Steatite,,,,,-2.4,DK 10014,46
+9,B,1.6x?x0.4,Steatite,19,,13,,-2.5,DK 10508,46
+10,B,0.9x0.9x0.28,Steatite,,,,Central St.,-2.5,DK 11617,46
+11,B,1.33x1.32x0.35,Steatite,10,III,1,,-3.0,DK 4663,46
+12,B,0.97x0.97x0.35,Steatite,7,V,63,,-2.9,DK 3353,46
+13,B,1.05x1.05x0.3,Steatite,15,VI,29,,-3.5,DK 11212,46
+14,B,0.9x0.9x0.2,Steatite,18,,88,,-3.5,DK 10157,46
+15,B,1.11x1.11x0.31,Steatite,20,I,6,,-3.5,DK 12523,46
+16,B,0.61x0.61x0.25,Silver,9,XII,95,,-3.5,DK 10302,46
+17,E,0.6x0.6x0.16,Paste,8,III,25,,-3.6,DK 10511,46
+18,B,1.1x1.05x0.32,Steatite,9,I,36,,-3.2,DK 3285,46
+19,B,1.85x1.85x0.5,Steatite,7,V,53,,-3.7,DK 3356,46
+20,F,?x0.35x?,Steatite,8,II,22,,-4.2,DK 3335,46
+21,B,0.8x0.8x0.31,Steatite,22,,5,,-3.7,DK 10149,46
+22,B,1.0x1.0x0.28,Steatite,8A,,44,,-4.0,DK 10753,46
+23,B,1.19x1.19x0.36,Steatite,22,II,10,,-3.8,DK 10107,46
+24,B,1.36x1.39x0.38,Steatite,18,,107,,-3.9,DK 12688,46
+25,F,0.51x0.32,Steatite,6A,,37,,-4.0,DK 10334,46
+26,B,1.25x1.35x0.4,Steatite,9,III,35,,-3.7,DK 3373,46
+27,B,1.3x1.25x0.34,Steatite,18,,76,,-4.2,DK 10889,46
+28,F,1.6x0.85x0.3,Steatite,9,VII,19,,-4.1,DK 3631,46
+29,B,1.17x1.15x0.39,Steatite,17,III,29,,-4.0,DK 10895,46
+30,D,1.31x0.65x0.4,Steatite,21,II,87,,-4.4,DK 10355,46
+31,B,1.05x1.04x0.34,Steatite,14,III,25,,-3.9,DK 10559,46
+32,B,1.6x1.65x0.35,Steatite,7,III,41,,-4.3,DK 3361,46
+33,B,1.38x1.58x0.5,Steatite,7,V,52,,-4.3,DK 3567,46
+34,B,1.33x1.16x0.45,Steatite,8,III,30,,-4.3,DK 10893,46
+35,B,0.75x0.75x0.22,Steatite,9,I,47,,-4.2,DK 10566,46
+36,E,1.35x0.66x0.39,Steatite,21,IV,27,,-4.4,DK 10356,46
+37,E,0.7x0.67x0.22,Faience,8A,,34,,-4.7,DK 10763,46
+38,F,0.96x0.34x0.24,Steatite,,,,Bet. Bls. 3 and 5,-4.5,DK 3504,46
