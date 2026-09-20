@@ -1,6 +1,6 @@
 # Indus script: machine-readable seal catalogues from Mackay (1938) and Marshall (1931), with photo-coded text features and a reproducible analysis pipeline
 
-## No decipherment. Two hand-transcribed catalogues, a held-out validated constraint set, and controlled structural comparisons against six other writing systems — v0.2.1
+## No decipherment. Two hand-transcribed catalogues, a held-out validated constraint set, and controlled structural comparisons against six other writing systems — v0.2.2
 
 Nitin Stephen Koshy
 
