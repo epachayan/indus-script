@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.2.4 - 2026-09-20
+- `requirements.txt` was missing `pandas` (used by `export_ml.py`, part of the core
+  `run_all.sh` loop) and `pytesseract` (used by `parse_marshall_table.py`, also
+  unconditionally invoked when the optional Marshall PDF is present) - both already
+  claimed as dependencies in `docs/REPRODUCING.md`, but never actually pinned. A fresh
+  `pip install -r requirements.txt` would silently leave those pipeline steps broken.
+  `docs/REPRODUCING.md`'s dependency list corrected to match the full file.
+
 ## 0.2.3 - 2026-09-20
 - Fixed a stale "v0.2.1" version string left in the preprint's subtitle.
 

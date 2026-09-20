@@ -1,8 +1,10 @@
 numpy==2.4.4
+pandas==3.0.6
 scipy==1.17.1
 scikit-learn==1.8.0
 scikit-image==0.26.0
 pillow==12.1.1
+pytesseract==0.3.13
 fonttools==4.62.1
 statsmodels==0.15.0
 hmmlearn==0.3.3

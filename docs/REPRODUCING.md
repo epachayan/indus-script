@@ -34,5 +34,7 @@ Every script that samples or permutes sets an explicit seed. Null distributions 
 permutations depending on cost; the counts are in the scripts.
 
 ## Environment
-Python 3.12, `requirements.txt` (numpy, scipy, pandas, scikit-learn, Pillow, pytesseract,
-statsmodels). Tesseract is needed only for the plate-label helper.
+Python 3.12, `requirements.txt` (numpy, pandas, scipy, scikit-learn, scikit-image, Pillow,
+pytesseract, fonttools, statsmodels, hmmlearn). Tesseract (the OCR binary, not just the
+`pytesseract` wrapper) is needed only for the plate-label helper and the optional Marshall
+OCR comparison.
