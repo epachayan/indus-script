@@ -1,6 +1,6 @@
 # Indus script: machine-readable seal catalogues from Mackay (1938) and Marshall (1931), with photo-coded text features and a reproducible analysis pipeline
 
-## No decipherment. Two hand-transcribed catalogues, a held-out validated constraint set, and controlled structural comparisons against six other writing systems — v0.2.2
+## No decipherment. Two hand-transcribed catalogues, a held-out validated constraint set, and controlled structural comparisons against six other writing systems
 
 Nitin Stephen Koshy
 
@@ -24,11 +24,9 @@ Headline results:
   cannot produce: 7-8% excess conditioning survives out to distance 5, where the bigram
   control collapses to 0.4% (§9 below; FINDINGS §32-33).
 - Adjacent signs constrain each other about as tightly as syllables inside a Mycenaean Greek
-  word (26.5% excess mutual information vs 19.8% for Linear B words, 14% for Sumerian), and
-  far more tightly than words inside a phrase (Greek phrases 4.2%) (§9; FINDINGS §31).
-- The corpus is strongly directional: forward prediction is easier than backward by 0.50
-  bits, an order of magnitude larger than in Linear B, Sumerian or Egyptian, in the assumed
-  reading direction (§9; FINDINGS §32c, 36).
+  word (26.8% excess mutual information vs 19.8% for Linear B words, 14% for Sumerian on the
+  full corpus; 22.1% vs the same comparisons once near-duplicate texts are removed, so the
+  two are comparable rather than one clearly exceeding the other) (§9; FINDINGS §31).
 - The text-final position is a strongly preferred but open slot — 133 different signs occur
   there, 44 cover 90% of occurrences, the jar sign alone takes 43% — and a synthetic
   fixed-suffix identifier scheme overshoots the real asymmetry, so it is not a closed
@@ -39,13 +37,16 @@ Headline results:
   FINDINGS §37). This is the strongest evidence here about where fixity sits in an Indus
   text, though it does not by itself identify what that fixity encodes.
 - Text form does not vary with archaeological depth or neighbourhood anywhere in the
-  complete coded corpus (419 seals, six sample sizes up to n=419) (§11; FINDINGS §22-23).
-  One earlier positive result — inscription-only seals becoming commoner near the surface —
-  failed to replicate on Marshall's independent data (rho +0.001 vs +0.127, p=0.98) (§11;
-  FINDINGS §26). It is documented as retired, not deleted.
+  complete coded corpus (419 seals, six sample sizes up to n=419) (§11; FINDINGS §22-23);
+  the null rules out differences of roughly 20 points or more in jar-ending rate and 0.5
+  signs in mean length, and is uninformative below that. One earlier positive result —
+  inscription-only seals becoming commoner near the surface — failed to replicate on
+  Marshall's independent data (rho +0.001 vs +0.127, p=0.98) (§11; FINDINGS §26). It is
+  documented as retired, not deleted.
 - Readings requiring a small closed inventory of recurring names — deities, months,
   commodities, measures, ledger entries — are not supported: 88-95% of distinct texts occur
-  exactly once, mutual-exclusion groups sit at chance, and the corpus fails all three
+  exactly once depending on which subset of the corpus is counted (§12 gives each
+  denominator), mutual-exclusion groups sit at chance, and the corpus fails all three
   distributional predictions of an astral/calendrical reading (§12; FINDINGS §8, 10, 35).
 - Most script-internal findings replicate published work (Yadav et al. 2010; Mahadevan;
   Mukhopadhyay; Kriger & Hunt 2026); see §14 and `docs/PRIOR_WORK.md`. The contribution here
@@ -54,7 +55,7 @@ Headline results:
 
 ### Suggested reading order
 For the headline results only: this Summary, then §8-10 (structure and cross-corpus
-comparisons) and §13 (readings ruled out). For the full evidentiary trail, including
+comparisons) and §12 (readings ruled out). For the full evidentiary trail, including
 findings later qualified or retired, `docs/FINDINGS.md` has all 41 numbered sections in the
 order they were produced, and `docs/STATUS.md` marks each one standing / qualified / retired
 / replicates-published-work.
@@ -92,11 +93,16 @@ disagree on 10-20% of sign positions, which is treated throughout as noise rathe
 resolved.
 
 **Two hand-transcribed excavation-report catalogues**, produced because OCR failed on both:
-- **Mackay (1938) seal table** — 709 rows (693 distinct seals): type, size, material,
-  block/house/room or street, level relative to the DK datum, field number. Read by eye from
-  page images of "Tabulation of Seals" (vol. I, pp. 369-391). Validated against Mackay's own
-  published totals (type B 558 vs 559 transcribed; type F 81 vs 84), his narrative depths,
-  and the published data for the "Pashupati" seal (No. 420).
+- **Mackay (1938) seal table** — 709 rows: type, size, material, block/house/room or
+  street, level relative to the DK datum, field number. Read by eye from page images of
+  "Tabulation of Seals" (vol. I, pp. 369-391). Validated against Mackay's own published
+  totals (type B 558 vs 559 transcribed; type F 81 vs 84), his narrative depths, and the
+  published data for the "Pashupati" seal (No. 420). Three counts recur below for this
+  table and are not interchangeable: **709 rows** (the full transcription, including 8
+  lettered addenda such as 378A-D that share a field number with another row); **693
+  distinct seals** (rows grouped by field number, collapsing those addenda); **697 seals**
+  (rows with a plain numeric catalogue number, i.e. excluding the lettered addenda, that
+  also carry a recorded depth — the denominator used for depth-vs-type analyses, §11).
 - **Marshall (1931) seal table** — 560 rows (Nos. 1-557 plus three suffixed): plate number,
   size, level below the modern surface, type, material, excavation area and serial. Read
   from page images of "Tabulation of Seals" (vol. II, pp. 402-405), covering the 1922-27
@@ -138,7 +144,17 @@ the corpus, scored on the other).
 
 **Deduplication.** Roughly a third of inscriptions are exact or near-exact repeats.
 Apparent sign-to-motif associations largely vanish once duplicates are removed, so
-`first_occurrence` (one representative per group) is used throughout unless stated.
+`first_occurrence` (one representative per group) is used throughout unless stated. The
+stated exception, identified by external review after first publication: the four scripts
+behind the ending-slot and cross-corpus conditioning results (§8, §9, part of §10 - i.e.
+`slot_tests.py`, `slot_followups.py`, `conditioning_compare.py`, `conditioning_shape.py`)
+do not apply this filter, so their headline figures are computed on the full,
+non-deduplicated corpus. Re-run with `first_occurrence` applied, the results survive at a
+smaller magnitude - e.g. the ending-conditioning excess (§9) drops from 26.8% to 22.1%
+(n=1,028 to n=872) - which is reported alongside the original figure at each headline
+occurrence rather than silently replacing it, since the comparison corpora used throughout
+this note are not deduplicated either and a one-sided correction would not be a fair
+comparison.
 
 **Size and length correction.** Mutual information is upward-biased in small samples, so
 every cross-corpus comparison subsamples to a common size (typically 1,000 sequences, 20
@@ -246,7 +262,9 @@ structure; with the data currently available, a neural model adds nothing over a
 ## 8. The ending: a preferred but open, strongly conditioned, cross-site slot
 
 Three follow-up tests on 1,028 Mohenjo-daro texts of three or more signs establish the
-character of the final position precisely:
+character of the final position precisely. As noted in §3, the scripts behind this section
+do not apply the `first_occurrence` deduplication filter used elsewhere in this note; where
+it changes the headline number materially, both figures are given below.
 
 **(a) It is narrowed but not closed.** The first position draws on 225 distinct signs (123
 needed to cover 90% of tokens); the final position draws on only 133 signs, and just 44 of
@@ -256,11 +274,14 @@ either the first or medial positions.
 
 **(b) The slots are not independent.** The opener predicts the ending (mutual information
 2.27 bits vs 1.90 shuffled, z=+12.0), and the penultimate sign predicts it far more strongly
-(2.99 vs 1.89 bits, z=+39.7) — an effect that gets STRONGER, not weaker, after the
-commonest stock phrases are removed from the sample (3.68 bits on the remaining 631 texts
-after dropping the top 20 formulas, vs 3.05 shuffled, z=+21.9). This dependency running
-through the whole corpus, not concentrated in a few memorised phrases, is the single
-strongest structural result in this project (FINDINGS §29b, 30b).
+(2.99 vs 1.89 bits, z=+39.7 on the full corpus; z=+31.2, MI 3.12 vs 2.17 shuffled, on the
+872 `first_occurrence`-only texts — smaller but still an order of magnitude beyond chance)
+— an effect that gets STRONGER, not weaker, after the commonest stock phrases are removed
+from the sample (3.68 bits on the remaining 631 texts after dropping the top 20 formulas,
+vs 3.05 shuffled, z=+21.9; this stock-phrase check has not separately been re-run
+deduplicated). This dependency running through the whole corpus, not concentrated in a few
+memorised phrases, is the single strongest structural result in this project (FINDINGS
+§29b, 30b).
 
 **(c) A synthetic control overshoots the real asymmetry.** A meaningless identifier scheme
 — random stems attached to five fixed suffixes, matched to the real corpus in count, length
@@ -271,7 +292,11 @@ extreme fits (FINDINGS §29c).
 
 **(d) It replicates independently at Harappa**, roughly 600 km from Mohenjo-daro: the same
 front-open/back-fixed asymmetry (-2.83 bits vs -2.29), the same strength of penultimate-to-
-ending conditioning (z=+37.8 vs +39.3), and — if anything — a MORE constrained ending set
+ending conditioning (Harappa z=+37.8 against a Mohenjo-daro baseline of z=+39.3 from this
+same follow-up run — (b) above reports z=+39.7 for the identical Mohenjo-daro quantity from
+an earlier, independently-shuffled run; the two differ only in Monte Carlo noise across
+separate null distributions, not in the underlying statistic), and — if anything — a MORE
+constrained ending set
 (24 signs cover 90% of Harappa endings, vs 44 at Mohenjo-daro), so the effect is not an
 artefact of one city or one dominant sign (FINDINGS §30c).
 
@@ -283,11 +308,21 @@ fixed phrases.
 
 **Strength.** Measured as the excess mutual information between the last two elements of a
 sequence over each corpus's own shuffled null, after subsampling to a common size: Indus
-signs in an inscription reach 26.5% excess — higher than syllable-in-a-word conditioning in
-Mycenaean Greek (19.8%), word- or sign-level conditioning in Sumerian (14.1-14.7%), and far
-higher than Greek phrase-level conditioning (4.2%). A bigram-generated control built from
-the Indus corpus itself reaches only 15.3%, so the real texts exceed what first-order
-structure alone would produce (FINDINGS §31).
+signs in an inscription reach 26.8% excess — comparable to or higher than syllable-in-a-word
+conditioning in Mycenaean Greek (19.8%), word- or sign-level conditioning in Sumerian
+(14.1-14.7%), and far higher than Greek phrase-level conditioning (4.2%). This figure is
+computed without deduplicating near-identical Mohenjo-daro texts, unlike most other measures
+in this note; restricting to `first_occurrence` texts only gives 22.1% (n=872 vs 1,028),
+which softens "higher than" to "comparable to" for the Linear B comparison specifically — the
+comparison corpora are not deduplicated either, so this is not a one-sided correction, but
+the two readings should be reported together rather than only the higher one. A
+bigram-generated control built from the Indus corpus itself reaches only 15.3%, so the real
+texts exceed what first-order structure alone would produce either way (FINDINGS §31). The
+excess is normalised by each corpus's own H(end), and H(end) itself varies substantially
+(Indus 4.10 bits, Linear B words 4.76, Linear B phrases 5.68), so it is worth checking the
+normaliser is not driving the ranking: it is not — in raw bits the same comparison gives
+Indus 1.09, Linear B words 0.94, Linear B phrases 0.23, the same ordering as the normalised
+figures (`outputs/conditioning_profile.csv`, `excess_bits` column).
 
 **Range.** The dependency is not confined to adjacent signs. Indus sequences retain 7-8%
 excess conditioning out to a distance of five signs; the bigram control collapses to 0.4%
@@ -301,11 +336,25 @@ length distribution weakens their mid-range rise — but even after truncation t
 corpora still show some recovery at distance 4, while Indus does not (FINDINGS §33). The
 non-first-order result survives; the periodicity claim is qualified rather than standing.
 
-**Direction.** Forward prediction (next sign given previous) is easier than backward
-prediction by 0.50 bits in Indus, against 0.17 in Linear B, 0.03-0.05 in Sumerian, and 0.02
-in Egyptian at both sign and word level — no other corpus tested shows anything close to
-the Indus asymmetry, in the direction the assumed right-to-left reading order predicts
-(FINDINGS §32c, 36).
+**Positional entropy gradient (not independent evidence of direction).** An earlier version
+of this note reported H(next|previous) vs H(previous|next) as a measure of directional
+predictability and read the 0.50-bit gap (against 0.17 in Linear B, 0.03-0.05 in Sumerian)
+as confirming the assumed right-to-left reading order. That reading does not survive
+inspection of the calculation: because both conditional entropies subtract the same mutual
+information term, H(previous|next) − H(next|previous) reduces algebraically to H(first
+element pool) − H(second element pool) — exactly the same positional entropy gradient
+already reported in §8 (H(first) 6.40 bits vs H(last) 4.11 bits for Mohenjo-daro), not a
+separate measurement of predictability. It is also not evidence for a particular reading
+direction: the quantity flips sign under reversing every text, so it shows only that fixed
+material sits at one end, and which end is labelled "last" is the assumption being tested,
+not something the statistic can confirm. §10's Egyptian-label comparison is the relevant
+caution here — fixity sits at the FRONT in that genre-matched corpus, which is exactly why a
+one-sided entropy gap cannot be read as confirming a direction. The cross-corpus comparison
+was additionally confounded: Linear B and Sumerian sequences are longer and closer to
+stationary than Indus texts, which pushes this quantity toward zero in those corpora
+regardless of any directional structure they might have. The 0.50-bit figure is retracted as
+a headline result; §8's positional entropy gradient is the correct, non-duplicated statement
+of the underlying finding (FINDINGS §32c, 36, corrected in place).
 
 **Frequency structure.** Frequent Indus signs (50+ uses) condition their neighbours far
 more (22.5%) than rare signs (<10 uses, 8.1%) — a split also seen in Egyptian (21.8% vs
@@ -347,7 +396,7 @@ what distinguishes the Indus profile is WHERE the fixity sits, not how tightly t
 conditioned. This also shows the "fixed final slot" is not simply a property of short
 name-and-title genres in general — a genre-matched control does not produce it by itself —
 strengthening the case that it is specific to the Indus material. Repetition also differs
-sharply: 95% of distinct Indus seal texts occur exactly once, against 84% of Egyptian
+sharply: 95% of the 1,028 distinct Mohenjo-daro seal texts occur exactly once, against 84% of Egyptian
 labels (Egyptian royal names recur up to 234 times), so whatever the Indus variable element
 encodes, it is closer to unique-per-object than an Egyptian personal name is (FINDINGS §37).
 
@@ -369,8 +418,8 @@ successive sample sizes (n=69 through n=419, the complete coded corpus): mean si
 5.5-5.6 signs and jar-ending rate 27-36% at every depth band tested, with no monotonic
 trend (FINDINGS §22). The one property that DOES shift with depth is the seal OBJECT, not
 its text: inscription-only rectangular seals (type F) grow from about 5% of the earliest
-phase to 13-19% of the latest across Mackay's complete 697-seal table (rho=+0.13,
-p=0.0008) (FINDINGS §19, 22). **This trend failed to replicate on Marshall's independent
+phase to 13-19% of the latest across the 697-seal subset of the Mackay table defined in §2
+(rho=+0.13, p=0.0008) (FINDINGS §19, 22). **This trend failed to replicate on Marshall's independent
 560-seal table** (rho=+0.001, p=0.98; no individual excavation area shows it either), and
 is documented as retired rather than removed (§14; FINDINGS §26). Depth itself is a rough
 ordering with substantial error — level below datum records debris accumulation, not
@@ -386,7 +435,8 @@ hint at n=127 disappeared by n=190 and n=254) (FINDINGS §23).
 distinct register, not a continuation: it draws from a partly different sign stock (rank
 correlation with single-line frequencies only rho=0.57), is shorter (2.5 vs 3.3 signs for
 the first line of a two-line text), and ends with the arrow sign 46% of the time against
-0.3% for single-line texts. The two lines are nonetheless coupled — the ending of line 1
+0.1% for single-line texts (3 of 2,299) — a large ratio resting on a small count, worth
+reading with that in mind. The two lines are nonetheless coupled — the ending of line 1
 predicts the start of line 2 (MI 2.63 bits vs 1.92 shuffled) — though conditioning within
 each line is stronger still, so the line break is a real division, not a seam (FINDINGS
 §24, 34).
@@ -399,14 +449,17 @@ Three specific readings were tested against distributional predictions and each 
   repeated in the same text, and never totalled; the direct Proto-Elamite comparison (§6)
   shows what a genuine accounting corpus looks like by every one of these measures, and the
   Indus corpus does not match it (FINDINGS §8, 10).
-- **Container or object labels.** 93-95% of distinct texts occur exactly once, which is a
-  poor fit for a small set of category labels reused across many objects (FINDINGS §37, 39).
+- **Container or object labels.** 95% of the 1,028 distinct Mohenjo-daro seal texts occur
+  exactly once (93% of the 897 texts of 3+ signs used for the minimal-pairs test), which is
+  a poor fit for a small set of category labels reused across many objects (FINDINGS §37,
+  39).
 - **Astral or calendrical content** (e.g. numbered fish as constellations). None of three
   specific distributional predictions of this reading are met: numbered-fish combinations
   are not a small closed set (85 combinations, 41% singleton); no mutually exclusive sign
   group of characteristic size (7, 12, 27-28) rises above a chance-matched null (largest
-  observed group 35, chance-matched null 28); and 88% of texts occur exactly once, which a
-  repeating calendar applied across thousands of objects would not produce (FINDINGS §35).
+  observed group 35, chance-matched null 28); and 88% of all 2,536 corpus-wide texts occur
+  exactly once, which a repeating calendar applied across thousands of objects would not
+  produce (FINDINGS §35).
 - More generally, **any reading requiring a short list of recurring names** — deities,
   months, commodities, standard measures — runs into the same repetition test and fails it.
 
@@ -435,8 +488,10 @@ points corroborate the distributional findings independently, 90 years apart:
   something added, referring elsewhere — independent agreement with §11's finding that the
   second line is a distinct register with its own sign stock (FINDINGS §41).
 - Mackay states explicitly that a long inscription would have been written right to left,
-  matching the direction assumed throughout and confirmed distributionally in §9 (FINDINGS
-  §41).
+  matching the direction assumed throughout this note. This is the excavator's own
+  statement, not something the distributional measures in §9 independently corroborate — an
+  earlier version of this note claimed such corroboration; that claim did not survive
+  inspection (§9) and is retracted (FINDINGS §41).
 - Genuine sealings attached to bales or matting do occur at Mohenjo-daro (about seven of
   them), which Mackay attributes to poor preservation of the underlying clay rather than
   absence of the practice — a caution against reading too much into the general scarcity of
@@ -448,11 +503,14 @@ A novelty audit, run after the analysis rather than before it, found that most
 script-internal results here replicate published work: positional structure and the text
 template (Yadav, Vahia, Mahadevan, Joglekar, Adhikari, Rao et al., *PLOS ONE* 2010, using
 the same M77 corpus, and Koskenniemi & Parpola); inscriptions overwhelmingly unique and
-strict positional rules (Kriger & Hunt 2026, the same 179-seal Mohenjo-daro corpus); the jar
-and arrow signs not co-occurring (Mahadevan 2011, read as gender markers); multi-line
-inscription structure (Mukhopadhyay 2019, 2023); two stroke-numeral systems (Mahadevan);
-and Indus statistics falling within the range of genuine writing systems (Rao et al. 2009
-and the debate that followed).
+strict positional rules (Kriger & Hunt 2026, the same 179-seal Mohenjo-daro corpus);
+multi-line inscription structure (Mukhopadhyay 2019, 2023); two stroke-numeral systems
+(Mahadevan); and Indus statistics falling within the range of genuine writing systems (Rao
+et al. 2009 and the debate that followed). One claim initially filed here as a replication
+does not hold up as one: the jar and arrow signs are near-mutually-exclusive but not
+absolutely so (3 co-occurrences in 2,585 held-out applications of the constraint set, §2),
+which qualifies Mahadevan's (2011) reading of them as strict gender markers rather than
+replicating it.
 
 What this project adds, as far as a literature check could determine: two machine-readable
 excavation-report seal tables with find-spots (the books are public domain; the tabulated

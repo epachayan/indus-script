@@ -36,7 +36,8 @@ control, survived any test we ran against it, and is not known to duplicate the 
 | 26 | Marshall table | the table stands; the type F trend it tested does NOT (see Retired) |
 | 28 | Suffixing or prefixing | rules out prefixing; does not evidence suffixing |
 | 29 | What kind of slot | synthetic control overshoots, so not a closed-suffix ID system |
-| 32 | Shape of the conditioning | (a) and (b) stand; the periodicity reading is qualified by 33 |
+| 27b | Jar/arrow co-occurrence (within the validated constraint set) | near-mutually-exclusive but not absolute (3 held-out co-occurrences); qualifies Mahadevan 2011 rather than replicating it - moved here from Replicates published work, where it was previously mislabeled "18" |
+| 32 | Shape of the conditioning | (a) and (b) stand; the periodicity reading is qualified by 33; (c) direction is RETIRED (see Retired) |
 | 33 | Length control | shrank 32's claim; the non-first-order result survives |
 | 35 | Astral reading | distributional evidence only; does not touch iconographic arguments |
 | 36 | Egyptian comparison | Later Egyptian, so script-type not chronological; POS calibration is the useful part |
@@ -47,6 +48,7 @@ control, survived any test we ran against it, and is not known to duplicate the 
 | 19/22 | Type F seals commoner nearer the surface | FAILED to replicate on Marshall's independent data (rho +0.001, p=0.98) |
 | 23 | Text length differs between blocks (p=0.06 at n=127) | vanished at n=190 and n=254 |
 | 32 | Indus lacks mid-range periodicity because it is formulaic | partly a length artefact (33) |
+| 32c | Corpus is "strongly directional" (0.50 bits, confirms reading direction) | RETRACTED after external review: the measure is algebraically the positional entropy gradient already in 29a/31 (MI cancels identically, verified numerically), cannot evidence a reading direction since it flips sign under text reversal, and the cross-corpus comparison is confounded by comparison-corpus length/stationarity |
 
 ## Replicates published work (keep as calibration, do not claim)
 | # | finding | prior work |
@@ -55,7 +57,6 @@ control, survived any test we ran against it, and is not known to duplicate the 
 | 7 | Two stroke systems as numerals | Mahadevan; Kriger & Hunt 2026 |
 | 12, 13 | Name-slot uniqueness | Kriger & Hunt 2026 (98.3% unique, same corpus) |
 | 15 | Statistics within the range of writing systems | Rao et al. 2009 and the debate after it |
-| 18 | Jar and arrow not co-occurring | Mahadevan 2011 (read as gender markers) |
 | 1, 4, 10 | Sign families, Harappa tablet habit, Proto-Elamite contrast | broadly known; our versions are quantified |
 
 ## What the project actually contributes

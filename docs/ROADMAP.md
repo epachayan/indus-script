@@ -43,7 +43,11 @@ Working model (FINDINGS 6, 11-13):
 5. More MJ-type seals abroad (Gulf, Mesopotamia) from excavation reports.
 
 ## C. Stronger models
-6. Stricter near-duplicate grouping, then an HMM with sign-shape features.
+6. Stricter near-duplicate grouping, then an HMM with sign-shape features. Also re-run the
+   distance-decay curve (FINDINGS 32a, `conditioning_shape.py`) under this stricter
+   grouping: distance 5 already draws on a minority tail of longer texts (now printed
+   alongside each result, per external review), and if the non-first-order result holds up
+   there too, it is the strongest claim in the note and should be said so explicitly.
 7. Merge the three corpora through the concordances, weighting disagreements.
 
 ## C2. Line and object structure (after FINDINGS 24)

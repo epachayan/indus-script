@@ -16,3 +16,28 @@ The most useful contributions, in order:
 
 Please keep the repo's habit of marking retired and corrected results in place rather than
 deleting them: `docs/STATUS.md` records the status of every finding.
+
+## Cutting a release
+
+1. Update `CHANGELOG.md` with a dated entry naming what changed - a correction or
+   retraction should be named explicitly, not buried in a general "fixes" line.
+2. Bump the `version` in `CITATION.cff`.
+3. Confirm the `doi:` field in `CITATION.cff` and the DOI badges in `README.md` are already
+   present on `main` before tagging - not after. The archived snapshot behind a Zenodo
+   version should state its own DOI; landing the badge commit after the tag means the
+   frozen artifact contradicts the record about it.
+4. Tag, then push the tag.
+
+## When does a new Zenodo version get cut?
+
+The concept DOIs (10.5281/zenodo.22852769 for the dataset, 10.5281/zenodo.22852774 for the
+preprint) always resolve to the latest version, so a citation made before a new version
+stays valid after it - adding a version extends the chain, it does not fragment the record.
+That means new versions are cheap to justify but not free to produce (each one needs a
+review pass and, for the preprint, a rebuilt PDF), so the following rule decides when one is
+warranted rather than relying on judgement each time:
+
+> A new Zenodo version is cut only when (a) a reported result changes, is retracted or is
+> added, or (b) a dataset gains or loses rows. Wording, formatting, typos, version strings,
+> CI configuration and repository hygiene accumulate on `main` and ride along with the next
+> qualifying release.

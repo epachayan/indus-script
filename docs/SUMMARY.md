@@ -1,4 +1,4 @@
-# Summary of findings (19 September 2026)
+# Summary of findings (19 September 2026; corrected 20 September 2026)
 
 Full detail: `FINDINGS.md` (41 sections). Method and controls: `APPROACH.md`.
 Which findings stand, and which were retired: `STATUS.md`.
@@ -16,10 +16,9 @@ Which findings stand, and which were retired: `STATUS.md`.
 - Indus sequences carry dependencies **a first-order model cannot produce**: 7-8% excess
   conditioning out to distance 5, where a bigram model of the same corpus gives 0.4%.
 - Adjacent signs constrain each other **as tightly as syllables inside a Greek word**
-  (26.5% excess vs 19.8% Linear B words, 14% Sumerian), and far more tightly than words
-  inside a line (Greek phrases 4.2%).
-- **Strongly directional**: forward prediction easier than backward by 0.50 bits, an order
-  of magnitude more than Greek or Sumerian, in the assumed reading direction.
+  (26.8% excess vs 19.8% Linear B words, 14% Sumerian on the full corpus; 22.1% once
+  near-duplicate texts are removed, comparable rather than clearly higher), and far more
+  tightly than words inside a line (Greek phrases 4.2%).
 - **The ending is a preferred but open slot**: 133 signs occur there, 44 cover 90%, the
   jar takes 43%. A synthetic identifier scheme overshoots the asymmetry, so it is not a
   closed terminator set.
@@ -42,6 +41,13 @@ Which findings stand, and which were retired: `STATUS.md`.
 - The type F trend over depth **failed to replicate** on Marshall's independent data.
 - The "3 + arrow" ending was reinterpreted once line structure became visible.
 - The periodicity claim shrank after a length control.
+- The "corpus is strongly directional" claim (0.50 bits, read as confirming reading
+  direction) was **retracted** after external review: the measure is algebraically the
+  positional entropy gradient already reported elsewhere (FINDINGS 29a/31), not independent
+  evidence, and cannot evidence a direction since it flips sign under text reversal
+  (FINDINGS §32c).
+- The jar/arrow "not co-occurring" claim was corrected from a replication of Mahadevan
+  (2011) to a qualification of it: they co-occur in 3 held-out texts (FINDINGS §27).
 - A novelty audit found most script-internal findings replicate Yadav et al. (2010),
   Mahadevan, Mukhopadhyay, and Kriger & Hunt (2026).
 

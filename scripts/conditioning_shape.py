@@ -9,18 +9,21 @@ def H(s):
     return -sum(v/n*math.log2(v/n) for v in c.values())
 def mi(p): return H([a for a,_ in p])+H([b for _,b in p])-H(p)
 def excess_at(seqs,d,n=1000,draws=12,reps=25):
+    # Distance d needs texts of length d+1 or more; at d=5 that is a minority tail of a
+    # corpus with median length 4-5, so the sample size actually used is reported alongside
+    # the result (added after external review) rather than left implicit.
     S=[s for s in seqs if len(s)>=d+1]
-    if len(S)<200: return None
+    if len(S)<200: return None,len(S)
     vals=[]
     for _ in range(draws):
         X=random.sample(S,min(n,len(S)))
         p=[(s[i],s[i+d]) for s in X for i in range(len(s)-d)]
-        if len(p)<200: return None
+        if len(p)<200: return None,len(S)
         o=mi(p); hl=H([b for _,b in p]); nl=[]
         for _ in range(reps):
             b=[y for _,y in p]; random.shuffle(b); nl.append(mi(list(zip([x for x,_ in p],b))))
         vals.append((o-np.mean(nl))/hl)
-    return float(np.mean(vals))
+    return float(np.mean(vals)),len(S)
 rows=[r for r in csv.DictReader(open('../outputs/inscriptions_ml.csv')) if r['signs_reading_order']]
 IND=[r['signs_reading_order'].split() for r in rows]
 MJ=[r['signs_reading_order'].split() for r in rows if r['site']=='Mohenjo-daro']
@@ -57,11 +60,15 @@ print('--- 1. DECAY of conditioning with distance (excess MI over each corpus nu
 print(f'{"corpus":30s}' + ''.join(f'  d={d}   ' for d in range(1,6)))
 res=[]
 for name,S in CORP:
-    vals=[excess_at(S,d) for d in range(1,6)]
+    pairs=[excess_at(S,d) for d in range(1,6)]
+    vals=[v for v,_ in pairs]; ns=[k for _,k in pairs]
     print(f'{name:30s}' + ''.join(('   -    ' if v is None else f' {v:5.1%} ') for v in vals))
-    res.append(dict(corpus=name,**{f'd{d}':('' if v is None else round(v,4)) for d,v in zip(range(1,6),vals)}))
+    print(f'{"  (n texts of length >= d+1)":30s}' + ''.join(f' n={k:<5d}' for k in ns))
+    res.append(dict(corpus=name,**{f'd{d}':('' if v is None else round(v,4)) for d,v in zip(range(1,6),vals)},
+                     **{f'd{d}_n':k for d,k in zip(range(1,6),ns)}))
 with open('../outputs/conditioning_decay.csv','w',newline='') as f:
-    w=csv.DictWriter(f,fieldnames=['corpus']+[f'd{d}' for d in range(1,6)]); w.writeheader(); w.writerows(res)
+    w=csv.DictWriter(f,fieldnames=['corpus']+[f'd{d}' for d in range(1,6)]+[f'd{d}_n' for d in range(1,6)])
+    w.writeheader(); w.writerows(res)
 
 print('\n--- 2. Do frequent and rare signs condition alike? (Mohenjo-daro) ---')
 cnt=collections.Counter(s for t in MJ for s in t)
@@ -79,6 +86,13 @@ for b in ('frequent (50+)','mid (10-49)','rare (<10)'):
           f'(how much the NEXT sign is pinned down by a {b.split()[0]} sign)')
 
 print('\n--- 3. DIRECTION: forward vs backward predictability ---')
+# CAUTION (added after external review): Hb - Hf below is algebraically identical to
+# H(first-element pool) - H(second-element pool), i.e. the SAME positional entropy gradient
+# reported elsewhere (FINDINGS 29a/31), not an independent measurement of predictability -
+# both terms subtract the identical mi(fwd), which cancels exactly. It also cannot evidence
+# a reading direction: reversing every text flips its sign. Kept here, unretouched, so the
+# derivation is visible; see docs/FINDINGS.md FINDINGS 32c and docs/RESEARCH_NOTE.md S3/S9
+# for the correction. Do not cite this print's "forward/backward easier" line as a result.
 def dirs(name,S):
     S=[s for s in S if len(s)>=3]
     if len(S)<300: return

@@ -22,7 +22,11 @@ behave alike?" be asked at all. Answer: mostly no (AMI 0.096), which is why beha
 classes are derived separately from position statistics.
 
 **Deduplication (2).** Many inscriptions are near-duplicates. Apparent sign-motif
-associations largely vanish after deduplication, so `first_occurrence` is used throughout.
+associations largely vanish after deduplication, so `first_occurrence` is used throughout,
+with one identified exception: `slot_tests.py`, `slot_followups.py`,
+`conditioning_compare.py` and `conditioning_shape.py` (sections 29-33) do not apply this
+filter. Found by external review; the results survive deduplication at a smaller
+magnitude - see `docs/RESEARCH_NOTE.md` §3 for the comparison figures.
 
 **Comparison corpora (12, 15, 28, 31, 32, 33).** A number from the Indus corpus alone
 means little. Every structural claim is placed against corpora whose properties are known:

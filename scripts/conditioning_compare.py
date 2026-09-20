@@ -65,7 +65,7 @@ def gen(L):
     return s
 out.append(profile('Indus bigram-generated',[gen(len(t)) for t in ind if len(t)>=3]))
 with open('../outputs/conditioning_profile.csv','w',newline='') as f:
-    w=csv.DictWriter(f,fieldnames=['corpus','n','mi','h_end','mi_over_h','shuffled','z']); w.writeheader()
+    w=csv.DictWriter(f,fieldnames=['corpus','n','mi','h_end','mi_over_h','excess_bits','shuffled','z']); w.writeheader()
     w.writerows([r for r in out if r])
 
 # Matched-size comparison. MI is upward-biased in small samples, so (a) subsample every
@@ -75,16 +75,18 @@ print('\nMatched at n=1000 sequences, 20 draws each; excess = (MI - shuffled) / 
 def excess(name,seqs,n=1000,draws=20):
     seqs=[s for s in seqs if len(s)>=3]
     if len(seqs)<n: return None
-    vals=[]
+    vals=[]; bits=[]
     for _ in range(draws):
         S=random.sample(seqs,n); p=[(s[-2],s[-1]) for s in S]
         o=mi(p); hl=H([b for _,b in p])
         nl=[]
         for _ in range(30):
             b=[y for _,y in p]; random.shuffle(b); nl.append(mi(list(zip([x for x,_ in p],b))))
-        vals.append((o-np.mean(nl))/hl)
-    print(f'  {name:30s} excess {np.mean(vals):5.1%}  (sd {np.std(vals):.1%})')
-    return dict(corpus=name+' [n=1000]',n=n,mi='',h_end='',mi_over_h=round(float(np.mean(vals)),4),shuffled='',z='')
+        vals.append((o-np.mean(nl))/hl); bits.append(o-np.mean(nl))
+    print(f'  {name:30s} excess {np.mean(vals):5.1%}  (sd {np.std(vals):.1%})  '
+          f'raw {np.mean(bits):5.2f} bits  (sd {np.std(bits):.2f})')
+    return dict(corpus=name+' [n=1000]',n=n,mi='',h_end='',mi_over_h=round(float(np.mean(vals)),4),
+                excess_bits=round(float(np.mean(bits)),3),shuffled='',z='')
 ex=[]
 ex.append(excess('Indus Mohenjo-daro (signs)',[r['signs_reading_order'].split() for r in rows if r['site']=='Mohenjo-daro']))
 ex.append(excess('Linear B phrases (Greek)',phr))
@@ -94,5 +96,5 @@ ex.append(excess('Sumerian words (signs)',words))
 ex.append(excess('Indus shuffled (null)',[random.sample(t,len(t)) for t in ind if len(t)>=3]))
 ex.append(excess('Indus bigram-generated',[gen(len(t)) for t in ind if len(t)>=3]))
 with open('../outputs/conditioning_profile.csv','a',newline='') as f:
-    w=csv.DictWriter(f,fieldnames=['corpus','n','mi','h_end','mi_over_h','shuffled','z'])
+    w=csv.DictWriter(f,fieldnames=['corpus','n','mi','h_end','mi_over_h','excess_bits','shuffled','z'])
     w.writerows([r for r in ex if r])

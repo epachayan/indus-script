@@ -1,7 +1,11 @@
 # Findings log (Sep 2026)
 
 Numbers are reproduced by `run_all.sh`; the log file for each is in brackets.
-"Texts" means deduplicated inscriptions unless stated.
+"Texts" means deduplicated inscriptions unless stated. The stated exception, found by
+external review after first publication: sections 29-33 (`slot_tests.py`,
+`slot_followups.py`, `conditioning_compare.py`, `conditioning_shape.py`) do not apply the
+`first_occurrence` filter. The results survive deduplication at a smaller magnitude - see
+the note at the head of section 29 and `docs/RESEARCH_NOTE.md` §3.
 
 ## 1. Visual classification [cluster, finalize, refine]
 - 698 signs rendered; 36 shape clusters, refined to named families. 69 signs remain
@@ -504,6 +508,12 @@ commonest element's share at each end.
   sits at the front and their fixity at the back.
 
 ## 29. What kind of slot is the ending? [slot_tests]
+NOTE (sections 29-33): these scripts do not apply the `first_occurrence` deduplication
+filter used elsewhere (found by external review). The penultimate-to-ending MI in (b), the
+strongest single result in the project, drops from z=+39.7 (n=1,028) to z=+31.2 (MI 3.12 vs
+2.17 shuffled, n=872) once deduplicated - smaller, still far beyond chance. See
+`docs/RESEARCH_NOTE.md` §3 for the full comparison and rationale for reporting both figures.
+
 Three follow-ups to section 28, on 1,028 Mohenjo-daro texts of 3+ signs.
 
 **(a) The ending is narrowed but NOT a closed class.**
@@ -627,13 +637,29 @@ frequent (50+ uses) 22.5%, mid (10-49) 25.9%, rare (<10) 8.1%.
   that behave more like free-standing labels - which is what an inventory of 400-700 signs
   would predict.
 
-**(c) Direction.** H(next|previous) vs H(previous|next):
+**(c) Direction - RETRACTED as a directional-predictability claim; see correction below.**
+H(next|previous) vs H(previous|next):
 Indus 3.02 vs 3.53 (forward easier by 0.50 bits); Linear B words 3.85 vs 4.01 (0.17);
 Sumerian words 2.88 vs 2.91 (0.03); Sumerian lines 2.89 vs 2.84 (backward by 0.05).
-- The Indus asymmetry is an order of magnitude larger than in either comparison corpus,
+- ~~The Indus asymmetry is an order of magnitude larger than in either comparison corpus,
   in the direction our stored reading order assumes. The corpus reads consistently in one
   direction, and much more so than known systems - again pointing to a fixed formula whose
-  later elements are determined by its earlier ones.
+  later elements are determined by its earlier ones.~~
+- CORRECTION (added after external review, v0.2.5): both conditionals here subtract the
+  same mutual information term (`dirs()` in `conditioning_shape.py`), so algebraically
+  H(prev|next) - H(next|prev) = H(first-element pool) - H(second-element pool) exactly -
+  verified on the committed corpus (MI = 3.396 cancels identically both ways; the 0.502-bit
+  gap equals the marginal-entropy difference to three decimal places). This is not an
+  independent measurement of predictability; it is the SAME positional entropy gradient
+  already reported in FINDINGS 29a/31 (H(first) 6.40 vs H(last) 4.11 at Mohenjo-daro), and
+  citing both double-counts one effect as two. It also cannot confirm reading direction: the
+  quantity flips sign under reversing every text, so it shows only that fixed material sits
+  at one end, and which end is called "last" is the assumption under test, not something
+  this statistic can settle - see FINDINGS 37, where a genre-matched Egyptian control shows
+  fixity sitting at the FRONT instead. The cross-corpus comparison is further confounded:
+  Linear B and Sumerian sequences are longer and closer to stationary, which pushes this
+  quantity toward zero in those corpora regardless of any directional structure. Retired in
+  `docs/STATUS.md`.
 
 ## 33. Was the missing periodicity just short texts? [length_control]
 Section 32 found the comparison corpora rising again at distance 4-5 while the Indus
@@ -739,10 +765,15 @@ into individual signs and run through the same measures.
 - Egyptian words-in-a-sentence show NO end constraint (+0.38) and weak conditioning (5.0%),
   matching Greek phrases (4.2%). Word-level sequences behave alike across languages; the
   Indus profile is not a word-level profile.
-- **Direction.** Egyptian is almost symmetric: H(next|prev) - H(prev|next) is +0.02 at both
-  sign and word level, against Greek 0.17, Sumerian 0.03 and Indus 0.50. No known-language
-  corpus tested shows anything close to the Indus asymmetry. Whatever produces it is
-  specific to these texts.
+- **Direction - RETRACTED as an independent measure, see FINDINGS 32c.** Egyptian is almost
+  symmetric: H(next|prev) - H(prev|next) is +0.02 at both sign and word level, against Greek
+  0.17, Sumerian 0.03 and Indus 0.50. This is the same algebraically-degenerate quantity
+  corrected at FINDINGS 32c: it reduces to the positional entropy gradient (H(first) vs
+  H(last)), so the "Indus asymmetry" language here restates that finding rather than adding
+  an independent one. The Egyptian figure (+0.02, sign and word level both close to
+  symmetric) remains a fair description of Egyptian's own positional entropy gradient, which
+  is genuinely small compared with Indus's - but "direction" is not the right frame for
+  either number.
 - **The measures do track grammatical category.** Run on the UPOS tag sequences (where the
   answer is known), conditioning excess is 10.5%, with NOUN and PRON dominating final
   position and VERB and PART initial. So the measure detects grammar where grammar exists -

@@ -10,10 +10,15 @@ that audit, so no reader mistakes a replication for a discovery.
 |---|---|
 | Positional structure; distinct text beginners and enders; statistically significant sign pairs | Yadav, Vahia, Mahadevan, Joglekar, Adhikari, Rao et al., *PLOS ONE* (2010), using the same M77 corpus |
 | Inscriptions overwhelmingly unique; strict positional rules; stroke marks as numerals | Kriger & Hunt (2026), analysing the same 179-seal Mohenjo-daro corpus |
-| The jar sign and the arrow sign not co-occurring | Mahadevan (2011), who read them as gender markers |
 | Multi-line and multi-side inscription structure | Mukhopadhyay (2019, 2023), who works with explicit side-and-line numbering |
 | Short and long stroke groups as separate numeral systems | Mahadevan's sign list and subsequent work |
 | Indus statistics falling within the range of real writing systems | Rao et al., *Science* (2009), and the debate that followed (Farmer, Sproat & Witzel 2004) |
+
+**Not a replication, on inspection: the jar and arrow signs are near-mutually-exclusive but
+not absolutely so** (3 co-occurrences in 2,585 held-out applications of the constraint set,
+`docs/FINDINGS.md` §27) - this qualifies Mahadevan's (2011) reading of them as gender
+markers rather than replicating it. An earlier version of this table listed it as a
+replication; corrected after external review.
 
 ## Where this project adds something
 | contribution | why it is not already in the literature |
