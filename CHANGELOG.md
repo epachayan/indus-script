@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.2 - 2026-09-20
+- Added `docs/RESEARCH_NOTE.md`, a preprint synthesising the background, data, method,
+  results and limitations into one document for external submission (Zenodo, and any
+  future preprint server), and `docs/ABSTRACT.md`. README and `.zenodo.json` updated to
+  point at it.
+
 ## 0.2.1 - 2026-09-19
 - Zenodo readiness fixes: seven `outputs/` files with verified clean provenance are
   now committed instead of git-ignored, so they're actually present in a

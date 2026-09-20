@@ -14,5 +14,5 @@
   "related_identifiers": [
     {"identifier": "https://github.com/epachayan/indus-script", "relation": "isSupplementTo", "scheme": "url"}
   ],
-  "notes": "Code MIT; transcribed and coded data CC BY 4.0; third-party corpora under their own licences (see docs/DATA_NOTICE.md)."
+  "notes": "Code MIT; transcribed and coded data CC BY 4.0; third-party corpora under their own licences (see docs/DATA_NOTICE.md). Companion preprint (docs/RESEARCH_NOTE.md) is deposited separately; see related identifiers."
 }

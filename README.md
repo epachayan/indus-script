@@ -19,8 +19,13 @@ evidence.** The analytical results are largely negative and are documented as su
 
 ## Documentation
 
+**Primary document:** [docs/RESEARCH_NOTE.md](docs/RESEARCH_NOTE.md) - the full preprint:
+background, data, method, results and limitations in one place. See also
+[docs/ABSTRACT.md](docs/ABSTRACT.md) for a short abstract.
+
 | file | what it is for |
 |---|---|
+| [docs/RESEARCH_NOTE.md](docs/RESEARCH_NOTE.md) | the preprint: full method, results and limitations |
 | [docs/SUMMARY.md](docs/SUMMARY.md) | the findings in one page |
 | [docs/FINDINGS.md](docs/FINDINGS.md) | all 41 numbered findings, with figures and caveats |
 | [docs/STATUS.md](docs/STATUS.md) | every finding marked standing / qualified / retired / replicates published work |
