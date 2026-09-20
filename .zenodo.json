@@ -12,7 +12,8 @@
     "computational philology", "negative results"
   ],
   "related_identifiers": [
-    {"identifier": "https://github.com/epachayan/indus-script", "relation": "isSupplementTo", "scheme": "url"}
+    {"identifier": "https://github.com/epachayan/indus-script", "relation": "isSupplementTo", "scheme": "url"},
+    {"identifier": "10.5281/zenodo.22852774", "relation": "isSupplementedBy", "scheme": "doi"}
   ],
-  "notes": "Code MIT; transcribed and coded data CC BY 4.0; third-party corpora under their own licences (see docs/DATA_NOTICE.md). Companion preprint (docs/RESEARCH_NOTE.md) is deposited separately; see related identifiers."
+  "notes": "Code MIT; transcribed and coded data CC BY 4.0; third-party corpora under their own licences (see docs/DATA_NOTICE.md). Companion preprint (docs/RESEARCH_NOTE.md): https://doi.org/10.5281/zenodo.22852774"
 }

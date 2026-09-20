@@ -1,5 +1,12 @@
 # Changelog
 
+## Unreleased
+- Both Zenodo deposits published: dataset/code
+  (https://doi.org/10.5281/zenodo.22852769, concept DOI) and companion preprint
+  (https://doi.org/10.5281/zenodo.22852774, concept DOI). DOI badges and a Citation
+  section added to README.md; `doi` field added to CITATION.cff; `.zenodo.json`'s
+  related identifiers updated with the live preprint DOI.
+
 ## 0.2.4 - 2026-09-20
 - `requirements.txt` was missing two direct dependencies that scripts import:
   `pandas` (`export_ml.py`, in the core `run_all.sh` loop - was working only because

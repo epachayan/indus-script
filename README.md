@@ -1,5 +1,9 @@
 # Indus script: seal catalogues and text-structure analysis
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22852769.svg)](https://doi.org/10.5281/zenodo.22852769)
+[![Preprint DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22852774.svg)](https://doi.org/10.5281/zenodo.22852774)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Machine-readable catalogues of the Mohenjo-daro seals, text features coded from the
 excavation plates, and a reproducible pipeline of structural analyses - approached
 statistically, without assuming any language.
@@ -46,6 +50,16 @@ background, data, method, results and limitations in one place. See also
 ```
 Steps whose optional inputs are absent are skipped with a message. See
 [docs/REPRODUCING.md](docs/REPRODUCING.md).
+
+## Citation
+> Koshy, N. S. (2026). *Indus script: machine-readable seal catalogues from Mackay (1938)
+> and Marshall (1931), with photo-coded text features and a reproducible analysis
+> pipeline*. Zenodo. https://doi.org/10.5281/zenodo.22852769
+
+Companion preprint (full method, results and limitations):
+https://doi.org/10.5281/zenodo.22852774
+
+See also [CITATION.cff](CITATION.cff).
 
 ## Licences
 - **Code**: MIT ([LICENSE](LICENSE)).
