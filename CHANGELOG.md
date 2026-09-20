@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.2.3 - 2026-09-20
+- Fixed a stale "v0.2.1" version string left in the preprint's subtitle.
+
 ## 0.2.2 - 2026-09-20
 - Added `docs/RESEARCH_NOTE.md`, a preprint synthesising the background, data, method,
   results and limitations into one document for external submission (Zenodo, and any
