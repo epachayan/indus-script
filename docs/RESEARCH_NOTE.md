@@ -613,7 +613,9 @@ regenerated locally, and under what licence — is in `docs/DATASETS.md` and
 Third-party corpora are not redistributed; see `docs/DATA_NOTICE.md` for sources and terms.
 Repository: https://github.com/epachayan/indus-script
 
-**AI usage.** This work was carried out with AI assistance across data transcription
-support, pipeline scripting, and drafting of this document; all reported statistics are
-produced by the scripts in `scripts/` against the committed data in `transcriptions/` and
-`outputs/`, and are reproducible independently of any AI tool via `run_all.sh`.
+**AI usage.** Both seal tables were transcribed, and all plate features coded, by an AI
+model reading the page images (§2-3, §15); the transcriptions were cross-checked against an
+independent Tesseract reading (`scripts/xcheck/`). AI assistance was also used for pipeline
+scripting and drafting this document. All reported statistics are produced by the scripts
+in `scripts/` against the committed data in `transcriptions/` and `outputs/`, and are
+reproducible via `run_all.sh` without any AI tool.
