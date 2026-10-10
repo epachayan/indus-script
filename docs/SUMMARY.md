@@ -9,7 +9,7 @@ Which findings stand, and which were retired: `STATUS.md`.
   "Pashupati" seal.
 - **Marshall 1931 seal table**: 560 rows with excavation area and depth below surface.
 - **531 seals coded from all thirteen plates** (419 usable with find-spots) - the complete
-  set of Mackay's photographed Mohenjo-daro seals; coder reliability kappa 0.89.
+  set of Mackay's photographed Mohenjo-daro seals; AI-coded; consistency between two passes kappa 0.89.
 - **90 held-out validated constraints** (`outputs/constraints.csv`).
 
 ## Strongest structural results

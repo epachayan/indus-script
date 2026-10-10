@@ -25,11 +25,11 @@ Stated plainly, because several of them bound what the results can mean.
   question of whether one object carries several inscriptions is open (FINDINGS 24, 26).
 
 ## Of the coding
-- **One coder.** The reliability check (kappa 0.89, sign counts within one) measures
-  consistency, not accuracy. A second person might read the photographs differently.
+- **One coder, an AI model.** The reliability check (kappa 0.89, sign counts within one)
+  compares two passes of the same model, so it measures consistency, not accuracy. A person might read the photographs differently.
 - **Fish and arrow signs are not reliably readable** at plate resolution and are recorded
   as "likely"/"unclear" rather than counted.
-- **Plate numbers were read by eye** because the hand-lettered digits defeat OCR; one
+- **Plate numbers were read by the AI model** from label grids because the hand-lettered digits defeat OCR; one
   assignment error was found and corrected during a spot check (No. 1 -> No. 40).
 
 ## Of the analysis

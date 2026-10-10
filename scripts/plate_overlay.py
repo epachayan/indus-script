@@ -1,4 +1,4 @@
-# Draw the detected photo boxes with an index on a plate scan, for manual number mapping.
+# Draw the detected photo boxes with an index on a plate scan, for mapping numbers to boxes.
 # Usage: python3 plate_overlay.py <plate.jpg> <boxes.json> <out.png> [scale]
 import sys, json
 from PIL import Image, ImageDraw

@@ -53,7 +53,7 @@ Tesseract OCR cross-check gave 97.5% agreement on type, 96.4% on area, 76.7% on 
 datum) and coarser locus (area only, no block/house/room).
 
 ### transcriptions/mackay1938_plates/photo_codings.csv
-Text features read from Mackay's seal photographs (vol. II plates LXXXII-XCIX), at
+Text features read by an AI model from Mackay's seal photographs (vol. II plates LXXXII-XCIX), at
 full resolution from the Internet Archive. 531 seals from all thirteen seal plates.
 
 | column | meaning |
@@ -66,7 +66,7 @@ full resolution from the Internet Archive. 531 seals from all thirteen seal plat
 | `numeral_group` | a group of 2+ plain parallel strokes present |
 | `confidence` | high / medium / low; low rows are excluded from all tests |
 | `note` | what was seen, in words |
-Also in that folder: `recode_sample.csv` (36 seals re-coded blind; kappa 0.89 for the jar
+Also in that folder: `recode_sample.csv` (36 seals re-coded blind by the same model; kappa 0.89 for the jar
 judgement, 97% agreement within one sign), plate box/label JSON, and NOTES.md.
 
 ### transcriptions/*/CHAPTER_NOTES.md

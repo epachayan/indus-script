@@ -399,7 +399,7 @@ The face question remains open and needs CISI or the plates.
 - The face question, pursued as far as our sources allow:
   * Mackay's own type list marks types C and D as "frequently inscribed on both sides":
     33 of 701 seals (5%).
-  * His plates publish only ONE face per seal, including for those 33 (checked visually
+  * His plates publish only ONE face per seal, including for those 33 (checked on the plates
     for Nos. 292, 327, 329, 405, 414, 636, 643, 658). The second face is not illustrated.
   * The CISI digitisation in this repo uses face letters in its ids but contains only
     "A" faces for all 179 seals, so it records no second faces either.
@@ -408,7 +408,8 @@ The face question remains open and needs CISI or the plates.
     photographs of the reverses.
 
 ## 25. How reliable is the photo coding? [recode_agreement]
-36 coded seals drawn at random across the eight plates and re-coded blind.
+36 coded seals drawn at random across the eight plates and re-coded blind (a second pass
+by the same AI model that did the original coding).
 - Sign count: exact agreement 61%, within one sign 97%; mean difference +0.14 signs
   (sd 0.67), so no systematic drift between passes.
 - Jar ending: agreement 97%, Cohen's kappa 0.89.
@@ -418,8 +419,8 @@ The face question remains open and needs CISI or the plates.
   are not, but are accurate to within one sign, which is the precision the tests in
   sections 22-23 actually use. The nulls in those sections are therefore not explained by
   coding noise.
-- Caveat that remains: both passes are by the same coder, so this measures consistency,
-  not accuracy. A second person could still read these photographs differently.
+- Caveat that remains: both passes are by the same AI model, so this measures consistency,
+  not accuracy. A human coder could still read these photographs differently.
 
 ## 26. Marshall (1931): an independent seal table, and a failed replication
 [build_marshall_table, marshall_test]

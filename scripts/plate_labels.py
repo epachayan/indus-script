@@ -1,4 +1,4 @@
-# Extract the printed number labels from a plate scan into a grid for manual reading.
+# Extract the printed number labels from a plate scan into a grid for reading (done by an AI model).
 # Usage: python3 plate_labels.py <plate.jpg> <out_dir> ; writes labels.json + labels_grid.png
 import sys, os, json, numpy as np
 from PIL import Image, ImageDraw, ImageFont

@@ -17,7 +17,7 @@ evidence.** The analytical results are largely negative and are documented as su
 |---|---|
 | **Mackay (1938) seal table** | 709 rows: type, size, material, block/house/room, level, field number. AI-transcribed; validated against Mackay's own totals; independent Tesseract OCR cross-check, on 596 of 709 rows, agreement 95.7% on type; depth and field number not independently verified |
 | **Marshall (1931) seal table** | 560 rows: type, size, material, excavation area, depth. AI-transcribed; independent Tesseract OCR cross-check, agreement 97.5% on type, 96.4% on area, 76.7% on serial |
-| **Plate codings** | 531 seals from all thirteen seal plates, 419 joined to find-spots; blind re-coding gives kappa 0.89 |
+| **Plate codings** | 531 seals from all thirteen seal plates, 419 joined to find-spots; AI-coded; a blind second pass gives kappa 0.89 (consistency, not accuracy) |
 | **Constraint set** | 90 distributional rules, mined on half the corpus and scored on the held-out half (1.08% violations) |
 | **Comparisons** | Sumerian seal legends and administrative text, Egyptian (Old/Middle and Later), Linear A/B, proto-cuneiform, Proto-Elamite - genre-, size- and length-matched |
 

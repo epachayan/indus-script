@@ -36,13 +36,13 @@ Plate contents (important)
 
 Working method (OCR of the printed numbers fails: the digits are hand-lettered)
 1. `plate_labels.py <plate.jpg> <dir>` extracts every printed number into a grid image.
-2. Read the grid by eye, write `{label index: seal number}` into readings.json.
+2. Read the grid (done by the AI model), write `{label index: seal number}` into readings.json.
 3. `plate_assign.py <plate.jpg> <dir> readings.json` attaches them to the photo boxes
    (assignment by distance) and writes assigned.json.
 4. Spot-check with a verification sheet before using the result.
 
 Status per plate
-- LXXXII  (p.178, Nos. 687-704): 18 photos located by hand; SEALS, so mirror before reading.
+- LXXXII  (p.178, Nos. 687-704): 18 photos located by the AI model; SEALS, so mirror before reading.
 - LXXXIII (p.180, Nos. 1-52): 54 photo regions found, 26 numbers read reliably
   (`plate_LXXXIII_boxes.json`). Remaining numbers need a visual pass.
 - LXXXIV-LXXXVII (pp.182-188, Nos. 53-271): scans received, not yet segmented.

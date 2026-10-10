@@ -1,4 +1,4 @@
-# Attach manually read label numbers to the detected photo boxes.
+# Attach the label numbers read from the grid to the detected photo boxes.
 # Usage: python3 plate_assign.py <plate.jpg> <dir> <readings.json>
 #   readings.json: {"<label index>": <seal number>, ...} from labels_grid.png
 import sys, json, numpy as np

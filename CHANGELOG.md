@@ -7,6 +7,12 @@
   `docs/ABSTRACT.md`, `docs/APPROACH.md`, `docs/REPRODUCING.md`, `docs/DATASETS.md`,
   `docs/FINDINGS.md`, `docs/ROADMAP.md`, both transcription `NOTES.md` files and the
   `build_*_table.py` headers. The transcribed values themselves are unchanged.
+- **CORRECTED PROVENANCE**: the plate codings (`photo_codings.csv`), the reading of the
+  plate number labels and the 36-seal blind re-coding were also done by the AI model, not
+  by eye. The kappa of 0.89 is therefore the model's consistency with itself across two
+  passes, not agreement between people. Corrected in the same files plus
+  `docs/LIMITATIONS.md`, `docs/SUMMARY.md`, `CONTRIBUTING.md`, the plate NOTES and the
+  `plate_*.py` headers.
 - Added `scripts/xcheck/`: an independent Tesseract cell-level reader for each table, with
   per-field agreement against the AI transcription. Marshall: type 97.5%, area 96.4%,
   serial 76.7%. Mackay (596 of 709 rows matched): type 95.7%, level 39.1%, field number

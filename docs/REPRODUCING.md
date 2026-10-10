@@ -25,7 +25,7 @@ builders and every test based on them.
 ## Steps that are NOT automated, and cannot be
 Three datasets were produced from page images rather than by plain OCR: the two seal
 tables (transcribed by an AI model; cross-check in `scripts/xcheck/`) and the plate
-codings (read by eye). `scripts/plate_labels.py` and
+codings (also by the AI model). `scripts/plate_labels.py` and
 `scripts/plate_segment.py` prepare the images; the reading itself is not part of the pipeline, and the
 results are committed in `transcriptions/`. Re-running the pipeline uses those committed
 files; it does not re-derive them.

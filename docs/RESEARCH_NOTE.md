@@ -8,8 +8,8 @@ Nitin Stephen Koshy
 
 This note documents two machine-readable catalogues of Mohenjo-daro seals built from the
 excavation reports (Mackay 1938: 709 rows with block/house/room/level; Marshall 1931: 560
-rows with excavation area and depth), text features hand-coded from all thirteen of
-Mackay's seal plates (531 seals, 419 joined to find-spots, blind re-coding kappa 0.89), a
+rows with excavation area and depth), text features AI-coded from all thirteen of
+Mackay's seal plates (531 seals, 419 joined to find-spots, blind re-coding by the same model kappa 0.89), a
 held-out validated set of 90 distributional constraints on Indus sign sequences, and a
 reproducible pipeline of genre- and size-matched structural comparisons against Sumerian,
 Egyptian, Linear A/B, proto-cuneiform and Proto-Elamite corpora.
@@ -111,11 +111,11 @@ independent Tesseract cross-check in `scripts/xcheck/`):
   depth datum (below the modern surface vs a fixed datum) and coarser locus resolution
   (area only, not block/house/room).
 
-**Photo-coded text features** — 531 seals coded by eye from all thirteen of Mackay's seal
+**Photo-coded text features** — 531 seals coded by an AI model from all thirteen of Mackay's seal
 plates (vol. II, Pls. LXXXII-XCIX) at full IIIF resolution, joined to find-spots for 419 of
 them: sign count, whether the text ends with the jar sign, presence of fish/arrow signs,
 numeral groups, and a confidence flag (low-confidence rows excluded from all tests). Coder
-reliability was measured by blind re-coding 36 seals: sign-count agreement within one sign
+reliability was measured by a second, blind pass of the same model over 36 seals: sign-count agreement within one sign
 97%, jar-ending kappa 0.89 (§FINDINGS 25).
 
 **A validated constraint set** — 90 positional/adjacency/co-occurrence rules mined on a
@@ -173,8 +173,9 @@ when this was done properly (§10; FINDINGS §28, 37).
 **Transcription.** Both seal tables were transcribed from page images by an AI model and
 cross-checked against an independent Tesseract reading (`scripts/xcheck/`); agreement on
 the type field is 95.7% (Mackay) and 97.5% (Marshall), lower on numeric columns. The plate
-codings were produced by reading page images by eye (hand-lettered plate captions). These are one-coder efforts; reliability, not accuracy, was
-checked by blind re-coding (§FINDINGS 25). This is stated as a limitation in §15.
+codings were also produced by the AI model from the plate photographs (the hand-lettered
+plate captions defeat OCR). Reliability, not accuracy, was checked by a blind second pass of
+the same model (§FINDINGS 25). This is stated as a limitation in §15.
 
 ## 4. Sign classification and behaviour
 
@@ -548,9 +549,9 @@ phrase-final formula common to a non-suffixing language. Full detail is in
 - **Sources disagree on 10-20% of sign positions**, and sign numbering here (the G corpus)
   is a convenience identifier, not a published standard — the standard sign lists are
   Mahadevan's and Parpola's.
-- **One coder** transcribed both seal tables and coded all plate features. Reliability
-  (kappa 0.89, sign counts within one) was checked by blind re-coding, which measures
-  consistency, not accuracy; a second reader might read the photographs differently. Fish
+- **One AI model** transcribed both seal tables and coded all plate features. Reliability
+  (kappa 0.89, sign counts within one) was checked by a blind second pass of the same model,
+  which measures consistency, not accuracy; a human reader might read the photographs differently. Fish
   and arrow signs specifically are not reliably readable at plate resolution and are flagged
   "likely"/"unclear" rather than counted.
 - **Exploratory, not preregistered.** Hypotheses were formed while looking at the data.
@@ -577,7 +578,7 @@ Every script that samples or permutes sets an explicit seed. Steps whose optiona
 with a message rather than failing; `docs/REPRODUCING.md` lists exactly what each optional
 input unlocks. Three components cannot be automated and are not re-derived by the pipeline:
 the two seal tables were transcribed from page images by an AI model, and the plate
-codings by reading page images by eye; the results are committed in `transcriptions/` and used
+codings by the same model from the plate photographs; the results are committed in `transcriptions/` and used
 as-is on every run. Full data provenance and licensing — what is committed, what is
 regenerated locally, and under what licence — is in `docs/DATASETS.md` and
 `docs/DATA_NOTICE.md`.
