@@ -2,7 +2,7 @@
 
 ## Formal abstract (~200 words)
 
-We present two machine-readable catalogues of Mohenjo-daro seals, hand-transcribed from
+We present two machine-readable catalogues of Mohenjo-daro seals, transcribed by an AI model from
 the excavation reports of Mackay (1938, 709 rows with block/house/room and level) and
 Marshall (1931, 560 rows with excavation area and depth), together with text features
 coded from all thirteen of Mackay's seal plates (531 seals, 419 joined to find-spots,
@@ -22,8 +22,7 @@ there is no bilingual, and the language is unknown.
 
 ## Forum TL;DR (~100 words)
 
-Two seal catalogues transcribed by hand from the 1931/1938 excavation reports (OCR failed
-on both), text features coded from all of Mackay's seal photographs, 90 positional rules
+Two seal catalogues AI-transcribed from the 1931/1938 excavation reports (OCR-cross-checked), text features coded from all of Mackay's seal photographs, 90 positional rules
 mined on half the corpus and validated on the held-out half, and controlled comparisons
 against six other writing systems. The results are mostly negative and are documented as
 such: no ledger, no closed name-set, no link between text and find-spot depth, and one of

@@ -23,9 +23,10 @@ builders and every test based on them.
 | `data/tla_egyptian_earlier.jsonl` | TLA, Earlier Egyptian (CC BY-SA 4.0) | genre-matched Egyptian labels, determinative test |
 
 ## Steps that are NOT automated, and cannot be
-Three datasets were produced by reading page images by eye, because OCR failed on them:
-the two seal tables and the plate codings. `scripts/plate_labels.py` and
-`scripts/plate_segment.py` prepare the images; the reading itself is manual, and the
+Three datasets were produced from page images rather than by plain OCR: the two seal
+tables (transcribed by an AI model; cross-check in `scripts/xcheck/`) and the plate
+codings (read by eye). `scripts/plate_labels.py` and
+`scripts/plate_segment.py` prepare the images; the reading itself is not part of the pipeline, and the
 results are committed in `transcriptions/`. Re-running the pipeline uses those committed
 files; it does not re-derive them.
 

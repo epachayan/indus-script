@@ -1,0 +1,6 @@
+reader,field,rows,read_by_reader,coverage,agree,agreement
+out_tess_marshall,area,558,523,94%,504,96.4%
+out_tess_marshall,level_ft,517,388,75%,303,78.1%
+out_tess_marshall,level_in,549,271,49%,219,80.8%
+out_tess_marshall,serial,557,523,94%,401,76.7%
+out_tess_marshall,type,544,517,95%,504,97.5%

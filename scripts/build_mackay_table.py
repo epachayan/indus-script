@@ -1,4 +1,4 @@
-# Merge the hand-transcribed pages of Mackay (1938) "Tabulation of Seals" into one CSV
+# Merge the AI-transcribed pages of Mackay (1938) "Tabulation of Seals" into one CSV
 # and run consistency checks. Transcriptions: transcriptions/mackay1938_seal_table/pNN.csv (first file has the header).
 import csv, glob, re, collections
 HDR=['no','type','dims_in','material','block','house','room','street','level_ft','field_no','pdf_page']

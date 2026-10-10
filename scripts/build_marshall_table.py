@@ -1,4 +1,4 @@
-# Merge the hand-transcribed pages of Marshall (1931) vol. II "Tabulation of Seals"
+# Merge the AI-transcribed pages of Marshall (1931) vol. II "Tabulation of Seals"
 # (transcriptions/marshall1931_seal_table/*.csv) and run consistency checks.
 # NB: levels are below the modern SURFACE (not Mackay's datum) and the locus is only the
 # excavation area, so these are not directly comparable with outputs/mackay_seal_table.csv.

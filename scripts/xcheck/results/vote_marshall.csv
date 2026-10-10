@@ -1,0 +1,2726 @@
+plate_no,field,ai,tesseract_cells,earlier_ocr,status
+1,type,B,B,,AI confirmed by 1 OCR
+1,area,HR,HR,,AI confirmed by 1 OCR
+1,serial,4161,4161,,AI confirmed by 1 OCR
+1,level_ft,3,2,,unconfirmed: OCR differs
+1,level_in,0,,,AI only (no OCR reading)
+2,type,B,B,B,AI confirmed by 2 OCR
+2,area,E,E,E,AI confirmed by 2 OCR
+2,serial,1187,4187,1187,"AI confirmed by 1 OCR, other OCR differs"
+2,level_ft,4,4,4,AI confirmed by 2 OCR
+2,level_in,2,2,2,AI confirmed by 2 OCR
+3,type,B,B,B,AI confirmed by 2 OCR
+3,area,VS,VSR,VS,"AI confirmed by 1 OCR, other OCR differs"
+3,serial,823,22,823,"AI confirmed by 1 OCR, other OCR differs"
+3,level_ft,2,2,2,AI confirmed by 2 OCR
+3,level_in,0,,0,AI confirmed by 1 OCR
+4,type,B,B,,AI confirmed by 1 OCR
+4,area,HR,,HR,AI confirmed by 1 OCR
+4,serial,582,,582,AI confirmed by 1 OCR
+4,level_ft,3,2,3,"AI confirmed by 1 OCR, other OCR differs"
+4,level_in,0,,0,AI confirmed by 1 OCR
+5,type,B,B,,AI confirmed by 1 OCR
+5,area,HR,HR,,AI confirmed by 1 OCR
+5,serial,3330,3330,,AI confirmed by 1 OCR
+5,level_ft,7,7,,AI confirmed by 1 OCR
+5,level_in,0,0,,AI confirmed by 1 OCR
+6,type,B,B,,AI confirmed by 1 OCR
+6,area,HR,HR,HR,AI confirmed by 2 OCR
+6,serial,104,104,104,AI confirmed by 2 OCR
+6,level_ft,2,2,,AI confirmed by 1 OCR
+6,level_in,0,,,AI only (no OCR reading)
+7,type,B,B,,AI confirmed by 1 OCR
+7,area,HR,HR,,AI confirmed by 1 OCR
+7,serial,4110,411,,unconfirmed: OCR differs
+7,level_ft,3,47,,unconfirmed: OCR differs
+7,level_in,0,9,,unconfirmed: OCR differs
+8,type,B,B,,AI confirmed by 1 OCR
+8,area,HR,HR,HR,AI confirmed by 2 OCR
+8,serial,743,743,743,AI confirmed by 2 OCR
+8,level_ft,3,,,AI only (no OCR reading)
+8,level_in,0,0,,AI confirmed by 1 OCR
+9,type,B,B,,AI confirmed by 1 OCR
+9,area,C,C,C,AI confirmed by 2 OCR
+9,serial,1895,1895,1895,AI confirmed by 2 OCR
+9,level_ft,2,2,2,AI confirmed by 2 OCR
+9,level_in,0,,9,unconfirmed: OCR differs
+10,type,B,B,,AI confirmed by 1 OCR
+10,area,HR,HR,HR,AI confirmed by 2 OCR
+10,serial,4601,4601,4601,AI confirmed by 2 OCR
+10,level_ft,3,2,,unconfirmed: OCR differs
+10,level_in,0,0,,AI confirmed by 1 OCR
+11,type,B,B,,AI confirmed by 1 OCR
+11,area,C,C,,AI confirmed by 1 OCR
+11,serial,194,194,,AI confirmed by 1 OCR
+11,level_ft,5,,,AI only (no OCR reading)
+11,level_in,0,0,,AI confirmed by 1 OCR
+12,type,B,,,AI only (no OCR reading)
+12,area,C,C,C,AI confirmed by 2 OCR
+12,serial,2691,2691,2691,AI confirmed by 2 OCR
+12,level_ft,1,1,1,AI confirmed by 2 OCR
+12,level_in,6,6,6,AI confirmed by 2 OCR
+13,type,B,B,,AI confirmed by 1 OCR
+13,area,HR,HR,HR,AI confirmed by 2 OCR
+13,serial,1575,1575,1575,AI confirmed by 2 OCR
+13,level_ft,2,2,2,AI confirmed by 2 OCR
+13,level_in,6,6,6,AI confirmed by 2 OCR
+14,type,B,B,B,AI confirmed by 2 OCR
+14,area,DK,DK,DK,AI confirmed by 2 OCR
+14,serial,315,315,315,AI confirmed by 2 OCR
+14,level_ft,3,2,,unconfirmed: OCR differs
+14,level_in,0,0,,AI confirmed by 1 OCR
+15,type,B,B,,AI confirmed by 1 OCR
+15,area,VS,VS,VS,AI confirmed by 2 OCR
+15,serial,1329,1329,1329,AI confirmed by 2 OCR
+15,level_ft,1,1,1,AI confirmed by 2 OCR
+15,level_in,6,6,6,AI confirmed by 2 OCR
+16,type,B,B,B,AI confirmed by 2 OCR
+16,area,VS,VS,VS,AI confirmed by 2 OCR
+16,serial,1037,1037,1037,AI confirmed by 2 OCR
+16,level_ft,3,3,,AI confirmed by 1 OCR
+16,level_in,0,,,AI only (no OCR reading)
+17,type,B,B,B,AI confirmed by 2 OCR
+17,area,HR,HR,HR,AI confirmed by 2 OCR
+17,serial,4568,4568,4568,AI confirmed by 2 OCR
+17,level_ft,3,3,3,AI confirmed by 2 OCR
+17,level_in,0,0,3,"AI confirmed by 1 OCR, other OCR differs"
+18,type,B,B,,AI confirmed by 1 OCR
+18,area,HR,HR,HR,AI confirmed by 2 OCR
+18,serial,5804,5804,5804,AI confirmed by 2 OCR
+18,level_ft,2,2,2,AI confirmed by 2 OCR
+18,level_in,0,0,9,"AI confirmed by 1 OCR, other OCR differs"
+19,type,B,B,,AI confirmed by 1 OCR
+19,area,VS,VS,,AI confirmed by 1 OCR
+19,serial,1799,1799,,AI confirmed by 1 OCR
+19,level_ft,5,,,AI only (no OCR reading)
+19,level_in,0,,,AI only (no OCR reading)
+20,type,B,B,,AI confirmed by 1 OCR
+20,area,SD,SD,,AI confirmed by 1 OCR
+20,serial,1911,1911,,AI confirmed by 1 OCR
+20,level_ft,4,4,,AI confirmed by 1 OCR
+20,level_in,9,9,,AI confirmed by 1 OCR
+21,type,B,B,,AI confirmed by 1 OCR
+21,area,VS,VS,,AI confirmed by 1 OCR
+21,serial,1469,1469,,AI confirmed by 1 OCR
+21,level_ft,3,2,,unconfirmed: OCR differs
+21,level_in,6,6,,AI confirmed by 1 OCR
+22,type,B,B,,AI confirmed by 1 OCR
+22,area,L,L,,AI confirmed by 1 OCR
+22,serial,5,5,,AI confirmed by 1 OCR
+22,level_ft,surface,surface,,AI confirmed by 1 OCR
+23,type,B,B,,AI confirmed by 1 OCR
+23,area,HR,HR,,AI confirmed by 1 OCR
+23,serial,3730,3730,,AI confirmed by 1 OCR
+23,level_ft,9,9,,AI confirmed by 1 OCR
+23,level_in,0,0,,AI confirmed by 1 OCR
+24,type,B,B,,AI confirmed by 1 OCR
+24,area,VS,VS,VS,AI confirmed by 2 OCR
+24,serial,2328,2328,2328,AI confirmed by 2 OCR
+24,level_ft,6,6,6,AI confirmed by 2 OCR
+24,level_in,4,4,4,AI confirmed by 2 OCR
+25,type,B,B,B,AI confirmed by 2 OCR
+25,area,DK,DK,DK,AI confirmed by 2 OCR
+25,serial,1528,1528,1328,"AI confirmed by 1 OCR, other OCR differs"
+25,level_ft,2,2,2,AI confirmed by 2 OCR
+25,level_in,0,5,0,"AI confirmed by 1 OCR, other OCR differs"
+26,type,B,B,B,AI confirmed by 2 OCR
+26,area,SD,SD,SD,AI confirmed by 2 OCR
+26,serial,1839,1839,1839,AI confirmed by 2 OCR
+26,level_ft,8,8,3,"AI confirmed by 1 OCR, other OCR differs"
+26,level_in,9,9,9,AI confirmed by 2 OCR
+27,type,B,B,,AI confirmed by 1 OCR
+27,area,VS,VS,VS,AI confirmed by 2 OCR
+27,serial,1573,1573,1573,AI confirmed by 2 OCR
+27,level_ft,5,,5,AI confirmed by 1 OCR
+27,level_in,0,5,0,"AI confirmed by 1 OCR, other OCR differs"
+28,type,B,B,,AI confirmed by 1 OCR
+28,area,DK,DK,DK,AI confirmed by 2 OCR
+28,serial,2484,2484,2484,AI confirmed by 2 OCR
+28,level_ft,3,7,3,"AI confirmed by 1 OCR, other OCR differs"
+28,level_in,6,6,6,AI confirmed by 2 OCR
+29,type,B,B,B,AI confirmed by 2 OCR
+29,area,HR,HR,HR,AI confirmed by 2 OCR
+29,serial,4868,4868,4863,"AI confirmed by 1 OCR, other OCR differs"
+29,level_ft,5,,5,AI confirmed by 1 OCR
+29,level_in,0,0,9,"AI confirmed by 1 OCR, other OCR differs"
+30,type,B,B,B,AI confirmed by 2 OCR
+30,area,HR,HR,HR,AI confirmed by 2 OCR
+30,serial,167,167,167,AI confirmed by 2 OCR
+30,level_ft,surface,surface,,AI confirmed by 1 OCR
+31,type,B,B,B,AI confirmed by 2 OCR
+31,area,HR,HR,HR,AI confirmed by 2 OCR
+31,serial,5414,5414,5414,AI confirmed by 2 OCR
+31,level_ft,5,2,5,"AI confirmed by 1 OCR, other OCR differs"
+31,level_in,0,0,0,AI confirmed by 2 OCR
+32,type,B,B,,AI confirmed by 1 OCR
+32,area,HR,HR,HR,AI confirmed by 2 OCR
+32,serial,5030,5030,5030,AI confirmed by 2 OCR
+32,level_ft,5,2,3,unconfirmed: OCR differs
+32,level_in,0,,0,AI confirmed by 1 OCR
+33,type,B,B,B,AI confirmed by 2 OCR
+33,area,HR,HR,HR,AI confirmed by 2 OCR
+33,serial,2025,2025,2025,AI confirmed by 2 OCR
+33,level_ft,6,6,6,AI confirmed by 2 OCR
+33,level_in,6,6,6,AI confirmed by 2 OCR
+34,type,B,B,,AI confirmed by 1 OCR
+34,area,C,C,,AI confirmed by 1 OCR
+34,serial,181,181,,AI confirmed by 1 OCR
+34,level_ft,2,2,,AI confirmed by 1 OCR
+34,level_in,6,6,,AI confirmed by 1 OCR
+35,type,B,B,,AI confirmed by 1 OCR
+35,area,HR,HR,,AI confirmed by 1 OCR
+35,serial,2723,2723,,AI confirmed by 1 OCR
+35,level_ft,5,,,AI only (no OCR reading)
+35,level_in,0,,,AI only (no OCR reading)
+36,type,B,B,,AI confirmed by 1 OCR
+36,area,F,F,,AI confirmed by 1 OCR
+36,serial,46,40,,unconfirmed: OCR differs
+36,level_ft,5,5,,AI confirmed by 1 OCR
+36,level_in,9,9,,AI confirmed by 1 OCR
+37,type,B,B,,AI confirmed by 1 OCR
+37,area,DK,DK,DK,AI confirmed by 2 OCR
+37,serial,402,402,402,AI confirmed by 2 OCR
+37,level_ft,1,1,,AI confirmed by 1 OCR
+37,level_in,0,0,,AI confirmed by 1 OCR
+38,type,B,B,,AI confirmed by 1 OCR
+38,area,VS,VS,VS,AI confirmed by 2 OCR
+38,serial,2040,2049,2040,"AI confirmed by 1 OCR, other OCR differs"
+38,level_ft,2,,2,AI confirmed by 1 OCR
+38,level_in,6,6,6,AI confirmed by 2 OCR
+39,type,B,B,,AI confirmed by 1 OCR
+39,area,VS,VS,VS,AI confirmed by 2 OCR
+39,serial,349,349,349,AI confirmed by 2 OCR
+39,level_ft,2,,2,AI confirmed by 1 OCR
+39,level_in,1,,1,AI confirmed by 1 OCR
+40,type,B,B,B,AI confirmed by 2 OCR
+40,area,D,D,VS,"AI confirmed by 1 OCR, other OCR differs"
+40,serial,187,187,2652,"AI confirmed by 1 OCR, other OCR differs"
+40,level_ft,3,7,3,"AI confirmed by 1 OCR, other OCR differs"
+40,level_in,6,6,11,"AI confirmed by 1 OCR, other OCR differs"
+41,type,B,B,,AI confirmed by 1 OCR
+41,area,VS,VS,,AI confirmed by 1 OCR
+41,serial,2652,2632,,unconfirmed: OCR differs
+41,level_ft,3,3,,AI confirmed by 1 OCR
+41,level_in,11,11,,AI confirmed by 1 OCR
+42,type,B,B,B,AI confirmed by 2 OCR
+42,area,HR,HR,HR,AI confirmed by 2 OCR
+42,serial,4356,4356,4356,AI confirmed by 2 OCR
+42,level_ft,2,2,2,AI confirmed by 2 OCR
+42,level_in,0,,0,AI confirmed by 1 OCR
+43,type,B,B,,AI confirmed by 1 OCR
+43,area,C,CS,,unconfirmed: OCR differs
+43,serial,841,41,,unconfirmed: OCR differs
+43,level_ft,5,,,AI only (no OCR reading)
+43,level_in,5,,,AI only (no OCR reading)
+44,type,B,B,,AI confirmed by 1 OCR
+44,area,DK,DK,,AI confirmed by 1 OCR
+44,serial,2055,2055,,AI confirmed by 1 OCR
+44,level_ft,1,1,,AI confirmed by 1 OCR
+44,level_in,6,6,,AI confirmed by 1 OCR
+45,type,B,B,,AI confirmed by 1 OCR
+45,area,DK,DK,,AI confirmed by 1 OCR
+45,serial,188,188,,AI confirmed by 1 OCR
+45,level_ft,2,2,,AI confirmed by 1 OCR
+45,level_in,6,67,,unconfirmed: OCR differs
+46,type,B,B,,AI confirmed by 1 OCR
+46,area,DK,DK,,AI confirmed by 1 OCR
+46,serial,2485,2485,,AI confirmed by 1 OCR
+46,level_ft,3,2,,unconfirmed: OCR differs
+46,level_in,6,6,,AI confirmed by 1 OCR
+47,type,B,B,,AI confirmed by 1 OCR
+47,area,VS,VS,VS,AI confirmed by 2 OCR
+47,serial,3414,3414,3414,AI confirmed by 2 OCR
+47,level_ft,6,6,6,AI confirmed by 2 OCR
+47,level_in,0,,0,AI confirmed by 1 OCR
+48,type,B,B,,AI confirmed by 1 OCR
+48,area,HR,HR,HR,AI confirmed by 2 OCR
+48,serial,4076,4076,4076,AI confirmed by 2 OCR
+48,level_ft,3,2,3,"AI confirmed by 1 OCR, other OCR differs"
+48,level_in,0,0,3,"AI confirmed by 1 OCR, other OCR differs"
+49,type,B,B,,AI confirmed by 1 OCR
+49,area,DK,DK,,AI confirmed by 1 OCR
+49,serial,108,108,,AI confirmed by 1 OCR
+49,level_ft,1,,,AI only (no OCR reading)
+49,level_in,6,6,,AI confirmed by 1 OCR
+50,type,B,B,B,AI confirmed by 2 OCR
+50,area,HR,HR,HR,AI confirmed by 2 OCR
+50,serial,5085,5085,5085,AI confirmed by 2 OCR
+50,level_ft,6,6,,AI confirmed by 1 OCR
+50,level_in,0,,,AI only (no OCR reading)
+51,type,B,B,,AI confirmed by 1 OCR
+51,area,HR,HR,,AI confirmed by 1 OCR
+51,serial,4945,4945,,AI confirmed by 1 OCR
+51,level_ft,6,6,,AI confirmed by 1 OCR
+51,level_in,0,,,AI only (no OCR reading)
+52,type,B,B,,AI confirmed by 1 OCR
+52,area,HR,HR,,AI confirmed by 1 OCR
+52,serial,5629,5629,,AI confirmed by 1 OCR
+52,level_ft,3,2,,unconfirmed: OCR differs
+52,level_in,0,0,,AI confirmed by 1 OCR
+53,type,B,B,,AI confirmed by 1 OCR
+53,area,HR,HR,,AI confirmed by 1 OCR
+53,serial,629,629,,AI confirmed by 1 OCR
+53,level_ft,3,7,,unconfirmed: OCR differs
+53,level_in,0,0,,AI confirmed by 1 OCR
+54,type,B,B,,AI confirmed by 1 OCR
+54,area,VS,VS,,AI confirmed by 1 OCR
+54,serial,3594,3594,,AI confirmed by 1 OCR
+54,level_ft,5,,,AI only (no OCR reading)
+54,level_in,0,0,,AI confirmed by 1 OCR
+55,type,B,B,,AI confirmed by 1 OCR
+55,area,DK,DK,DK,AI confirmed by 2 OCR
+55,serial,3069,3069,3069,AI confirmed by 2 OCR
+55,level_ft,5,,5,AI confirmed by 1 OCR
+55,level_in,0,0,0,AI confirmed by 2 OCR
+56,area,BJ,BJ,,AI confirmed by 1 OCR
+56,serial,2,2,,AI confirmed by 1 OCR
+56,level_in,0,,,AI only (no OCR reading)
+57,type,B,B,B,AI confirmed by 2 OCR
+57,area,DM,DM,DM,AI confirmed by 2 OCR
+57,serial,189,189,189,AI confirmed by 2 OCR
+57,level_ft,9,,9,AI confirmed by 1 OCR
+57,level_in,0,,0,AI confirmed by 1 OCR
+58,type,B,B,,AI confirmed by 1 OCR
+58,area,HR,HR,,AI confirmed by 1 OCR
+58,serial,2582,2582,,AI confirmed by 1 OCR
+58,level_ft,8,,,AI only (no OCR reading)
+58,level_in,0,0,,AI confirmed by 1 OCR
+59,type,B,B,,AI confirmed by 1 OCR
+59,area,E,E,,AI confirmed by 1 OCR
+59,serial,2401,2401,,AI confirmed by 1 OCR
+59,level_ft,7,7,,AI confirmed by 1 OCR
+59,level_in,0,0,,AI confirmed by 1 OCR
+60,type,B,B,,AI confirmed by 1 OCR
+60,area,C,C,C,AI confirmed by 2 OCR
+60,serial,3070,3070,3070,AI confirmed by 2 OCR
+60,level_ft,3,37,3,"AI confirmed by 1 OCR, other OCR differs"
+60,level_in,0,,0,AI confirmed by 1 OCR
+61,type,B,B,,AI confirmed by 1 OCR
+61,area,HR,HR,,AI confirmed by 1 OCR
+61,serial,1694,1694,,AI confirmed by 1 OCR
+61,level_ft,11,11,,AI confirmed by 1 OCR
+61,level_in,0,,,AI only (no OCR reading)
+62,area,BJ,BJ,,AI confirmed by 1 OCR
+62,serial,3,3,,AI confirmed by 1 OCR
+62,level_in,0,,,AI only (no OCR reading)
+63,type,B,B,,AI confirmed by 1 OCR
+63,area,HR,HR,HR,AI confirmed by 2 OCR
+63,serial,1695,1695,1695,AI confirmed by 2 OCR
+63,level_ft,11,,,AI only (no OCR reading)
+63,level_in,0,,,AI only (no OCR reading)
+64,type,B,B,B,AI confirmed by 2 OCR
+64,area,HR,HR,HR,AI confirmed by 2 OCR
+64,serial,2468,2460,2466,unconfirmed: OCR differs
+64,level_ft,14,,14,AI confirmed by 1 OCR
+64,level_in,0,,0,AI confirmed by 1 OCR
+65,type,B,B,,AI confirmed by 1 OCR
+65,area,HR,HR,HR,AI confirmed by 2 OCR
+65,serial,5320,5320,5320,AI confirmed by 2 OCR
+65,level_ft,4,4,4,AI confirmed by 2 OCR
+65,level_in,0,,0,AI confirmed by 1 OCR
+66,type,B,B,,AI confirmed by 1 OCR
+66,area,VS,VS,VS,AI confirmed by 2 OCR
+66,serial,1059,1059,1059,AI confirmed by 2 OCR
+66,level_ft,3,,3,AI confirmed by 1 OCR
+66,level_in,6,6,6,AI confirmed by 2 OCR
+67,type,B,B,,AI confirmed by 1 OCR
+67,area,HR,HR,HR,AI confirmed by 2 OCR
+67,serial,2406,2406,2406,AI confirmed by 2 OCR
+67,level_ft,10,10,10,AI confirmed by 2 OCR
+67,level_in,0,,9,unconfirmed: OCR differs
+68,type,B,B,,AI confirmed by 1 OCR
+68,area,D,D,,AI confirmed by 1 OCR
+68,serial,21,21,,AI confirmed by 1 OCR
+68,level_ft,1,,,AI only (no OCR reading)
+68,level_in,0,,,AI only (no OCR reading)
+69,type,B,B,B,AI confirmed by 2 OCR
+69,area,HR,HR,HR,AI confirmed by 2 OCR
+69,serial,640,649,649,"both OCRs agree, AI differs"
+69,level_ft,3,27,,unconfirmed: OCR differs
+69,level_in,0,9,,unconfirmed: OCR differs
+70,type,B,B,,AI confirmed by 1 OCR
+70,area,VS,VS,,AI confirmed by 1 OCR
+70,serial,2664,2664,,AI confirmed by 1 OCR
+70,level_ft,5,,,AI only (no OCR reading)
+70,level_in,2,,,AI only (no OCR reading)
+71,area,BJ,B,,unconfirmed: OCR differs
+71,serial,4,4,,AI confirmed by 1 OCR
+71,level_in,0,,,AI only (no OCR reading)
+72,type,B,B,,AI confirmed by 1 OCR
+72,area,DK,DKR,,unconfirmed: OCR differs
+72,serial,33,33,,AI confirmed by 1 OCR
+72,level_ft,1,1,,AI confirmed by 1 OCR
+72,level_in,11,11,,AI confirmed by 1 OCR
+73,type,B,B,,AI confirmed by 1 OCR
+73,area,C,C,,AI confirmed by 1 OCR
+73,serial,3191,319,,unconfirmed: OCR differs
+73,level_ft,3,2,,unconfirmed: OCR differs
+73,level_in,0,0,,AI confirmed by 1 OCR
+74,type,B,B,,AI confirmed by 1 OCR
+74,area,DK,DK,,AI confirmed by 1 OCR
+74,serial,1541,154,,unconfirmed: OCR differs
+74,level_ft,5,5,,AI confirmed by 1 OCR
+74,level_in,0,,,AI only (no OCR reading)
+75,type,B,B,B,AI confirmed by 2 OCR
+75,area,DK,DR,DK,"AI confirmed by 1 OCR, other OCR differs"
+75,serial,2130,2139,2133,unconfirmed: OCR differs
+75,level_ft,7,7,,AI confirmed by 1 OCR
+75,level_in,0,,,AI only (no OCR reading)
+76,type,B,B,,AI confirmed by 1 OCR
+76,area,C,C,,AI confirmed by 1 OCR
+76,serial,3055,3985,,unconfirmed: OCR differs
+76,level_ft,3,3,,AI confirmed by 1 OCR
+76,level_in,9,,,AI only (no OCR reading)
+77,type,B,B,,AI confirmed by 1 OCR
+77,area,C,C,,AI confirmed by 1 OCR
+77,serial,2768,2768,,AI confirmed by 1 OCR
+77,level_ft,7,,,AI only (no OCR reading)
+77,level_in,0,0,,AI confirmed by 1 OCR
+78,type,B,B,,AI confirmed by 1 OCR
+78,area,E,E,,AI confirmed by 1 OCR
+78,serial,1345,1345,,AI confirmed by 1 OCR
+78,level_ft,5,5,,AI confirmed by 1 OCR
+78,level_in,6,6,,AI confirmed by 1 OCR
+79,type,B,B,,AI confirmed by 1 OCR
+79,area,E,E,E,AI confirmed by 2 OCR
+79,serial,1585,1385,555,unconfirmed: OCR differs
+79,level_ft,3,3,,AI confirmed by 1 OCR
+79,level_in,0,,,AI only (no OCR reading)
+80,type,B,B,,AI confirmed by 1 OCR
+80,area,HR,HR,HR,AI confirmed by 2 OCR
+80,serial,262,262,262,AI confirmed by 2 OCR
+80,level_ft,1,,,AI only (no OCR reading)
+80,level_in,0,,,AI only (no OCR reading)
+81,type,B,B,,AI confirmed by 1 OCR
+81,area,DK,DK,,AI confirmed by 1 OCR
+81,serial,2198,2198,,AI confirmed by 1 OCR
+81,level_ft,3,37,,unconfirmed: OCR differs
+81,level_in,0,,,AI only (no OCR reading)
+82,type,B,B,B,AI confirmed by 2 OCR
+82,area,HR,HR,HR,AI confirmed by 2 OCR
+82,serial,2371,2371,2371,AI confirmed by 2 OCR
+82,level_ft,3,,3,AI confirmed by 1 OCR
+82,level_in,3,2,3,"AI confirmed by 1 OCR, other OCR differs"
+83,type,B,B,,AI confirmed by 1 OCR
+83,area,DK,DR,,unconfirmed: OCR differs
+83,serial,12,12,,AI confirmed by 1 OCR
+83,level_ft,1,1,,AI confirmed by 1 OCR
+83,level_in,0,,,AI only (no OCR reading)
+84,type,B,B,,AI confirmed by 1 OCR
+84,area,SD,SD,,AI confirmed by 1 OCR
+84,serial,1930,1930,,AI confirmed by 1 OCR
+84,level_ft,12,12,,AI confirmed by 1 OCR
+84,level_in,0,0,,AI confirmed by 1 OCR
+85,type,B,B,B,AI confirmed by 2 OCR
+85,area,VS,VS,VS,AI confirmed by 2 OCR
+85,serial,1819,1819,1819,AI confirmed by 2 OCR
+85,level_ft,1,1,,AI confirmed by 1 OCR
+85,level_in,0,,,AI only (no OCR reading)
+86,type,B,B,,AI confirmed by 1 OCR
+86,area,HR,HR,HR,AI confirmed by 2 OCR
+86,serial,2863,2863,2863,AI confirmed by 2 OCR
+86,level_ft,2,2,2,AI confirmed by 2 OCR
+86,level_in,0,0,0,AI confirmed by 2 OCR
+87,type,B,B,B,AI confirmed by 2 OCR
+87,area,DK,DK,DK,AI confirmed by 2 OCR
+87,serial,2220,2220,2220,AI confirmed by 2 OCR
+87,level_ft,6,6,6,AI confirmed by 2 OCR
+87,level_in,0,0,0,AI confirmed by 2 OCR
+88,type,B,B,,AI confirmed by 1 OCR
+88,area,VS,,,AI only (no OCR reading)
+88,serial,1,,,AI only (no OCR reading)
+88,level_ft,1,1,,AI confirmed by 1 OCR
+88,level_in,3,2,,unconfirmed: OCR differs
+89,type,B,B,B,AI confirmed by 2 OCR
+89,area,VS,VS,VS,AI confirmed by 2 OCR
+89,serial,3332,3322,3332,"AI confirmed by 1 OCR, other OCR differs"
+89,level_ft,4,4,,AI confirmed by 1 OCR
+89,level_in,0,,,AI only (no OCR reading)
+90,type,B,B,,AI confirmed by 1 OCR
+90,area,VS,VS,,AI confirmed by 1 OCR
+90,serial,47,47,,AI confirmed by 1 OCR
+90,level_ft,2,3,,unconfirmed: OCR differs
+90,level_in,1,1,,AI confirmed by 1 OCR
+91,type,B,B,,AI confirmed by 1 OCR
+91,area,DK,DK,,AI confirmed by 1 OCR
+91,serial,2147,2147,,AI confirmed by 1 OCR
+91,level_ft,5,5,,AI confirmed by 1 OCR
+91,level_in,6,6,,AI confirmed by 1 OCR
+92,type,B,B,,AI confirmed by 1 OCR
+92,area,HR,HR,,AI confirmed by 1 OCR
+92,serial,4411,4,,unconfirmed: OCR differs
+92,level_ft,3,2,,unconfirmed: OCR differs
+92,level_in,0,,,AI only (no OCR reading)
+93,area,BJ,,,AI only (no OCR reading)
+93,serial,4,,,AI only (no OCR reading)
+93,level_in,0,,,AI only (no OCR reading)
+94,type,B,B,,AI confirmed by 1 OCR
+94,area,B,B,,AI confirmed by 1 OCR
+94,serial,426,26,,unconfirmed: OCR differs
+94,level_ft,8,,,AI only (no OCR reading)
+94,level_in,0,,,AI only (no OCR reading)
+95,type,B,B,,AI confirmed by 1 OCR
+95,area,DK,DK,,AI confirmed by 1 OCR
+95,serial,92,2,,unconfirmed: OCR differs
+95,level_ft,1,1,,AI confirmed by 1 OCR
+95,level_in,3,7,,unconfirmed: OCR differs
+96,type,B,B,B,AI confirmed by 2 OCR
+96,area,HR,HR,HR,AI confirmed by 2 OCR
+96,serial,4625a,4625,46254,unconfirmed: OCR differs
+96,level_in,0,,,AI only (no OCR reading)
+97,type,B,B,,AI confirmed by 1 OCR
+97,area,HR,HR,HR,AI confirmed by 2 OCR
+97,serial,4385,4385,4385,AI confirmed by 2 OCR
+97,level_ft,2,2,,AI confirmed by 1 OCR
+97,level_in,0,0,,AI confirmed by 1 OCR
+98,type,B,B,,AI confirmed by 1 OCR
+98,area,E,E,E,AI confirmed by 2 OCR
+98,serial,829,829,829,AI confirmed by 2 OCR
+98,level_ft,3,,,AI only (no OCR reading)
+98,level_in,0,,,AI only (no OCR reading)
+99,type,B,B,,AI confirmed by 1 OCR
+99,area,VS,VS,VS,AI confirmed by 2 OCR
+99,serial,49,49,49,AI confirmed by 2 OCR
+99,level_ft,2,,,AI only (no OCR reading)
+99,level_in,1,1,,AI confirmed by 1 OCR
+100,type,B,B,,AI confirmed by 1 OCR
+100,area,SD,SD,,AI confirmed by 1 OCR
+100,serial,2010,2010,,AI confirmed by 1 OCR
+100,level_ft,10,10,,AI confirmed by 1 OCR
+100,level_in,0,,,AI only (no OCR reading)
+101,type,B,B,,AI confirmed by 1 OCR
+101,area,DK,DK,,AI confirmed by 1 OCR
+101,serial,1522,1522,,AI confirmed by 1 OCR
+101,level_ft,3,,,AI only (no OCR reading)
+101,level_in,0,0,,AI confirmed by 1 OCR
+102,type,B,B,,AI confirmed by 1 OCR
+102,area,HR,HR,HR,AI confirmed by 2 OCR
+102,serial,4560,4560,4560,AI confirmed by 2 OCR
+102,level_ft,surface,surface,,AI confirmed by 1 OCR
+103,type,B,B,,AI confirmed by 1 OCR
+103,area,HR,HR,,AI confirmed by 1 OCR
+103,serial,683,683,,AI confirmed by 1 OCR
+103,level_ft,surface,surface,,AI confirmed by 1 OCR
+104,type,B,B,,AI confirmed by 1 OCR
+104,area,VS,VS,,AI confirmed by 1 OCR
+104,serial,1779,1779,,AI confirmed by 1 OCR
+104,level_ft,5,5,,AI confirmed by 1 OCR
+104,level_in,0,0,,AI confirmed by 1 OCR
+105,type,B,B,B,AI confirmed by 2 OCR
+105,area,SD,SD,SD,AI confirmed by 2 OCR
+105,serial,2445,2445,2445,AI confirmed by 2 OCR
+105,level_ft,6,6,6,AI confirmed by 2 OCR
+105,level_in,0,4,0,"AI confirmed by 1 OCR, other OCR differs"
+106,type,B,B,,AI confirmed by 1 OCR
+106,area,HR,HR,,AI confirmed by 1 OCR
+106,serial,4238,4238,,AI confirmed by 1 OCR
+106,level_ft,3,,,AI only (no OCR reading)
+106,level_in,0,0,,AI confirmed by 1 OCR
+107,type,B,B,,AI confirmed by 1 OCR
+107,area,E,E,,AI confirmed by 1 OCR
+107,serial,296,296,,AI confirmed by 1 OCR
+107,level_ft,7,7,,AI confirmed by 1 OCR
+107,level_in,0,,,AI only (no OCR reading)
+108,type,B,B,,AI confirmed by 1 OCR
+108,area,DK,DK,DK,AI confirmed by 2 OCR
+108,serial,596,596,596,AI confirmed by 2 OCR
+108,level_ft,6,6,6,AI confirmed by 2 OCR
+108,level_in,0,0,0,AI confirmed by 2 OCR
+109,type,B,B,,AI confirmed by 1 OCR
+109,area,E,E,,AI confirmed by 1 OCR
+109,serial,230,230,,AI confirmed by 1 OCR
+109,level_ft,1,1,,AI confirmed by 1 OCR
+109,level_in,3,2,,unconfirmed: OCR differs
+110,type,B,B,,AI confirmed by 1 OCR
+110,area,HR,,,AI only (no OCR reading)
+110,serial,4111,,,AI only (no OCR reading)
+110,level_ft,3,3,,AI confirmed by 1 OCR
+110,level_in,0,0,,AI confirmed by 1 OCR
+111,type,B,B,B,AI confirmed by 2 OCR
+111,area,SD,SD,SD,AI confirmed by 2 OCR
+111,serial,1850,1860,1850,"AI confirmed by 1 OCR, other OCR differs"
+111,level_ft,6,6,6,AI confirmed by 2 OCR
+111,level_in,0,0,0,AI confirmed by 2 OCR
+112,type,B,B,,AI confirmed by 1 OCR
+112,area,E,E,,AI confirmed by 1 OCR
+112,serial,2548,2548,,AI confirmed by 1 OCR
+112,level_in,0,,,AI only (no OCR reading)
+113,type,B,B,,AI confirmed by 1 OCR
+113,area,DK,DK,,AI confirmed by 1 OCR
+113,serial,962,62,,unconfirmed: OCR differs
+113,level_ft,3,2,,unconfirmed: OCR differs
+113,level_in,0,0,,AI confirmed by 1 OCR
+114,type,B,B,,AI confirmed by 1 OCR
+114,area,HR,HR,,AI confirmed by 1 OCR
+114,serial,4965,4965,,AI confirmed by 1 OCR
+114,level_ft,6,6,,AI confirmed by 1 OCR
+114,level_in,0,,,AI only (no OCR reading)
+115,type,B,B,,AI confirmed by 1 OCR
+115,area,E,E,,AI confirmed by 1 OCR
+115,serial,470,470,,AI confirmed by 1 OCR
+115,level_ft,3,37,,unconfirmed: OCR differs
+115,level_in,0,,,AI only (no OCR reading)
+116,type,B,B,,AI confirmed by 1 OCR
+116,area,DM,DM,,AI confirmed by 1 OCR
+116,serial,67,67,,AI confirmed by 1 OCR
+116,level_ft,6,6,,AI confirmed by 1 OCR
+116,level_in,0,,,AI only (no OCR reading)
+117,type,B,B,,AI confirmed by 1 OCR
+117,area,VS,VS,,AI confirmed by 1 OCR
+117,serial,3595,3595,,AI confirmed by 1 OCR
+117,level_ft,7,,,AI only (no OCR reading)
+117,level_in,0,,,AI only (no OCR reading)
+118,type,B,B,,AI confirmed by 1 OCR
+118,area,SD,SD,SD,AI confirmed by 2 OCR
+118,serial,570,570,370,"AI confirmed by 1 OCR, other OCR differs"
+118,level_ft,8,,8,AI confirmed by 1 OCR
+118,level_in,0,5,9,unconfirmed: OCR differs
+119,type,B,B,,AI confirmed by 1 OCR
+119,area,VS,VS,,AI confirmed by 1 OCR
+119,serial,2989,2989,,AI confirmed by 1 OCR
+119,level_ft,6,6,,AI confirmed by 1 OCR
+119,level_in,0,,,AI only (no OCR reading)
+120,type,C,C,,AI confirmed by 1 OCR
+120,area,HR,HR,HR,AI confirmed by 2 OCR
+120,serial,4264,4264,4264,AI confirmed by 2 OCR
+120,level_in,0,,,AI only (no OCR reading)
+121,type,B,B,,AI confirmed by 1 OCR
+121,area,VS,VS,,AI confirmed by 1 OCR
+121,serial,2542,2542,,AI confirmed by 1 OCR
+121,level_ft,5,,,AI only (no OCR reading)
+121,level_in,8,8,,AI confirmed by 1 OCR
+122,type,B,B,,AI confirmed by 1 OCR
+122,area,D,D,,AI confirmed by 1 OCR
+122,serial,316,316,,AI confirmed by 1 OCR
+122,level_ft,4,4,,AI confirmed by 1 OCR
+122,level_in,6,6,,AI confirmed by 1 OCR
+123,type,B,B,B,AI confirmed by 2 OCR
+123,area,HR,HR,HR,AI confirmed by 2 OCR
+123,serial,3732a,37324,37324,"both OCRs agree, AI differs"
+123,level_ft,2,2,2,AI confirmed by 2 OCR
+123,level_in,4,4,4,AI confirmed by 2 OCR
+124,type,B,B,B,AI confirmed by 2 OCR
+124,area,HR,HR,HR,AI confirmed by 2 OCR
+124,serial,5700,5700,5700,AI confirmed by 2 OCR
+124,level_ft,9,9,,AI confirmed by 1 OCR
+124,level_in,0,0,,AI confirmed by 1 OCR
+125,type,B,B,,AI confirmed by 1 OCR
+125,area,E,E,,AI confirmed by 1 OCR
+125,serial,2484a,2844,,unconfirmed: OCR differs
+125,level_ft,5,,,AI only (no OCR reading)
+125,level_in,0,0,,AI confirmed by 1 OCR
+126,type,B,B,B,AI confirmed by 2 OCR
+126,area,HR,HR,HR,AI confirmed by 2 OCR
+126,serial,3207,3207,3207,AI confirmed by 2 OCR
+126,level_ft,7,5,,unconfirmed: OCR differs
+126,level_in,0,0,,AI confirmed by 1 OCR
+127,type,B,B,,AI confirmed by 1 OCR
+127,area,HR,HR,HR,AI confirmed by 2 OCR
+127,serial,4368,4368,4368,AI confirmed by 2 OCR
+127,level_ft,2,4,2,"AI confirmed by 1 OCR, other OCR differs"
+127,level_in,5,,5,AI confirmed by 1 OCR
+128,type,B,B,,AI confirmed by 1 OCR
+128,area,VS,VS,,AI confirmed by 1 OCR
+128,serial,778,778,,AI confirmed by 1 OCR
+128,level_ft,11,,,AI only (no OCR reading)
+128,level_in,0,0,,AI confirmed by 1 OCR
+129,type,B,B,,AI confirmed by 1 OCR
+129,area,E,E,E,AI confirmed by 2 OCR
+129,serial,1094,1094,1094,AI confirmed by 2 OCR
+129,level_ft,1,1,,AI confirmed by 1 OCR
+129,level_in,0,,,AI only (no OCR reading)
+130,type,B,B,,AI confirmed by 1 OCR
+130,area,VS,VS,VS,AI confirmed by 2 OCR
+130,serial,1468,1468,1468,AI confirmed by 2 OCR
+130,level_ft,2,2,2,AI confirmed by 2 OCR
+130,level_in,6,6,6,AI confirmed by 2 OCR
+131,type,B,B,,AI confirmed by 1 OCR
+131,area,VS,VS,,AI confirmed by 1 OCR
+131,serial,3391,3391,,AI confirmed by 1 OCR
+131,level_ft,5,,,AI only (no OCR reading)
+131,level_in,0,0,,AI confirmed by 1 OCR
+132,type,B,B,,AI confirmed by 1 OCR
+132,area,D,D,,AI confirmed by 1 OCR
+132,serial,552,552,,AI confirmed by 1 OCR
+132,level_ft,3,3,,AI confirmed by 1 OCR
+132,level_in,9,9,,AI confirmed by 1 OCR
+133,type,B,B,B,AI confirmed by 2 OCR
+133,area,B,B,B,AI confirmed by 2 OCR
+133,serial,383,383,383,AI confirmed by 2 OCR
+133,level_ft,4,4,,AI confirmed by 1 OCR
+133,level_in,0,,,AI only (no OCR reading)
+134,type,B,B,,AI confirmed by 1 OCR
+134,area,E,E,,AI confirmed by 1 OCR
+134,serial,2767,2767,,AI confirmed by 1 OCR
+134,level_in,0,,,AI only (no OCR reading)
+135,type,B,B,B,AI confirmed by 2 OCR
+135,area,HR,HR,HR,AI confirmed by 2 OCR
+135,serial,2973,2973,2973,AI confirmed by 2 OCR
+135,level_in,0,,,AI only (no OCR reading)
+136,type,B,B,,AI confirmed by 1 OCR
+136,area,C,C,,AI confirmed by 1 OCR
+136,serial,329,329,,AI confirmed by 1 OCR
+136,level_ft,3,2,,unconfirmed: OCR differs
+136,level_in,6,6,,AI confirmed by 1 OCR
+137,type,B,B,,AI confirmed by 1 OCR
+137,area,VS,VS,VS,AI confirmed by 2 OCR
+137,serial,3154,3164,3154,"AI confirmed by 1 OCR, other OCR differs"
+137,level_ft,18,18,,AI confirmed by 1 OCR
+137,level_in,0,,,AI only (no OCR reading)
+138,type,B,B,,AI confirmed by 1 OCR
+138,area,HR,HR,,AI confirmed by 1 OCR
+138,serial,4986,4986,,AI confirmed by 1 OCR
+138,level_ft,2,2,,AI confirmed by 1 OCR
+138,level_in,8,,,AI only (no OCR reading)
+139,type,B,B,,AI confirmed by 1 OCR
+139,area,HR,HR,HR,AI confirmed by 2 OCR
+139,serial,5531,5531,5531,AI confirmed by 2 OCR
+139,level_ft,6,6,6,AI confirmed by 2 OCR
+139,level_in,0,,0,AI confirmed by 1 OCR
+140,type,B,B,,AI confirmed by 1 OCR
+140,area,DK,DK,,AI confirmed by 1 OCR
+140,serial,3279,3279,,AI confirmed by 1 OCR
+140,level_ft,7,,,AI only (no OCR reading)
+140,level_in,0,0,,AI confirmed by 1 OCR
+141,type,B,B,,AI confirmed by 1 OCR
+141,area,HR,HR,,AI confirmed by 1 OCR
+141,serial,1950,1959,,unconfirmed: OCR differs
+141,level_ft,5,5,,AI confirmed by 1 OCR
+141,level_in,6,,,AI only (no OCR reading)
+142,type,B,B,,AI confirmed by 1 OCR
+142,area,DK,DR,DK,"AI confirmed by 1 OCR, other OCR differs"
+142,serial,3054,3054,3054,AI confirmed by 2 OCR
+142,level_ft,1,1,,AI confirmed by 1 OCR
+142,level_in,6,6,,AI confirmed by 1 OCR
+143,type,B,B,,AI confirmed by 1 OCR
+143,area,HR,HR,,AI confirmed by 1 OCR
+143,serial,4057,4067,,unconfirmed: OCR differs
+143,level_in,0,,,AI only (no OCR reading)
+144,type,B,B,,AI confirmed by 1 OCR
+144,area,HR,HR,,AI confirmed by 1 OCR
+144,serial,5076,5976,,unconfirmed: OCR differs
+144,level_ft,6,6,,AI confirmed by 1 OCR
+144,level_in,0,,,AI only (no OCR reading)
+145,type,B,B,,AI confirmed by 1 OCR
+145,area,DK,DK,,AI confirmed by 1 OCR
+145,serial,2971,2971,,AI confirmed by 1 OCR
+145,level_ft,2,2,,AI confirmed by 1 OCR
+145,level_in,6,,,AI only (no OCR reading)
+146,type,B,B,,AI confirmed by 1 OCR
+146,area,E,E,,AI confirmed by 1 OCR
+146,serial,845,845,,AI confirmed by 1 OCR
+146,level_ft,2,2,,AI confirmed by 1 OCR
+146,level_in,9,,,AI only (no OCR reading)
+147,type,B,B,,AI confirmed by 1 OCR
+147,area,DK,DK,,AI confirmed by 1 OCR
+147,serial,221,221,,AI confirmed by 1 OCR
+147,level_ft,2,,,AI only (no OCR reading)
+147,level_in,6,6,,AI confirmed by 1 OCR
+148,type,B,B,,AI confirmed by 1 OCR
+148,area,VS,VS,VS,AI confirmed by 2 OCR
+148,serial,1961,1961,1961,AI confirmed by 2 OCR
+148,level_ft,5,5,5,AI confirmed by 2 OCR
+148,level_in,6,6,6,AI confirmed by 2 OCR
+149,type,B,B,,AI confirmed by 1 OCR
+149,area,HR,HR,HR,AI confirmed by 2 OCR
+149,serial,4384,4384,4384,AI confirmed by 2 OCR
+149,level_ft,2,,,AI only (no OCR reading)
+149,level_in,0,0,,AI confirmed by 1 OCR
+150,type,B,B,,AI confirmed by 1 OCR
+150,area,C,C,,AI confirmed by 1 OCR
+150,serial,3155,3185,,unconfirmed: OCR differs
+150,level_ft,1,1,,AI confirmed by 1 OCR
+150,level_in,4,4,,AI confirmed by 1 OCR
+151,type,B,B,,AI confirmed by 1 OCR
+151,area,HR,HR,,AI confirmed by 1 OCR
+151,serial,5905,3995,,unconfirmed: OCR differs
+151,level_ft,5,,,AI only (no OCR reading)
+151,level_in,0,0,,AI confirmed by 1 OCR
+152,type,B,B,,AI confirmed by 1 OCR
+152,area,C,,,AI only (no OCR reading)
+152,serial,392,,,AI only (no OCR reading)
+152,level_in,0,,,AI only (no OCR reading)
+153,type,B,B,,AI confirmed by 1 OCR
+153,area,A,A,,AI confirmed by 1 OCR
+153,serial,274,274,,AI confirmed by 1 OCR
+153,level_ft,2,,,AI only (no OCR reading)
+153,level_in,0,,,AI only (no OCR reading)
+154,type,B,B,,AI confirmed by 1 OCR
+154,area,VS,VS,,AI confirmed by 1 OCR
+154,serial,90,0,,unconfirmed: OCR differs
+154,level_ft,3,2,,unconfirmed: OCR differs
+154,level_in,1,1,,AI confirmed by 1 OCR
+155,type,B,B,,AI confirmed by 1 OCR
+155,area,DK,DK,,AI confirmed by 1 OCR
+155,serial,1892,1892,,AI confirmed by 1 OCR
+155,level_ft,3,,,AI only (no OCR reading)
+155,level_in,0,5,,unconfirmed: OCR differs
+156,type,B,B,,AI confirmed by 1 OCR
+156,area,HR,HR,HR,AI confirmed by 2 OCR
+156,serial,2522,2522,2522,AI confirmed by 2 OCR
+156,level_ft,12,12,,AI confirmed by 1 OCR
+156,level_in,6,6,,AI confirmed by 1 OCR
+157,type,B,B,,AI confirmed by 1 OCR
+157,area,VS,VS,,AI confirmed by 1 OCR
+157,serial,1666,1066,,unconfirmed: OCR differs
+157,level_ft,3,27,,unconfirmed: OCR differs
+157,level_in,6,6,,AI confirmed by 1 OCR
+158,type,B,B,,AI confirmed by 1 OCR
+158,area,DM,DM,,AI confirmed by 1 OCR
+158,serial,50,50,,AI confirmed by 1 OCR
+158,level_ft,4,1,,unconfirmed: OCR differs
+158,level_in,7,,,AI only (no OCR reading)
+159,type,B,B,,AI confirmed by 1 OCR
+159,area,E,E,,AI confirmed by 1 OCR
+159,serial,491,491,,AI confirmed by 1 OCR
+159,level_ft,4,4,,AI confirmed by 1 OCR
+159,level_in,6,6,,AI confirmed by 1 OCR
+160,type,B,B,B,AI confirmed by 2 OCR
+160,area,E,,E,AI confirmed by 1 OCR
+160,serial,1809,,1809,AI confirmed by 1 OCR
+160,level_ft,9,,,AI only (no OCR reading)
+160,level_in,0,5,,unconfirmed: OCR differs
+161,type,B,B,,AI confirmed by 1 OCR
+161,area,HR,HR,HR,AI confirmed by 2 OCR
+161,serial,5030,5030,5030,AI confirmed by 2 OCR
+161,level_ft,4,4,4,AI confirmed by 2 OCR
+161,level_in,0,0,0,AI confirmed by 2 OCR
+162,type,B,B,,AI confirmed by 1 OCR
+162,area,HR,HR,,AI confirmed by 1 OCR
+162,serial,4291,4291,,AI confirmed by 1 OCR
+162,level_ft,3,2,,unconfirmed: OCR differs
+162,level_in,0,0,,AI confirmed by 1 OCR
+163,type,B,B,,AI confirmed by 1 OCR
+163,area,VS,,VS,AI confirmed by 1 OCR
+163,serial,3380,,3380,AI confirmed by 1 OCR
+163,level_ft,4,4,4,AI confirmed by 2 OCR
+163,level_in,0,,0,AI confirmed by 1 OCR
+164,type,B,B,,AI confirmed by 1 OCR
+164,area,HR,HR,,AI confirmed by 1 OCR
+164,serial,398,398,,AI confirmed by 1 OCR
+164,level_ft,5,,,AI only (no OCR reading)
+164,level_in,0,0,,AI confirmed by 1 OCR
+165,type,B,B,,AI confirmed by 1 OCR
+165,area,C,C,C,AI confirmed by 2 OCR
+165,serial,206,200,206,"AI confirmed by 1 OCR, other OCR differs"
+165,level_ft,5,2,,unconfirmed: OCR differs
+165,level_in,6,6,,AI confirmed by 1 OCR
+166,type,B,B,,AI confirmed by 1 OCR
+166,area,HR,HR,HR,AI confirmed by 2 OCR
+166,serial,4635,4635,4635,AI confirmed by 2 OCR
+166,level_ft,3,,,AI only (no OCR reading)
+166,level_in,0,0,,AI confirmed by 1 OCR
+167,type,B,B,,AI confirmed by 1 OCR
+167,area,HR,HR,HR,AI confirmed by 2 OCR
+167,serial,5311,5311,5311,AI confirmed by 2 OCR
+167,level_ft,4,4,4,AI confirmed by 2 OCR
+167,level_in,0,3,0,"AI confirmed by 1 OCR, other OCR differs"
+168,type,B,B,,AI confirmed by 1 OCR
+168,area,HR,HR,HR,AI confirmed by 2 OCR
+168,serial,3791,3791,3791,AI confirmed by 2 OCR
+168,level_ft,6,6,,AI confirmed by 1 OCR
+168,level_in,0,3,,unconfirmed: OCR differs
+169,type,B,B,,AI confirmed by 1 OCR
+169,area,C,C,,AI confirmed by 1 OCR
+169,serial,810,310,,unconfirmed: OCR differs
+169,level_ft,7,,,AI only (no OCR reading)
+169,level_in,0,,,AI only (no OCR reading)
+170,type,B,B,,AI confirmed by 1 OCR
+170,area,E,E,,AI confirmed by 1 OCR
+170,serial,2053,2053,,AI confirmed by 1 OCR
+170,level_ft,5,,,AI only (no OCR reading)
+170,level_in,6,6,,AI confirmed by 1 OCR
+171,type,B,B,,AI confirmed by 1 OCR
+171,area,HR,HR,,AI confirmed by 1 OCR
+171,serial,5703,6703,,unconfirmed: OCR differs
+171,level_ft,3,3,,AI confirmed by 1 OCR
+171,level_in,0,0,,AI confirmed by 1 OCR
+172,type,B,B,,AI confirmed by 1 OCR
+172,area,VS,VS,VS,AI confirmed by 2 OCR
+172,serial,2372,2372,2372,AI confirmed by 2 OCR
+172,level_ft,3,,,AI only (no OCR reading)
+172,level_in,0,0,,AI confirmed by 1 OCR
+173,type,B,B,,AI confirmed by 1 OCR
+173,area,HR,HR,HR,AI confirmed by 2 OCR
+173,serial,4994,4994,4094,"AI confirmed by 1 OCR, other OCR differs"
+173,level_ft,3,3,,AI confirmed by 1 OCR
+173,level_in,6,6,,AI confirmed by 1 OCR
+174,type,B,B,,AI confirmed by 1 OCR
+174,area,HR,HR,,AI confirmed by 1 OCR
+174,serial,3277,3277,,AI confirmed by 1 OCR
+174,level_ft,4,4,,AI confirmed by 1 OCR
+174,level_in,0,0,,AI confirmed by 1 OCR
+175,type,B,B,,AI confirmed by 1 OCR
+175,area,VS,VS,VS,AI confirmed by 2 OCR
+175,serial,1558,15658,1558,"AI confirmed by 1 OCR, other OCR differs"
+175,level_ft,3,2,3,"AI confirmed by 1 OCR, other OCR differs"
+175,level_in,0,0,8,"AI confirmed by 1 OCR, other OCR differs"
+176,type,B,B,B,AI confirmed by 2 OCR
+176,area,E,E,E,AI confirmed by 2 OCR
+176,serial,96,96,96,AI confirmed by 2 OCR
+176,level_ft,2,,2,AI confirmed by 1 OCR
+176,level_in,0,,9,unconfirmed: OCR differs
+177,type,B,B,,AI confirmed by 1 OCR
+177,area,VS,VS,,AI confirmed by 1 OCR
+177,serial,2541,2641,,unconfirmed: OCR differs
+177,level_ft,5,,,AI only (no OCR reading)
+177,level_in,0,0,,AI confirmed by 1 OCR
+178,type,B,B,,AI confirmed by 1 OCR
+178,area,E,E,,AI confirmed by 1 OCR
+178,serial,1521,121,,unconfirmed: OCR differs
+178,level_ft,4,4,,AI confirmed by 1 OCR
+178,level_in,0,,,AI only (no OCR reading)
+179,type,B,B,B,AI confirmed by 2 OCR
+179,area,SD,SD,SD,AI confirmed by 2 OCR
+179,serial,1553,1553,1553,AI confirmed by 2 OCR
+179,level_ft,6,6,6,AI confirmed by 2 OCR
+179,level_in,0,0,0,AI confirmed by 2 OCR
+180,type,B,B,,AI confirmed by 1 OCR
+180,area,C,C,C,AI confirmed by 2 OCR
+180,serial,3133,3133,3133,AI confirmed by 2 OCR
+180,level_ft,6,67,6,"AI confirmed by 1 OCR, other OCR differs"
+180,level_in,0,,0,AI confirmed by 1 OCR
+181,type,B,B,B,AI confirmed by 2 OCR
+181,area,SD,SD,SD,AI confirmed by 2 OCR
+181,serial,1731,1731,1731,AI confirmed by 2 OCR
+181,level_ft,10,1,,unconfirmed: OCR differs
+181,level_in,0,,,AI only (no OCR reading)
+182,type,B,B,,AI confirmed by 1 OCR
+182,area,C,C,,AI confirmed by 1 OCR
+182,serial,2394,2394,,AI confirmed by 1 OCR
+182,level_ft,6,6,,AI confirmed by 1 OCR
+182,level_in,6,6,,AI confirmed by 1 OCR
+183,type,B,B,,AI confirmed by 1 OCR
+183,area,HR,HR,HR,AI confirmed by 2 OCR
+183,serial,2268,2268,2268,AI confirmed by 2 OCR
+183,level_in,0,,,AI only (no OCR reading)
+184,type,B,B,B,AI confirmed by 2 OCR
+184,area,HR,HR,HR,AI confirmed by 2 OCR
+184,serial,4873,4873,4873,AI confirmed by 2 OCR
+184,level_ft,5,,5,AI confirmed by 1 OCR
+184,level_in,0,0,0,AI confirmed by 2 OCR
+185,type,B,B,,AI confirmed by 1 OCR
+185,area,E,E,E,AI confirmed by 2 OCR
+185,serial,2006,2006,2006,AI confirmed by 2 OCR
+185,level_ft,2,3,2,"AI confirmed by 1 OCR, other OCR differs"
+185,level_in,6,6,6,AI confirmed by 2 OCR
+186,type,B,B,,AI confirmed by 1 OCR
+186,area,E,E,E,AI confirmed by 2 OCR
+186,serial,1008,1008,1008,AI confirmed by 2 OCR
+186,level_ft,3,,,AI only (no OCR reading)
+186,level_in,0,0,,AI confirmed by 1 OCR
+187,type,B,B,,AI confirmed by 1 OCR
+187,area,E,E,E,AI confirmed by 2 OCR
+187,serial,2217,2217,2217,AI confirmed by 2 OCR
+187,level_ft,6,6,6,AI confirmed by 2 OCR
+187,level_in,0,0,0,AI confirmed by 2 OCR
+188,type,B,B,,AI confirmed by 1 OCR
+188,area,HR,HR,HR,AI confirmed by 2 OCR
+188,serial,4519,4519,4519,AI confirmed by 2 OCR
+188,level_ft,3,,,AI only (no OCR reading)
+188,level_in,0,,,AI only (no OCR reading)
+189,type,B,B,,AI confirmed by 1 OCR
+189,area,C,C,,AI confirmed by 1 OCR
+189,serial,2023,2023,,AI confirmed by 1 OCR
+189,level_ft,5,,,AI only (no OCR reading)
+189,level_in,3,2,,unconfirmed: OCR differs
+190,type,B,B,,AI confirmed by 1 OCR
+190,area,C,C,,AI confirmed by 1 OCR
+190,serial,3024,4024,,unconfirmed: OCR differs
+190,level_ft,3,7,,unconfirmed: OCR differs
+190,level_in,0,0,,AI confirmed by 1 OCR
+191,type,B,B,B,AI confirmed by 2 OCR
+191,area,VS,VS,VS,AI confirmed by 2 OCR
+191,serial,235,235,235,AI confirmed by 2 OCR
+191,level_ft,2,3,2,"AI confirmed by 1 OCR, other OCR differs"
+191,level_in,6,6,6,AI confirmed by 2 OCR
+192,type,C,C,,AI confirmed by 1 OCR
+192,area,VS,VS,,AI confirmed by 1 OCR
+192,serial,272,272,,AI confirmed by 1 OCR
+192,level_ft,3,,,AI only (no OCR reading)
+192,level_in,5,7,,unconfirmed: OCR differs
+193,type,B,B,,AI confirmed by 1 OCR
+193,area,DK,DK,DK,AI confirmed by 2 OCR
+193,serial,744,744,744,AI confirmed by 2 OCR
+193,level_ft,5,7,5,"AI confirmed by 1 OCR, other OCR differs"
+193,level_in,0,5,0,"AI confirmed by 1 OCR, other OCR differs"
+194,type,B,B,,AI confirmed by 1 OCR
+194,area,C,C,,AI confirmed by 1 OCR
+194,serial,2114,24,,unconfirmed: OCR differs
+194,level_ft,8,,,AI only (no OCR reading)
+194,level_in,6,6,,AI confirmed by 1 OCR
+195,type,B,B,,AI confirmed by 1 OCR
+195,area,HR,HR,HR,AI confirmed by 2 OCR
+195,serial,4622,4622,4622,AI confirmed by 2 OCR
+195,level_in,0,,,AI only (no OCR reading)
+196,type,B,B,B,AI confirmed by 2 OCR
+196,area,DK,DK,DK,AI confirmed by 2 OCR
+196,serial,925,925,925,AI confirmed by 2 OCR
+196,level_ft,2,2,2,AI confirmed by 2 OCR
+196,level_in,0,,0,AI confirmed by 1 OCR
+197,type,B,B,B,AI confirmed by 2 OCR
+197,area,C,C,C,AI confirmed by 2 OCR
+197,serial,3202,43202,3202,"AI confirmed by 1 OCR, other OCR differs"
+197,level_ft,2,2,,AI confirmed by 1 OCR
+197,level_in,9,9,,AI confirmed by 1 OCR
+198,type,B,B,,AI confirmed by 1 OCR
+198,area,E,E,,AI confirmed by 1 OCR
+198,serial,1912,12,,unconfirmed: OCR differs
+198,level_ft,6,6,,AI confirmed by 1 OCR
+198,level_in,0,,,AI only (no OCR reading)
+199,type,B,B,,AI confirmed by 1 OCR
+199,area,C,C,,AI confirmed by 1 OCR
+199,serial,2803,2803,,AI confirmed by 1 OCR
+199,level_ft,2,2,,AI confirmed by 1 OCR
+199,level_in,6,6,,AI confirmed by 1 OCR
+200,type,B,B,,AI confirmed by 1 OCR
+200,area,HR,HR,HR,AI confirmed by 2 OCR
+200,serial,1451,1461,1461,"both OCRs agree, AI differs"
+200,level_ft,7,7,,AI confirmed by 1 OCR
+200,level_in,4,4,,AI confirmed by 1 OCR
+201,type,B,B,,AI confirmed by 1 OCR
+201,area,HR,HR,,AI confirmed by 1 OCR
+201,serial,4400,4400,,AI confirmed by 1 OCR
+201,level_ft,2,7,,unconfirmed: OCR differs
+201,level_in,0,,,AI only (no OCR reading)
+202,type,B,B,B,AI confirmed by 2 OCR
+202,area,HR,HR,HR,AI confirmed by 2 OCR
+202,serial,5607,5607,5607,AI confirmed by 2 OCR
+202,level_ft,4,4,4,AI confirmed by 2 OCR
+202,level_in,0,,0,AI confirmed by 1 OCR
+203,type,B,B,,AI confirmed by 1 OCR
+203,area,HR,HR,,AI confirmed by 1 OCR
+203,serial,5261,5261,,AI confirmed by 1 OCR
+203,level_ft,4,4,,AI confirmed by 1 OCR
+203,level_in,0,5,,unconfirmed: OCR differs
+204,type,B,B,,AI confirmed by 1 OCR
+204,area,C,C,,AI confirmed by 1 OCR
+204,serial,435,435,,AI confirmed by 1 OCR
+204,level_ft,4,4,,AI confirmed by 1 OCR
+204,level_in,6,6,,AI confirmed by 1 OCR
+205,type,B,B,,AI confirmed by 1 OCR
+205,area,D,D,,AI confirmed by 1 OCR
+205,serial,289,289,,AI confirmed by 1 OCR
+205,level_ft,4,4,,AI confirmed by 1 OCR
+205,level_in,3,3,,AI confirmed by 1 OCR
+206,type,B,B,,AI confirmed by 1 OCR
+206,area,HR,HR,HR,AI confirmed by 2 OCR
+206,serial,5596,5596,5596,AI confirmed by 2 OCR
+206,level_ft,4,,4,AI confirmed by 1 OCR
+206,level_in,0,,0,AI confirmed by 1 OCR
+207,type,B,B,,AI confirmed by 1 OCR
+207,area,HR,HR,HR,AI confirmed by 2 OCR
+207,serial,4124,4124,4124,AI confirmed by 2 OCR
+207,level_ft,3,2,3,"AI confirmed by 1 OCR, other OCR differs"
+207,level_in,0,,0,AI confirmed by 1 OCR
+208,type,B,B,B,AI confirmed by 2 OCR
+208,area,HR,HR,HR,AI confirmed by 2 OCR
+208,serial,5597,5597,5597,AI confirmed by 2 OCR
+208,level_ft,4,4,4,AI confirmed by 2 OCR
+208,level_in,0,0,0,AI confirmed by 2 OCR
+209,type,B,B,B,AI confirmed by 2 OCR
+209,area,VS,VS,VS,AI confirmed by 2 OCR
+209,serial,3359,3359,3359,AI confirmed by 2 OCR
+209,level_ft,4,4,4,AI confirmed by 2 OCR
+209,level_in,6,6,6,AI confirmed by 2 OCR
+210,area,BJ,BJ,,AI confirmed by 1 OCR
+210,serial,10,10,,AI confirmed by 1 OCR
+210,level_in,0,,,AI only (no OCR reading)
+211,type,B,,,AI only (no OCR reading)
+211,area,HR,HR,HR,AI confirmed by 2 OCR
+211,serial,4585,4585,4585,AI confirmed by 2 OCR
+211,level_ft,2,2,,AI confirmed by 1 OCR
+211,level_in,0,,,AI only (no OCR reading)
+212,type,B,B,,AI confirmed by 1 OCR
+212,area,C,C,C,AI confirmed by 2 OCR
+212,serial,2692,2092,2692,"AI confirmed by 1 OCR, other OCR differs"
+212,level_ft,2,2,2,AI confirmed by 2 OCR
+212,level_in,0,,9,unconfirmed: OCR differs
+213,type,B,B,,AI confirmed by 1 OCR
+213,area,HR,,,AI only (no OCR reading)
+213,serial,5594,,,AI only (no OCR reading)
+213,level_ft,4,,,AI only (no OCR reading)
+213,level_in,0,,,AI only (no OCR reading)
+214,type,B,B,,AI confirmed by 1 OCR
+214,area,HR,HR,,AI confirmed by 1 OCR
+214,serial,5057,357,,unconfirmed: OCR differs
+214,level_ft,6,6,,AI confirmed by 1 OCR
+214,level_in,0,4,,unconfirmed: OCR differs
+215,type,B,B,,AI confirmed by 1 OCR
+215,area,E,E,,AI confirmed by 1 OCR
+215,serial,1154,44,,unconfirmed: OCR differs
+215,level_ft,2,,,AI only (no OCR reading)
+215,level_in,0,,,AI only (no OCR reading)
+216,type,B,,,AI only (no OCR reading)
+216,area,HR,,HR,AI confirmed by 1 OCR
+216,serial,2869,,2869,AI confirmed by 1 OCR
+216,level_ft,2,2,,AI confirmed by 1 OCR
+216,level_in,0,,,AI only (no OCR reading)
+217,type,B,B,B,AI confirmed by 2 OCR
+217,area,VS,VS,VS,AI confirmed by 2 OCR
+217,serial,2374,2374,2374,AI confirmed by 2 OCR
+217,level_ft,5,5,,AI confirmed by 1 OCR
+217,level_in,6,6,,AI confirmed by 1 OCR
+218,type,B,,,AI only (no OCR reading)
+218,area,HR,,,AI only (no OCR reading)
+218,serial,5789,,,AI only (no OCR reading)
+218,level_in,0,,,AI only (no OCR reading)
+219,type,B,B,,AI confirmed by 1 OCR
+219,area,DK,,,AI only (no OCR reading)
+219,serial,1519,,,AI only (no OCR reading)
+219,level_ft,5,5,,AI confirmed by 1 OCR
+219,level_in,0,,,AI only (no OCR reading)
+220,type,B,B,,AI confirmed by 1 OCR
+220,area,E,E,,AI confirmed by 1 OCR
+220,serial,653,653,,AI confirmed by 1 OCR
+220,level_ft,3,3,,AI confirmed by 1 OCR
+220,level_in,0,,,AI only (no OCR reading)
+221,type,B,B,,AI confirmed by 1 OCR
+221,area,HR,HR,HR,AI confirmed by 2 OCR
+221,serial,6098,6098,6098,AI confirmed by 2 OCR
+221,level_ft,4,4,,AI confirmed by 1 OCR
+221,level_in,0,,,AI only (no OCR reading)
+222,type,B,B,,AI confirmed by 1 OCR
+222,area,HR,HR,,AI confirmed by 1 OCR
+222,serial,5656,5656,,AI confirmed by 1 OCR
+222,level_ft,5,,,AI only (no OCR reading)
+222,level_in,0,,,AI only (no OCR reading)
+223,type,B,B,B,AI confirmed by 2 OCR
+223,area,HR,HR,HR,AI confirmed by 2 OCR
+223,serial,5146,5146,5146,AI confirmed by 2 OCR
+223,level_ft,6,,,AI only (no OCR reading)
+223,level_in,0,,,AI only (no OCR reading)
+224,type,B,B,B,AI confirmed by 2 OCR
+224,area,HR,,HR,AI confirmed by 1 OCR
+224,serial,1951,,1951,AI confirmed by 1 OCR
+224,level_ft,4,4,4,AI confirmed by 2 OCR
+224,level_in,0,,0,AI confirmed by 1 OCR
+225,type,B,B,B,AI confirmed by 2 OCR
+225,area,VS,VS,VS,AI confirmed by 2 OCR
+225,serial,2202,2262,2202,"AI confirmed by 1 OCR, other OCR differs"
+225,level_ft,3,,3,AI confirmed by 1 OCR
+225,level_in,0,,0,AI confirmed by 1 OCR
+226,type,B,B,,AI confirmed by 1 OCR
+226,area,HR,HR,,AI confirmed by 1 OCR
+226,serial,4872,3872,,unconfirmed: OCR differs
+226,level_ft,3,,,AI only (no OCR reading)
+226,level_in,6,6,,AI confirmed by 1 OCR
+227,type,C,C,,AI confirmed by 1 OCR
+227,area,L,L,,AI confirmed by 1 OCR
+227,serial,323,323,,AI confirmed by 1 OCR
+227,level_ft,2,,,AI only (no OCR reading)
+227,level_in,0,,,AI only (no OCR reading)
+228,type,B,B,,AI confirmed by 1 OCR
+228,area,B,B,,AI confirmed by 1 OCR
+228,serial,608,608,,AI confirmed by 1 OCR
+228,level_ft,10,,,AI only (no OCR reading)
+228,level_in,0,,,AI only (no OCR reading)
+229,type,B,,,AI only (no OCR reading)
+229,area,E,E,,AI confirmed by 1 OCR
+229,serial,187,187,,AI confirmed by 1 OCR
+229,level_ft,4,4,,AI confirmed by 1 OCR
+229,level_in,6,6,,AI confirmed by 1 OCR
+230,type,C,C,,AI confirmed by 1 OCR
+230,area,L,L,,AI confirmed by 1 OCR
+230,serial,323,323,,AI confirmed by 1 OCR
+230,level_ft,2,2,,AI confirmed by 1 OCR
+230,level_in,0,,,AI only (no OCR reading)
+231,type,B,B,B,AI confirmed by 2 OCR
+231,area,HR,HR,HR,AI confirmed by 2 OCR
+231,serial,4436,4436,4436,AI confirmed by 2 OCR
+231,level_ft,1,1,,AI confirmed by 1 OCR
+231,level_in,0,,,AI only (no OCR reading)
+232,type,B,,B,AI confirmed by 1 OCR
+232,area,DK,DK,DK,AI confirmed by 2 OCR
+232,serial,1892,1892,1892,AI confirmed by 2 OCR
+232,level_ft,3,3,,AI confirmed by 1 OCR
+232,level_in,0,,,AI only (no OCR reading)
+233,type,B,B,,AI confirmed by 1 OCR
+233,area,D,,,AI only (no OCR reading)
+233,serial,619,,,AI only (no OCR reading)
+233,level_ft,3,3,,AI confirmed by 1 OCR
+233,level_in,0,,,AI only (no OCR reading)
+234,type,B,B,,AI confirmed by 1 OCR
+234,area,L,L,,AI confirmed by 1 OCR
+234,serial,742,742,,AI confirmed by 1 OCR
+234,level_ft,5,5,,AI confirmed by 1 OCR
+234,level_in,0,,,AI only (no OCR reading)
+235,type,B,B,,AI confirmed by 1 OCR
+235,area,E,E,,AI confirmed by 1 OCR
+235,serial,297,297,,AI confirmed by 1 OCR
+235,level_ft,6,,,AI only (no OCR reading)
+235,level_in,6,,,AI only (no OCR reading)
+236,type,B,B,B,AI confirmed by 2 OCR
+236,area,HR,HR,HR,AI confirmed by 2 OCR
+236,serial,1365,1365,1365,AI confirmed by 2 OCR
+236,level_ft,4,4,,AI confirmed by 1 OCR
+236,level_in,7,,,AI only (no OCR reading)
+237,type,B,B,,AI confirmed by 1 OCR
+237,area,HR,HR,HR,AI confirmed by 2 OCR
+237,serial,5516,516,5516,"AI confirmed by 1 OCR, other OCR differs"
+237,level_ft,2,2,2,AI confirmed by 2 OCR
+237,level_in,0,,0,AI confirmed by 1 OCR
+238,type,B,B,,AI confirmed by 1 OCR
+238,area,HR,HR,HR,AI confirmed by 2 OCR
+238,serial,1673,1673,1673,AI confirmed by 2 OCR
+238,level_ft,6,6,,AI confirmed by 1 OCR
+238,level_in,0,,,AI only (no OCR reading)
+239,type,B,B,B,AI confirmed by 2 OCR
+239,area,HR,HR,HR,AI confirmed by 2 OCR
+239,serial,3792,3792,3792,AI confirmed by 2 OCR
+239,level_ft,6,6,6,AI confirmed by 2 OCR
+239,level_in,0,,0,AI confirmed by 1 OCR
+240,type,B,B,B,AI confirmed by 2 OCR
+240,area,HR,HR,HR,AI confirmed by 2 OCR
+240,serial,4386,4386,4386,AI confirmed by 2 OCR
+240,level_ft,2,2,2,AI confirmed by 2 OCR
+240,level_in,0,0,0,AI confirmed by 2 OCR
+241,type,B,B,,AI confirmed by 1 OCR
+241,area,HR,HR,,AI confirmed by 1 OCR
+241,serial,5648,5648,,AI confirmed by 1 OCR
+241,level_ft,4,4,,AI confirmed by 1 OCR
+241,level_in,0,,,AI only (no OCR reading)
+242,type,B,B,,AI confirmed by 1 OCR
+242,area,L,L,,AI confirmed by 1 OCR
+242,serial,476,476,,AI confirmed by 1 OCR
+242,level_ft,5,,,AI only (no OCR reading)
+242,level_in,0,0,,AI confirmed by 1 OCR
+243,type,B,B,,AI confirmed by 1 OCR
+243,area,VS,VS,VS,AI confirmed by 2 OCR
+243,serial,505,506,505,"AI confirmed by 1 OCR, other OCR differs"
+243,level_ft,2,2,2,AI confirmed by 2 OCR
+243,level_in,0,,0,AI confirmed by 1 OCR
+244,area,BJ,,,AI only (no OCR reading)
+244,serial,5,,,AI only (no OCR reading)
+244,level_in,0,4,,unconfirmed: OCR differs
+245,type,B,B,,AI confirmed by 1 OCR
+245,area,HR,HR,HR,AI confirmed by 2 OCR
+245,serial,5310,5310,5310,AI confirmed by 2 OCR
+245,level_ft,5,,5,AI confirmed by 1 OCR
+245,level_in,6,6,6,AI confirmed by 2 OCR
+246,type,B,,B,AI confirmed by 1 OCR
+246,area,HR,HR,HR,AI confirmed by 2 OCR
+246,serial,3506,3506,3506,AI confirmed by 2 OCR
+246,level_ft,3,3,3,AI confirmed by 2 OCR
+246,level_in,0,,0,AI confirmed by 1 OCR
+247,type,B,B,B,AI confirmed by 2 OCR
+247,area,HR,HR,HR,AI confirmed by 2 OCR
+247,serial,2595,2595,2595,AI confirmed by 2 OCR
+247,level_ft,3,2,3,"AI confirmed by 1 OCR, other OCR differs"
+247,level_in,0,0,0,AI confirmed by 2 OCR
+248,area,BJ,BJ,,AI confirmed by 1 OCR
+248,serial,6,6,,AI confirmed by 1 OCR
+248,level_in,0,,,AI only (no OCR reading)
+249,type,B,B,,AI confirmed by 1 OCR
+249,area,C,C,C,AI confirmed by 2 OCR
+249,serial,2327,2327,2327,AI confirmed by 2 OCR
+249,level_ft,1,1,,AI confirmed by 1 OCR
+249,level_in,6,6,,AI confirmed by 1 OCR
+250,type,B,B,,AI confirmed by 1 OCR
+250,area,VS,VS,,AI confirmed by 1 OCR
+250,serial,2582,2582,,AI confirmed by 1 OCR
+250,level_ft,5,5,,AI confirmed by 1 OCR
+250,level_in,6,6,,AI confirmed by 1 OCR
+251,type,B,B,,AI confirmed by 1 OCR
+251,area,HR,HR,HR,AI confirmed by 2 OCR
+251,serial,5699,5699,5699,AI confirmed by 2 OCR
+251,level_ft,2,2,2,AI confirmed by 2 OCR
+251,level_in,0,0,9,"AI confirmed by 1 OCR, other OCR differs"
+252,type,B,B,B,AI confirmed by 2 OCR
+252,area,HR,HR,HR,AI confirmed by 2 OCR
+252,serial,2596,2596,2596,AI confirmed by 2 OCR
+252,level_ft,3,2,3,"AI confirmed by 1 OCR, other OCR differs"
+252,level_in,0,5,0,"AI confirmed by 1 OCR, other OCR differs"
+253,type,B,B,B,AI confirmed by 2 OCR
+253,area,HR,HR,HR,AI confirmed by 2 OCR
+253,serial,4492,4492,4402,"AI confirmed by 1 OCR, other OCR differs"
+253,level_ft,3,3,3,AI confirmed by 2 OCR
+253,level_in,0,,0,AI confirmed by 1 OCR
+254,type,B,B,B,AI confirmed by 2 OCR
+254,area,DK,DK,DK,AI confirmed by 2 OCR
+254,serial,160,160,160,AI confirmed by 2 OCR
+254,level_ft,5,,5,AI confirmed by 1 OCR
+254,level_in,0,0,0,AI confirmed by 2 OCR
+255,type,B,B,B,AI confirmed by 2 OCR
+255,area,HR,HR,HR,AI confirmed by 2 OCR
+255,serial,3010,3019,3010,"AI confirmed by 1 OCR, other OCR differs"
+255,level_ft,1,1,1,AI confirmed by 2 OCR
+255,level_in,2,2,2,AI confirmed by 2 OCR
+256,type,B,B,,AI confirmed by 1 OCR
+256,area,HR,HR,,AI confirmed by 1 OCR
+256,serial,4112,12,,unconfirmed: OCR differs
+256,level_ft,3,,,AI only (no OCR reading)
+256,level_in,0,,,AI only (no OCR reading)
+257,type,B,B,B,AI confirmed by 2 OCR
+257,area,HR,HR,HR,AI confirmed by 2 OCR
+257,serial,5772,5772,5772,AI confirmed by 2 OCR
+257,level_ft,7,5,7,"AI confirmed by 1 OCR, other OCR differs"
+257,level_in,0,0,0,AI confirmed by 2 OCR
+258,type,B,B,B,AI confirmed by 2 OCR
+258,area,HR,HR,HR,AI confirmed by 2 OCR
+258,serial,5251,261,6251,unconfirmed: OCR differs
+258,level_ft,6,6,6,AI confirmed by 2 OCR
+258,level_in,0,,0,AI confirmed by 1 OCR
+259,type,B,B,,AI confirmed by 1 OCR
+259,area,DK,DK,,AI confirmed by 1 OCR
+259,serial,2027,2027,,AI confirmed by 1 OCR
+259,level_ft,3,,,AI only (no OCR reading)
+259,level_in,0,,,AI only (no OCR reading)
+260,type,B,B,,AI confirmed by 1 OCR
+260,area,DK,,,AI only (no OCR reading)
+260,serial,91,,,AI only (no OCR reading)
+260,level_ft,1,1,,AI confirmed by 1 OCR
+260,level_in,3,5,,unconfirmed: OCR differs
+261,type,B,B,,AI confirmed by 1 OCR
+261,area,E,E,E,AI confirmed by 2 OCR
+261,serial,268,268,268,AI confirmed by 2 OCR
+261,level_ft,5,,5,AI confirmed by 1 OCR
+261,level_in,6,6,6,AI confirmed by 2 OCR
+262,type,B,B,B,AI confirmed by 2 OCR
+262,area,C,C,C,AI confirmed by 2 OCR
+262,serial,3201,3201,3201,AI confirmed by 2 OCR
+262,level_ft,4,,,AI only (no OCR reading)
+262,level_in,0,,,AI only (no OCR reading)
+263,type,B,B,,AI confirmed by 1 OCR
+263,area,HR,HR,,AI confirmed by 1 OCR
+263,serial,2912,292,,unconfirmed: OCR differs
+263,level_ft,2,2,,AI confirmed by 1 OCR
+263,level_in,0,,,AI only (no OCR reading)
+264,type,B,B,,AI confirmed by 1 OCR
+264,area,L,L,,AI confirmed by 1 OCR
+264,serial,661,461,,unconfirmed: OCR differs
+264,level_ft,5,5,,AI confirmed by 1 OCR
+264,level_in,0,0,,AI confirmed by 1 OCR
+265,type,B,B,,AI confirmed by 1 OCR
+265,area,E,E,E,AI confirmed by 2 OCR
+265,serial,2484,2484,2484,AI confirmed by 2 OCR
+265,level_ft,5,5,5,AI confirmed by 2 OCR
+265,level_in,0,,8,unconfirmed: OCR differs
+266,type,B,B,,AI confirmed by 1 OCR
+266,area,HR,HR,,AI confirmed by 1 OCR
+266,serial,4409,4409,,AI confirmed by 1 OCR
+266,level_ft,4,4,,AI confirmed by 1 OCR
+266,level_in,6,6,,AI confirmed by 1 OCR
+267,type,B,B,,AI confirmed by 1 OCR
+267,area,E,E,E,AI confirmed by 2 OCR
+267,serial,2294,2794,2494,unconfirmed: OCR differs
+267,level_ft,2,2,2,AI confirmed by 2 OCR
+267,level_in,0,,0,AI confirmed by 1 OCR
+268,type,C,C,,AI confirmed by 1 OCR
+268,area,C,C,,AI confirmed by 1 OCR
+268,serial,162,162,,AI confirmed by 1 OCR
+268,level_ft,3,2,,unconfirmed: OCR differs
+268,level_in,6,6,,AI confirmed by 1 OCR
+269,type,B,B,B,AI confirmed by 2 OCR
+269,area,B,B,B,AI confirmed by 2 OCR
+269,serial,650,650,650,AI confirmed by 2 OCR
+269,level_ft,16,16,16,AI confirmed by 2 OCR
+269,level_in,0,0,0,AI confirmed by 2 OCR
+270,type,B,B,B,AI confirmed by 2 OCR
+270,area,C,C,C,AI confirmed by 2 OCR
+270,serial,2372,2372,2372,AI confirmed by 2 OCR
+270,level_ft,4,4,4,AI confirmed by 2 OCR
+270,level_in,0,,0,AI confirmed by 1 OCR
+271,type,B,B,,AI confirmed by 1 OCR
+271,area,B,B,,AI confirmed by 1 OCR
+271,serial,434,434,,AI confirmed by 1 OCR
+271,level_ft,5,,,AI only (no OCR reading)
+271,level_in,0,6,,unconfirmed: OCR differs
+272,type,B,B,B,AI confirmed by 2 OCR
+272,area,L,L,L,AI confirmed by 2 OCR
+272,serial,316,316,316,AI confirmed by 2 OCR
+272,level_ft,B.P.,,,AI only (no OCR reading)
+272,level_in,0,,,AI only (no OCR reading)
+273,type,B,B,B,AI confirmed by 2 OCR
+273,area,DK,DK,DK,AI confirmed by 2 OCR
+273,serial,2294,2293,2294,"AI confirmed by 1 OCR, other OCR differs"
+273,level_ft,10,10,10,AI confirmed by 2 OCR
+273,level_in,0,,0,AI confirmed by 1 OCR
+274,type,B,B,,AI confirmed by 1 OCR
+274,area,C,C,C,AI confirmed by 2 OCR
+274,serial,1863,1863,1863,AI confirmed by 2 OCR
+274,level_ft,5,,,AI only (no OCR reading)
+274,level_in,0,,,AI only (no OCR reading)
+275,type,B,B,,AI confirmed by 1 OCR
+275,area,L,L,L,AI confirmed by 2 OCR
+275,serial,899,899,899,AI confirmed by 2 OCR
+275,level_ft,3,,,AI only (no OCR reading)
+275,level_in,0,,,AI only (no OCR reading)
+276,type,B,B,,AI confirmed by 1 OCR
+276,area,HR,HR,,AI confirmed by 1 OCR
+276,serial,4244,4244,,AI confirmed by 1 OCR
+276,level_in,0,,,AI only (no OCR reading)
+277,type,C,C,,AI confirmed by 1 OCR
+277,area,E,E,E,AI confirmed by 2 OCR
+277,serial,250,2590,256,unconfirmed: OCR differs
+277,level_ft,1,1,1,AI confirmed by 2 OCR
+277,level_in,0,,0,AI confirmed by 1 OCR
+278,type,B,B,,AI confirmed by 1 OCR
+278,area,VS,VS,,AI confirmed by 1 OCR
+278,serial,2518,20187,,unconfirmed: OCR differs
+278,level_ft,9,9,,AI confirmed by 1 OCR
+278,level_in,0,0,,AI confirmed by 1 OCR
+279,type,B,B,,AI confirmed by 1 OCR
+279,area,DK,DK,,AI confirmed by 1 OCR
+279,serial,1510,3,,unconfirmed: OCR differs
+279,level_ft,2,3,,unconfirmed: OCR differs
+279,level_in,0,57,,unconfirmed: OCR differs
+280,type,B,B,,AI confirmed by 1 OCR
+280,area,HR,HR,,AI confirmed by 1 OCR
+280,serial,5589,589,,unconfirmed: OCR differs
+280,level_ft,4,4,,AI confirmed by 1 OCR
+280,level_in,0,,,AI only (no OCR reading)
+281,type,B,B,,AI confirmed by 1 OCR
+281,area,E,E,,AI confirmed by 1 OCR
+281,serial,1829,1829,,AI confirmed by 1 OCR
+281,level_ft,3,37,,unconfirmed: OCR differs
+281,level_in,0,,,AI only (no OCR reading)
+282,type,B,B,,AI confirmed by 1 OCR
+282,area,C,C,,AI confirmed by 1 OCR
+282,serial,2766,2760,,unconfirmed: OCR differs
+282,level_ft,5,2,,unconfirmed: OCR differs
+282,level_in,2,2,,AI confirmed by 1 OCR
+283,type,B,B,,AI confirmed by 1 OCR
+283,area,HR,HR,,AI confirmed by 1 OCR
+283,serial,4054,4054,,AI confirmed by 1 OCR
+283,level_ft,2,7,,unconfirmed: OCR differs
+283,level_in,5,,,AI only (no OCR reading)
+284,type,B,B,B,AI confirmed by 2 OCR
+284,area,C,C,C,AI confirmed by 2 OCR
+284,serial,3035,3035,3035,AI confirmed by 2 OCR
+284,level_ft,4,4,,AI confirmed by 1 OCR
+284,level_in,0,,,AI only (no OCR reading)
+285,type,B,B,B,AI confirmed by 2 OCR
+285,area,HR,HR,HR,AI confirmed by 2 OCR
+285,serial,1804,1804,1804,AI confirmed by 2 OCR
+285,level_ft,4,,,AI only (no OCR reading)
+285,level_in,0,,,AI only (no OCR reading)
+286,type,B,B,,AI confirmed by 1 OCR
+286,area,HR,HR,HR,AI confirmed by 2 OCR
+286,serial,3732b,3772,37326,unconfirmed: OCR differs
+286,level_ft,2,2,2,AI confirmed by 2 OCR
+286,level_in,4,4,4,AI confirmed by 2 OCR
+287,type,B,B,,AI confirmed by 1 OCR
+287,area,C,C,C,AI confirmed by 2 OCR
+287,serial,1956,1956,1956,AI confirmed by 2 OCR
+287,level_ft,3,4,3,"AI confirmed by 1 OCR, other OCR differs"
+287,level_in,6,6,6,AI confirmed by 2 OCR
+288,type,B,B,,AI confirmed by 1 OCR
+288,area,C,C,,AI confirmed by 1 OCR
+288,serial,2823,2823,,AI confirmed by 1 OCR
+288,level_ft,4,4,,AI confirmed by 1 OCR
+288,level_in,0,,,AI only (no OCR reading)
+289,type,B,B,,AI confirmed by 1 OCR
+289,area,D,D,,AI confirmed by 1 OCR
+289,serial,90,9,,unconfirmed: OCR differs
+289,level_ft,6,6,,AI confirmed by 1 OCR
+289,level_in,0,,,AI only (no OCR reading)
+290,type,B,B,,AI confirmed by 1 OCR
+290,area,E,E,,AI confirmed by 1 OCR
+290,serial,348,348,,AI confirmed by 1 OCR
+290,level_ft,7,,,AI only (no OCR reading)
+290,level_in,0,0,,AI confirmed by 1 OCR
+291,type,?,?,,AI confirmed by 1 OCR
+291,area,VS,VS,VS,AI confirmed by 2 OCR
+291,serial,2852,2852,2852,AI confirmed by 2 OCR
+291,level_ft,2,2,2,AI confirmed by 2 OCR
+291,level_in,6,67,6,"AI confirmed by 1 OCR, other OCR differs"
+292,type,B,B,,AI confirmed by 1 OCR
+292,area,E,E,E,AI confirmed by 2 OCR
+292,serial,388,388,388,AI confirmed by 2 OCR
+292,level_ft,3,3,3,AI confirmed by 2 OCR
+292,level_in,0,,3,unconfirmed: OCR differs
+293,type,B,B,B,AI confirmed by 2 OCR
+293,area,HR,HR,HR,AI confirmed by 2 OCR
+293,serial,4629,4629,4629,AI confirmed by 2 OCR
+293,level_ft,4,4,4,AI confirmed by 2 OCR
+293,level_in,0,,0,AI confirmed by 1 OCR
+294,type,B,B,,AI confirmed by 1 OCR
+294,area,DK,DK,,AI confirmed by 1 OCR
+294,serial,1512,1512,,AI confirmed by 1 OCR
+294,level_ft,2,2,,AI confirmed by 1 OCR
+294,level_in,0,,,AI only (no OCR reading)
+295,type,B,B,,AI confirmed by 1 OCR
+295,area,VS,VS,VS,AI confirmed by 2 OCR
+295,serial,3172,3172,3172,AI confirmed by 2 OCR
+295,level_in,0,,,AI only (no OCR reading)
+296,type,B,,,AI only (no OCR reading)
+296,area,E,E,E,AI confirmed by 2 OCR
+296,serial,976,976,976,AI confirmed by 2 OCR
+296,level_ft,7,,7,AI confirmed by 1 OCR
+296,level_in,0,0,9,"AI confirmed by 1 OCR, other OCR differs"
+297,area,BJ,,BJ,AI confirmed by 1 OCR
+297,serial,8,,8,AI confirmed by 1 OCR
+297,level_in,0,,,AI only (no OCR reading)
+298,type,B,B,,AI confirmed by 1 OCR
+298,area,HR,HR,HR,AI confirmed by 2 OCR
+298,serial,3841,3841,3841,AI confirmed by 2 OCR
+298,level_ft,6,6,6,AI confirmed by 2 OCR
+298,level_in,0,0,0,AI confirmed by 2 OCR
+299,type,B,B,,AI confirmed by 1 OCR
+299,area,HR,HR,HR,AI confirmed by 2 OCR
+299,serial,5788,6788,5788,"AI confirmed by 1 OCR, other OCR differs"
+299,level_ft,4,4,4,AI confirmed by 2 OCR
+299,level_in,0,,0,AI confirmed by 1 OCR
+300,type,B,B,,AI confirmed by 1 OCR
+300,area,E,E,,AI confirmed by 1 OCR
+300,serial,323,333,,unconfirmed: OCR differs
+300,level_ft,6,6,,AI confirmed by 1 OCR
+300,level_in,0,,,AI only (no OCR reading)
+301,type,B,B,B,AI confirmed by 2 OCR
+301,area,C,C,C,AI confirmed by 2 OCR
+301,serial,2024,2024,2024,AI confirmed by 2 OCR
+301,level_ft,5,,,AI only (no OCR reading)
+301,level_in,3,2,,unconfirmed: OCR differs
+302,type,B,B,,AI confirmed by 1 OCR
+302,area,DK,DK,DK,AI confirmed by 2 OCR
+302,serial,3205,3205,3205,AI confirmed by 2 OCR
+302,level_ft,2,3,2,"AI confirmed by 1 OCR, other OCR differs"
+302,level_in,2,3,2,"AI confirmed by 1 OCR, other OCR differs"
+303,type,B,B,,AI confirmed by 1 OCR
+303,area,C,C,,AI confirmed by 1 OCR
+303,serial,290,290,,AI confirmed by 1 OCR
+303,level_ft,5,5,,AI confirmed by 1 OCR
+303,level_in,0,0,,AI confirmed by 1 OCR
+304,type,B,B,,AI confirmed by 1 OCR
+304,area,L,L,L,AI confirmed by 2 OCR
+304,serial,385,385,385,AI confirmed by 2 OCR
+304,level_ft,surface,surface,,AI confirmed by 1 OCR
+305,type,B,B,,AI confirmed by 1 OCR
+305,area,HR,HR,HR,AI confirmed by 2 OCR
+305,serial,5225,226,5225,"AI confirmed by 1 OCR, other OCR differs"
+305,level_ft,3,,,AI only (no OCR reading)
+305,level_in,0,,,AI only (no OCR reading)
+306,type,B,B,,AI confirmed by 1 OCR
+306,area,HR,HR,HR,AI confirmed by 2 OCR
+306,serial,5193,5193,5193,AI confirmed by 2 OCR
+306,level_ft,5,,5,AI confirmed by 1 OCR
+306,level_in,0,,3,unconfirmed: OCR differs
+307,type,B,B,,AI confirmed by 1 OCR
+307,area,L,L,,AI confirmed by 1 OCR
+307,serial,351,351,,AI confirmed by 1 OCR
+307,level_ft,4,4,,AI confirmed by 1 OCR
+307,level_in,0,4,,unconfirmed: OCR differs
+308,type,B,B,,AI confirmed by 1 OCR
+308,area,C,C,C,AI confirmed by 2 OCR
+308,serial,2767,2767,2767,AI confirmed by 2 OCR
+308,level_in,0,,,AI only (no OCR reading)
+309,type,H,H,,AI confirmed by 1 OCR
+309,area,HR,HR,,AI confirmed by 1 OCR
+309,serial,4393,4393,,AI confirmed by 1 OCR
+309,level_ft,4,47,,unconfirmed: OCR differs
+309,level_in,0,,,AI only (no OCR reading)
+310,type,B,B,,AI confirmed by 1 OCR
+310,area,DK,DK,DK,AI confirmed by 2 OCR
+310,serial,1542,1542,1542,AI confirmed by 2 OCR
+310,level_ft,8,,,AI only (no OCR reading)
+310,level_in,0,,,AI only (no OCR reading)
+311,type,C,C,,AI confirmed by 1 OCR
+311,area,HR,HR,,AI confirmed by 1 OCR
+311,serial,4503,4503,,AI confirmed by 1 OCR
+311,level_in,0,,,AI only (no OCR reading)
+312,type,B,B,,AI confirmed by 1 OCR
+312,area,VS,VS,,AI confirmed by 1 OCR
+312,serial,3503,3503,,AI confirmed by 1 OCR
+312,level_ft,6,6,,AI confirmed by 1 OCR
+312,level_in,0,,,AI only (no OCR reading)
+313,type,B,B,,AI confirmed by 1 OCR
+313,area,VS,VS,VS,AI confirmed by 2 OCR
+313,serial,2543,2543,2543,AI confirmed by 2 OCR
+313,level_ft,2,2,2,AI confirmed by 2 OCR
+313,level_in,0,,3,unconfirmed: OCR differs
+314,type,B,B,,AI confirmed by 1 OCR
+314,area,VS,VS,VS,AI confirmed by 2 OCR
+314,serial,1754,1754,1754,AI confirmed by 2 OCR
+314,level_ft,3,2,3,"AI confirmed by 1 OCR, other OCR differs"
+314,level_in,0,0,0,AI confirmed by 2 OCR
+315,type,B,B,,AI confirmed by 1 OCR
+315,area,VS,VS,,AI confirmed by 1 OCR
+315,serial,59,59,,AI confirmed by 1 OCR
+315,level_ft,2,2,,AI confirmed by 1 OCR
+315,level_in,4,4,,AI confirmed by 1 OCR
+316,type,B,B,,AI confirmed by 1 OCR
+316,area,L,L,,AI confirmed by 1 OCR
+316,serial,904,904,,AI confirmed by 1 OCR
+316,level_ft,4,4,,AI confirmed by 1 OCR
+316,level_in,0,0,,AI confirmed by 1 OCR
+317,type,B,B,,AI confirmed by 1 OCR
+317,area,HR,HR,HR,AI confirmed by 2 OCR
+317,serial,583,583,583,AI confirmed by 2 OCR
+317,level_ft,3,2,3,"AI confirmed by 1 OCR, other OCR differs"
+317,level_in,0,0,0,AI confirmed by 2 OCR
+318,type,B,B,,AI confirmed by 1 OCR
+318,area,HR,HR,,AI confirmed by 1 OCR
+318,serial,4364,4364,,AI confirmed by 1 OCR
+318,level_ft,3,,,AI only (no OCR reading)
+318,level_in,6,67,,unconfirmed: OCR differs
+319,type,B,B,,AI confirmed by 1 OCR
+319,area,HR,HR,,AI confirmed by 1 OCR
+319,serial,5949,5949,,AI confirmed by 1 OCR
+319,level_ft,10,10,,AI confirmed by 1 OCR
+319,level_in,0,,,AI only (no OCR reading)
+320,type,B,B,,AI confirmed by 1 OCR
+320,area,HR,HR,HR,AI confirmed by 2 OCR
+320,serial,1793,1793,1793,AI confirmed by 2 OCR
+320,level_ft,5,2,,unconfirmed: OCR differs
+320,level_in,0,,,AI only (no OCR reading)
+321,type,B,B,,AI confirmed by 1 OCR
+321,area,C,C,,AI confirmed by 1 OCR
+321,serial,2582,2582,,AI confirmed by 1 OCR
+321,level_ft,4,4,,AI confirmed by 1 OCR
+321,level_in,0,0,,AI confirmed by 1 OCR
+322,type,B,B,,AI confirmed by 1 OCR
+322,area,HR,HR,HR,AI confirmed by 2 OCR
+322,serial,4318,4318,4318,AI confirmed by 2 OCR
+322,level_ft,2,2,,AI confirmed by 1 OCR
+322,level_in,0,0,,AI confirmed by 1 OCR
+323,type,B,B,,AI confirmed by 1 OCR
+323,area,HR,HR,HR,AI confirmed by 2 OCR
+323,serial,4387,4387,4387,AI confirmed by 2 OCR
+323,level_ft,2,2,2,AI confirmed by 2 OCR
+323,level_in,0,0,9,"AI confirmed by 1 OCR, other OCR differs"
+324,type,B,B,,AI confirmed by 1 OCR
+324,area,HR,HR,,AI confirmed by 1 OCR
+324,serial,4098,4098,,AI confirmed by 1 OCR
+324,level_ft,6,6,,AI confirmed by 1 OCR
+324,level_in,0,5,,unconfirmed: OCR differs
+325,type,B,B,,AI confirmed by 1 OCR
+325,area,DK,DK,DK,AI confirmed by 2 OCR
+325,serial,2797,2797,2797,AI confirmed by 2 OCR
+325,level_ft,2,2,2,AI confirmed by 2 OCR
+325,level_in,0,,9,unconfirmed: OCR differs
+326,type,B,B,,AI confirmed by 1 OCR
+326,area,DK,DK,,AI confirmed by 1 OCR
+326,serial,209,259,,unconfirmed: OCR differs
+326,level_ft,1,1,,AI confirmed by 1 OCR
+326,level_in,6,67,,unconfirmed: OCR differs
+327,type,B,B,,AI confirmed by 1 OCR
+327,area,C,C,,AI confirmed by 1 OCR
+327,serial,2073,2073,,AI confirmed by 1 OCR
+327,level_ft,4,4,,AI confirmed by 1 OCR
+327,level_in,0,,,AI only (no OCR reading)
+328,type,B,B,,AI confirmed by 1 OCR
+328,area,DK,DK,DK,AI confirmed by 2 OCR
+328,serial,681,681,681,AI confirmed by 2 OCR
+328,level_ft,2,2,2,AI confirmed by 2 OCR
+328,level_in,3,,3,AI confirmed by 1 OCR
+329,type,B,B,,AI confirmed by 1 OCR
+329,area,HR,HR,HR,AI confirmed by 2 OCR
+329,serial,4348,4348,4348,AI confirmed by 2 OCR
+329,level_ft,3,2,3,"AI confirmed by 1 OCR, other OCR differs"
+329,level_in,0,,3,unconfirmed: OCR differs
+330,type,B,B,,AI confirmed by 1 OCR
+330,area,C,C,,AI confirmed by 1 OCR
+330,serial,606,606,,AI confirmed by 1 OCR
+330,level_ft,4,4,,AI confirmed by 1 OCR
+330,level_in,5,3,,unconfirmed: OCR differs
+331,type,B,B,,AI confirmed by 1 OCR
+331,area,VS,VS,,AI confirmed by 1 OCR
+331,serial,3093,3093,,AI confirmed by 1 OCR
+331,level_ft,4,4,,AI confirmed by 1 OCR
+331,level_in,6,6,,AI confirmed by 1 OCR
+332,area,BJ,,,AI only (no OCR reading)
+332,serial,1,,,AI only (no OCR reading)
+332,level_in,0,,,AI only (no OCR reading)
+333,type,B,B,,AI confirmed by 1 OCR
+333,area,VS,VS,,AI confirmed by 1 OCR
+333,serial,3026,3026,,AI confirmed by 1 OCR
+333,level_ft,6,6,,AI confirmed by 1 OCR
+333,level_in,6,6,,AI confirmed by 1 OCR
+334,type,B,B,,AI confirmed by 1 OCR
+334,area,E,E,,AI confirmed by 1 OCR
+334,serial,1346,1346,,AI confirmed by 1 OCR
+334,level_ft,5,,,AI only (no OCR reading)
+334,level_in,6,67,,unconfirmed: OCR differs
+335,type,B,B,,AI confirmed by 1 OCR
+335,area,HR,HR,HR,AI confirmed by 2 OCR
+335,serial,2657,2657,2657,AI confirmed by 2 OCR
+335,level_in,0,,,AI only (no OCR reading)
+336,type,B,B,B,AI confirmed by 2 OCR
+336,area,E,E,E,AI confirmed by 2 OCR
+336,serial,1846,1846,1846,AI confirmed by 2 OCR
+336,level_in,0,,,AI only (no OCR reading)
+337,type,B,B,B,AI confirmed by 2 OCR
+337,area,B,B,B,AI confirmed by 2 OCR
+337,serial,588,588,588,AI confirmed by 2 OCR
+337,level_ft,8,,8,AI confirmed by 1 OCR
+337,level_in,6,6,6,AI confirmed by 2 OCR
+338,type,B,B,,AI confirmed by 1 OCR
+338,area,HR,HR,HR,AI confirmed by 2 OCR
+338,serial,5028,5028,5028,AI confirmed by 2 OCR
+338,level_ft,5,,5,AI confirmed by 1 OCR
+338,level_in,0,,0,AI confirmed by 1 OCR
+339,type,B,B,,AI confirmed by 1 OCR
+339,area,DK,DK,DK,AI confirmed by 2 OCR
+339,serial,2137,2137,2137,AI confirmed by 2 OCR
+339,level_ft,3,,,AI only (no OCR reading)
+339,level_in,0,0,,AI confirmed by 1 OCR
+340,type,B,B,,AI confirmed by 1 OCR
+340,area,HR,HR,HR,AI confirmed by 2 OCR
+340,serial,3080,3089,3080,"AI confirmed by 1 OCR, other OCR differs"
+340,level_ft,3,3,3,AI confirmed by 2 OCR
+340,level_in,0,0,3,"AI confirmed by 1 OCR, other OCR differs"
+341,type,B,B,,AI confirmed by 1 OCR
+341,area,L,L,,AI confirmed by 1 OCR
+341,serial,386,386,,AI confirmed by 1 OCR
+341,level_ft,surface,surface,,AI confirmed by 1 OCR
+342,type,B,B,,AI confirmed by 1 OCR
+342,area,HR,HR,,AI confirmed by 1 OCR
+342,serial,5992,52,,unconfirmed: OCR differs
+342,level_ft,4,4,,AI confirmed by 1 OCR
+342,level_in,0,,,AI only (no OCR reading)
+343,type,B,B,,AI confirmed by 1 OCR
+343,area,HR,HR,,AI confirmed by 1 OCR
+343,serial,4433,4433,,AI confirmed by 1 OCR
+343,level_ft,1,1,,AI confirmed by 1 OCR
+343,level_in,6,6,,AI confirmed by 1 OCR
+344,type,B,B,,AI confirmed by 1 OCR
+344,area,C,C,,AI confirmed by 1 OCR
+344,serial,2853,2353,,unconfirmed: OCR differs
+344,level_ft,4,4,,AI confirmed by 1 OCR
+344,level_in,0,0,,AI confirmed by 1 OCR
+345,type,B,,,AI only (no OCR reading)
+345,area,HR,HR,,AI confirmed by 1 OCR
+345,serial,5635,5635,,AI confirmed by 1 OCR
+345,level_ft,4,4,,AI confirmed by 1 OCR
+345,level_in,0,,,AI only (no OCR reading)
+346,type,B,B,,AI confirmed by 1 OCR
+346,area,HR,HR,,AI confirmed by 1 OCR
+346,serial,5971,71,,unconfirmed: OCR differs
+346,level_ft,8,7,,unconfirmed: OCR differs
+346,level_in,0,,,AI only (no OCR reading)
+347,type,B,B,,AI confirmed by 1 OCR
+347,area,E,,,AI only (no OCR reading)
+347,serial,1181,,,AI only (no OCR reading)
+347,level_ft,4,,,AI only (no OCR reading)
+347,level_in,0,,,AI only (no OCR reading)
+348,type,B,B,,AI confirmed by 1 OCR
+348,area,VS,VS,VS,AI confirmed by 2 OCR
+348,serial,1438,31433,1438,"AI confirmed by 1 OCR, other OCR differs"
+348,level_ft,4,4,4,AI confirmed by 2 OCR
+348,level_in,0,,0,AI confirmed by 1 OCR
+349,type,B,,,AI only (no OCR reading)
+349,area,C,C,C,AI confirmed by 2 OCR
+349,serial,1893,1893,1893,AI confirmed by 2 OCR
+349,level_ft,2,2,2,AI confirmed by 2 OCR
+349,level_in,6,6,6,AI confirmed by 2 OCR
+350,area,DK,DR,,unconfirmed: OCR differs
+350,serial,426,426,,AI confirmed by 1 OCR
+350,level_ft,2,,,AI only (no OCR reading)
+350,level_in,6,5,,unconfirmed: OCR differs
+351,type,B,B,,AI confirmed by 1 OCR
+351,area,C,C,,AI confirmed by 1 OCR
+351,serial,427,427,,AI confirmed by 1 OCR
+351,level_ft,5,5,,AI confirmed by 1 OCR
+351,level_in,0,,,AI only (no OCR reading)
+352,type,B,B,,AI confirmed by 1 OCR
+352,area,HR,HR,,AI confirmed by 1 OCR
+352,serial,4469,4469,,AI confirmed by 1 OCR
+352,level_ft,2,2,,AI confirmed by 1 OCR
+352,level_in,6,6,,AI confirmed by 1 OCR
+353,type,B,B,,AI confirmed by 1 OCR
+353,area,D,D,,AI confirmed by 1 OCR
+353,serial,392,392,,AI confirmed by 1 OCR
+353,level_ft,3,2,,unconfirmed: OCR differs
+353,level_in,0,,,AI only (no OCR reading)
+354,type,B,B,,AI confirmed by 1 OCR
+354,area,L,L,,AI confirmed by 1 OCR
+354,serial,860,86,,unconfirmed: OCR differs
+354,level_ft,3,3,,AI confirmed by 1 OCR
+354,level_in,0,,,AI only (no OCR reading)
+355,type,B,B,,AI confirmed by 1 OCR
+355,area,DK,DK,,AI confirmed by 1 OCR
+355,serial,2869,286,,unconfirmed: OCR differs
+355,level_ft,3,,,AI only (no OCR reading)
+355,level_in,0,,,AI only (no OCR reading)
+356,type,C,C,,AI confirmed by 1 OCR
+356,area,L,L,,AI confirmed by 1 OCR
+356,serial,323,323,,AI confirmed by 1 OCR
+356,level_ft,3,,,AI only (no OCR reading)
+356,level_in,0,,,AI only (no OCR reading)
+357,type,B,B,,AI confirmed by 1 OCR
+357,area,VS,VS,,AI confirmed by 1 OCR
+357,serial,1574,1574,,AI confirmed by 1 OCR
+357,level_ft,5,2,,unconfirmed: OCR differs
+357,level_in,0,0,,AI confirmed by 1 OCR
+358,type,B,B,,AI confirmed by 1 OCR
+358,area,DK,DK,,AI confirmed by 1 OCR
+358,serial,797,797,,AI confirmed by 1 OCR
+358,level_ft,0,5,,unconfirmed: OCR differs
+358,level_in,6,6,,AI confirmed by 1 OCR
+359,type,F,F,,AI confirmed by 1 OCR
+359,area,C,C,,AI confirmed by 1 OCR
+359,serial,310,310,,AI confirmed by 1 OCR
+359,level_ft,6,6,,AI confirmed by 1 OCR
+359,level_in,6,6,,AI confirmed by 1 OCR
+360,type,B,B,,AI confirmed by 1 OCR
+360,area,D,D,,AI confirmed by 1 OCR
+360,serial,417,417,,AI confirmed by 1 OCR
+360,level_ft,2,2,,AI confirmed by 1 OCR
+360,level_in,11,11,,AI confirmed by 1 OCR
+361,type,B,B,,AI confirmed by 1 OCR
+361,area,DK,DK,,AI confirmed by 1 OCR
+361,serial,2340,2340,,AI confirmed by 1 OCR
+361,level_ft,4,4,,AI confirmed by 1 OCR
+361,level_in,6,6,,AI confirmed by 1 OCR
+362,type,B,B,,AI confirmed by 1 OCR
+362,area,E,E,,AI confirmed by 1 OCR
+362,serial,1651,161,,unconfirmed: OCR differs
+362,level_in,0,,,AI only (no OCR reading)
+363,type,B,B,,AI confirmed by 1 OCR
+363,area,D,JD,,unconfirmed: OCR differs
+363,serial,104,194,,unconfirmed: OCR differs
+363,level_ft,3,2,,unconfirmed: OCR differs
+363,level_in,0,0,,AI confirmed by 1 OCR
+364,type,B,B,,AI confirmed by 1 OCR
+364,area,VS,VS,,AI confirmed by 1 OCR
+364,serial,2876,2876,,AI confirmed by 1 OCR
+364,level_ft,8,27,,unconfirmed: OCR differs
+364,level_in,0,,,AI only (no OCR reading)
+365,type,B,B,,AI confirmed by 1 OCR
+365,area,HR,HR,,AI confirmed by 1 OCR
+365,serial,1965,1965,,AI confirmed by 1 OCR
+365,level_ft,2,2,,AI confirmed by 1 OCR
+365,level_in,6,6,,AI confirmed by 1 OCR
+366,type,B,B,,AI confirmed by 1 OCR
+366,area,HR,HR,,AI confirmed by 1 OCR
+366,serial,4055,4055,,AI confirmed by 1 OCR
+366,level_ft,3,,,AI only (no OCR reading)
+366,level_in,0,0,,AI confirmed by 1 OCR
+367,type,B,B,,AI confirmed by 1 OCR
+367,area,VS,VS,,AI confirmed by 1 OCR
+367,serial,3450,3450,,AI confirmed by 1 OCR
+367,level_ft,3,2,,unconfirmed: OCR differs
+367,level_in,6,6,,AI confirmed by 1 OCR
+368,type,B,B,,AI confirmed by 1 OCR
+368,area,C,C,,AI confirmed by 1 OCR
+368,serial,675,675,,AI confirmed by 1 OCR
+368,level_ft,4,4,,AI confirmed by 1 OCR
+368,level_in,0,0,,AI confirmed by 1 OCR
+369,type,B,B,,AI confirmed by 1 OCR
+369,area,C,C,,AI confirmed by 1 OCR
+369,serial,353,353,,AI confirmed by 1 OCR
+369,level_ft,4,4,,AI confirmed by 1 OCR
+369,level_in,6,6,,AI confirmed by 1 OCR
+370,type,B,B,,AI confirmed by 1 OCR
+370,area,HR,HR,,AI confirmed by 1 OCR
+370,serial,5611,611,,unconfirmed: OCR differs
+370,level_ft,3,2,,unconfirmed: OCR differs
+370,level_in,0,0,,AI confirmed by 1 OCR
+371,type,B,B,,AI confirmed by 1 OCR
+371,area,C,C,,AI confirmed by 1 OCR
+371,serial,2053,2053,,AI confirmed by 1 OCR
+371,level_ft,10,10,,AI confirmed by 1 OCR
+371,level_in,0,,,AI only (no OCR reading)
+372,type,B,B,,AI confirmed by 1 OCR
+372,area,HR,HR,,AI confirmed by 1 OCR
+372,serial,1696,1696,,AI confirmed by 1 OCR
+372,level_ft,2,2,,AI confirmed by 1 OCR
+372,level_in,6,6,,AI confirmed by 1 OCR
+373,type,B,B,,AI confirmed by 1 OCR
+373,area,HR,HR,,AI confirmed by 1 OCR
+373,serial,5972,5972,,AI confirmed by 1 OCR
+373,level_ft,8,,,AI only (no OCR reading)
+373,level_in,0,0,,AI confirmed by 1 OCR
+374,type,B,B,,AI confirmed by 1 OCR
+374,area,HR,HR,,AI confirmed by 1 OCR
+374,serial,4355,4355,,AI confirmed by 1 OCR
+374,level_ft,2,2,,AI confirmed by 1 OCR
+374,level_in,5,,,AI only (no OCR reading)
+375,type,B,B,,AI confirmed by 1 OCR
+375,area,VS,VS,,AI confirmed by 1 OCR
+375,serial,1816,1816,,AI confirmed by 1 OCR
+375,level_ft,3,2,,unconfirmed: OCR differs
+375,level_in,0,5,,unconfirmed: OCR differs
+376,type,B,B,,AI confirmed by 1 OCR
+376,area,HR,,,AI only (no OCR reading)
+376,serial,4212E,,,AI only (no OCR reading)
+376,level_ft,6,6,,AI confirmed by 1 OCR
+376,level_in,0,,,AI only (no OCR reading)
+377,type,B,B,,AI confirmed by 1 OCR
+377,area,E,E,,AI confirmed by 1 OCR
+377,serial,1277,1277,,AI confirmed by 1 OCR
+377,level_ft,5,5,,AI confirmed by 1 OCR
+377,level_in,0,0,,AI confirmed by 1 OCR
+378,type,B,B,,AI confirmed by 1 OCR
+378,area,HR,HR,,AI confirmed by 1 OCR
+378,serial,2596,2596,,AI confirmed by 1 OCR
+378,level_ft,3,2,,unconfirmed: OCR differs
+378,level_in,0,0,,AI confirmed by 1 OCR
+379,type,B,B,,AI confirmed by 1 OCR
+379,area,HR,HR,,AI confirmed by 1 OCR
+379,serial,5946,5946,,AI confirmed by 1 OCR
+379,level_ft,4,4,,AI confirmed by 1 OCR
+379,level_in,3,3,,AI confirmed by 1 OCR
+380,type,B,,,AI only (no OCR reading)
+380,area,HR,HR,,AI confirmed by 1 OCR
+380,serial,4952,4952,,AI confirmed by 1 OCR
+380,level_ft,6,6,,AI confirmed by 1 OCR
+380,level_in,0,0,,AI confirmed by 1 OCR
+381,type,B,B,,AI confirmed by 1 OCR
+381,area,VS,VS,,AI confirmed by 1 OCR
+381,serial,1753,1753,,AI confirmed by 1 OCR
+381,level_ft,4,4,,AI confirmed by 1 OCR
+381,level_in,6,6,,AI confirmed by 1 OCR
+382,type,B,B,,AI confirmed by 1 OCR
+382,area,L,L,,AI confirmed by 1 OCR
+382,serial,384,384,,AI confirmed by 1 OCR
+382,level_ft,surface,surface,,AI confirmed by 1 OCR
+383,type,H,H,,AI confirmed by 1 OCR
+383,area,E,E,,AI confirmed by 1 OCR
+383,serial,1886,1886,,AI confirmed by 1 OCR
+383,level_ft,3,2,,unconfirmed: OCR differs
+383,level_in,0,0,,AI confirmed by 1 OCR
+384,type,B,B,,AI confirmed by 1 OCR
+384,area,E,E,,AI confirmed by 1 OCR
+384,serial,1432,1432,,AI confirmed by 1 OCR
+384,level_ft,1,1,,AI confirmed by 1 OCR
+384,level_in,2,,,AI only (no OCR reading)
+385,type,B,B,,AI confirmed by 1 OCR
+385,area,SD,SD,,AI confirmed by 1 OCR
+385,serial,2172,2172,,AI confirmed by 1 OCR
+385,level_ft,2,2,,AI confirmed by 1 OCR
+385,level_in,1,1,,AI confirmed by 1 OCR
+386,type,B,B,,AI confirmed by 1 OCR
+386,area,C,C,,AI confirmed by 1 OCR
+386,serial,2896,2896,,AI confirmed by 1 OCR
+386,level_ft,4,4,,AI confirmed by 1 OCR
+386,level_in,0,,,AI only (no OCR reading)
+387,type,B,B,,AI confirmed by 1 OCR
+387,area,B,B,,AI confirmed by 1 OCR
+387,serial,63,63,,AI confirmed by 1 OCR
+387,level_ft,5,,,AI only (no OCR reading)
+387,level_in,0,0,,AI confirmed by 1 OCR
+388,type,B,B,,AI confirmed by 1 OCR
+388,area,VS,VS,,AI confirmed by 1 OCR
+388,serial,3094,3094,,AI confirmed by 1 OCR
+388,level_ft,8,7,,unconfirmed: OCR differs
+388,level_in,6,6,,AI confirmed by 1 OCR
+389,type,B,B,,AI confirmed by 1 OCR
+389,area,D,D,,AI confirmed by 1 OCR
+389,serial,171,171,,AI confirmed by 1 OCR
+389,level_in,0,17,,unconfirmed: OCR differs
+390,type,B,B,,AI confirmed by 1 OCR
+390,area,DM,DM,,AI confirmed by 1 OCR
+390,serial,72,72,,AI confirmed by 1 OCR
+390,level_ft,9,0,,unconfirmed: OCR differs
+390,level_in,1,17,,unconfirmed: OCR differs
+391,type,F,F,,AI confirmed by 1 OCR
+391,area,C,,,AI only (no OCR reading)
+391,serial,51,,,AI only (no OCR reading)
+391,level_ft,1,,,AI only (no OCR reading)
+391,level_in,6,6,,AI confirmed by 1 OCR
+392,type,B,B,,AI confirmed by 1 OCR
+392,area,VS,VS,,AI confirmed by 1 OCR
+392,serial,2049,2049,,AI confirmed by 1 OCR
+392,level_ft,2,2,,AI confirmed by 1 OCR
+392,level_in,0,0,,AI confirmed by 1 OCR
+393,type,F,F,,AI confirmed by 1 OCR
+393,area,HR,HR,,AI confirmed by 1 OCR
+393,serial,3130,4130,,unconfirmed: OCR differs
+393,level_ft,3,2,,unconfirmed: OCR differs
+393,level_in,0,7,,unconfirmed: OCR differs
+394,type,B,B,,AI confirmed by 1 OCR
+394,area,C,C,,AI confirmed by 1 OCR
+394,serial,3158,3158,,AI confirmed by 1 OCR
+394,level_ft,6,6,,AI confirmed by 1 OCR
+394,level_in,6,64,,unconfirmed: OCR differs
+395,type,B,B,,AI confirmed by 1 OCR
+395,area,VS,VS,,AI confirmed by 1 OCR
+395,serial,1190,1190,,AI confirmed by 1 OCR
+395,level_ft,5,,,AI only (no OCR reading)
+395,level_in,6,6,,AI confirmed by 1 OCR
+396,type,B,B,,AI confirmed by 1 OCR
+396,area,HR,HR,,AI confirmed by 1 OCR
+396,serial,5676,5676,,AI confirmed by 1 OCR
+396,level_ft,4,4,,AI confirmed by 1 OCR
+396,level_in,0,,,AI only (no OCR reading)
+397,type,B,B,,AI confirmed by 1 OCR
+397,area,VS,VS,,AI confirmed by 1 OCR
+397,serial,3227,3227,,AI confirmed by 1 OCR
+397,level_ft,12,12,,AI confirmed by 1 OCR
+397,level_in,0,,,AI only (no OCR reading)
+398,type,F,F,,AI confirmed by 1 OCR
+398,area,C,C,,AI confirmed by 1 OCR
+398,serial,1814,1814,,AI confirmed by 1 OCR
+398,level_ft,9,9,,AI confirmed by 1 OCR
+398,level_in,0,,,AI only (no OCR reading)
+399,area,BJ,BJ,,AI confirmed by 1 OCR
+399,serial,9,9,,AI confirmed by 1 OCR
+399,level_in,0,7,,unconfirmed: OCR differs
+400,type,B,B,,AI confirmed by 1 OCR
+400,area,HR,HR,,AI confirmed by 1 OCR
+400,serial,3005,3005,,AI confirmed by 1 OCR
+400,level_ft,3,7,,unconfirmed: OCR differs
+400,level_in,0,,,AI only (no OCR reading)
+401,type,F,F,,AI confirmed by 1 OCR
+401,area,HR,HR,,AI confirmed by 1 OCR
+401,serial,2023,2023,,AI confirmed by 1 OCR
+401,level_ft,8,8,,AI confirmed by 1 OCR
+401,level_in,0,7,,unconfirmed: OCR differs
+402,type,F,F,,AI confirmed by 1 OCR
+402,area,HR,HR,,AI confirmed by 1 OCR
+402,serial,6187,6187,,AI confirmed by 1 OCR
+402,level_ft,8,8,,AI confirmed by 1 OCR
+402,level_in,0,0,,AI confirmed by 1 OCR
+403,type,F,F,,AI confirmed by 1 OCR
+403,area,D,D,,AI confirmed by 1 OCR
+403,serial,262,262,,AI confirmed by 1 OCR
+403,level_in,0,,,AI only (no OCR reading)
+404,type,B,B,,AI confirmed by 1 OCR
+404,area,VS,VS,,AI confirmed by 1 OCR
+404,serial,3546,3546,,AI confirmed by 1 OCR
+404,level_ft,7,,,AI only (no OCR reading)
+404,level_in,0,,,AI only (no OCR reading)
+405,type,F,F,,AI confirmed by 1 OCR
+405,area,HR,HR,,AI confirmed by 1 OCR
+405,serial,1050,1050,,AI confirmed by 1 OCR
+405,level_ft,2,,,AI only (no OCR reading)
+405,level_in,6,67,,unconfirmed: OCR differs
+406,type,F,F,,AI confirmed by 1 OCR
+406,area,DM,DM,,AI confirmed by 1 OCR
+406,serial,255,255,,AI confirmed by 1 OCR
+406,level_ft,8,,,AI only (no OCR reading)
+406,level_in,0,,,AI only (no OCR reading)
+407,type,F,F,,AI confirmed by 1 OCR
+407,area,DK,DK,,AI confirmed by 1 OCR
+407,serial,1436,1436,,AI confirmed by 1 OCR
+407,level_ft,3,37,,unconfirmed: OCR differs
+407,level_in,0,,,AI only (no OCR reading)
+408,type,F,F,,AI confirmed by 1 OCR
+408,area,E,E,,AI confirmed by 1 OCR
+408,serial,2505,2805,,unconfirmed: OCR differs
+408,level_ft,2,2,,AI confirmed by 1 OCR
+408,level_in,0,3,,unconfirmed: OCR differs
+409,type,F,F,,AI confirmed by 1 OCR
+409,area,DK,DK,,AI confirmed by 1 OCR
+409,serial,1398,1398,,AI confirmed by 1 OCR
+409,level_ft,3,,,AI only (no OCR reading)
+409,level_in,0,6,,unconfirmed: OCR differs
+410,type,F,F,,AI confirmed by 1 OCR
+410,area,VS,VS,,AI confirmed by 1 OCR
+410,serial,1681,168,,unconfirmed: OCR differs
+410,level_ft,3,7,,unconfirmed: OCR differs
+410,level_in,6,6,,AI confirmed by 1 OCR
+411,type,F,F,,AI confirmed by 1 OCR
+411,area,D,D,,AI confirmed by 1 OCR
+411,serial,288,288,,AI confirmed by 1 OCR
+411,level_ft,4,4,,AI confirmed by 1 OCR
+411,level_in,6,6,,AI confirmed by 1 OCR
+412,type,D,D,,AI confirmed by 1 OCR
+412,area,E,E,,AI confirmed by 1 OCR
+412,serial,2039,2039,,AI confirmed by 1 OCR
+412,level_ft,2,2,,AI confirmed by 1 OCR
+412,level_in,0,0,,AI confirmed by 1 OCR
+413,type,D,D,,AI confirmed by 1 OCR
+413,area,E,E,,AI confirmed by 1 OCR
+413,serial,2039,2039,,AI confirmed by 1 OCR
+413,level_ft,2,2,,AI confirmed by 1 OCR
+413,level_in,0,0,,AI confirmed by 1 OCR
+414,type,F,E,,unconfirmed: OCR differs
+414,area,SD,D,,unconfirmed: OCR differs
+414,serial,818,818,,AI confirmed by 1 OCR
+414,level_ft,4,4,,AI confirmed by 1 OCR
+414,level_in,0,,,AI only (no OCR reading)
+415,type,F,F,,AI confirmed by 1 OCR
+415,area,D,D,,AI confirmed by 1 OCR
+415,serial,114,1,,unconfirmed: OCR differs
+415,level_ft,5,,,AI only (no OCR reading)
+415,level_in,0,,,AI only (no OCR reading)
+416,type,F,F,,AI confirmed by 1 OCR
+416,area,D,,,AI only (no OCR reading)
+416,serial,150,,,AI only (no OCR reading)
+416,level_ft,1,1,,AI confirmed by 1 OCR
+416,level_in,6,6,,AI confirmed by 1 OCR
+417,type,B,B,,AI confirmed by 1 OCR
+417,area,HR,AR,,unconfirmed: OCR differs
+417,serial,5167,5167,,AI confirmed by 1 OCR
+417,level_ft,4,4,,AI confirmed by 1 OCR
+417,level_in,0,,,AI only (no OCR reading)
+418,type,F,,,AI only (no OCR reading)
+418,area,C,,,AI only (no OCR reading)
+418,serial,217,,,AI only (no OCR reading)
+418,level_ft,3,,,AI only (no OCR reading)
+418,level_in,0,,,AI only (no OCR reading)
+419,type,F,,,AI only (no OCR reading)
+419,area,HR,AR,,unconfirmed: OCR differs
+419,serial,5796,5796,,AI confirmed by 1 OCR
+419,level_ft,3,,,AI only (no OCR reading)
+419,level_in,0,0,,AI confirmed by 1 OCR
+420,type,D,,,AI only (no OCR reading)
+420,area,HR,,,AI only (no OCR reading)
+420,serial,5147,,,AI only (no OCR reading)
+420,level_ft,8,8,,AI confirmed by 1 OCR
+420,level_in,0,,,AI only (no OCR reading)
+421,type,F,I,,unconfirmed: OCR differs
+421,area,VS,VS,,AI confirmed by 1 OCR
+421,serial,1082,1082,,AI confirmed by 1 OCR
+421,level_ft,3,7,,unconfirmed: OCR differs
+421,level_in,0,,,AI only (no OCR reading)
+422,type,F,F,,AI confirmed by 1 OCR
+422,area,HR,HR,,AI confirmed by 1 OCR
+422,serial,6210,6210,,AI confirmed by 1 OCR
+422,level_ft,6,6,,AI confirmed by 1 OCR
+422,level_in,0,,,AI only (no OCR reading)
+423,type,F,F,,AI confirmed by 1 OCR
+423,area,C,C,,AI confirmed by 1 OCR
+423,serial,2056,2056,,AI confirmed by 1 OCR
+423,level_ft,1,1,,AI confirmed by 1 OCR
+423,level_in,9,9,,AI confirmed by 1 OCR
+424,type,F,F,,AI confirmed by 1 OCR
+424,area,D,D,,AI confirmed by 1 OCR
+424,serial,207,207,,AI confirmed by 1 OCR
+424,level_ft,5,5,,AI confirmed by 1 OCR
+424,level_in,3,3,,AI confirmed by 1 OCR
+425,type,F,F,,AI confirmed by 1 OCR
+425,area,HR,HR,,AI confirmed by 1 OCR
+425,serial,2780,2780,,AI confirmed by 1 OCR
+425,level_ft,6,6,,AI confirmed by 1 OCR
+425,level_in,0,,,AI only (no OCR reading)
+426,type,F,F,,AI confirmed by 1 OCR
+426,area,HR,HR,,AI confirmed by 1 OCR
+426,serial,1574,1574,,AI confirmed by 1 OCR
+426,level_ft,2,2,,AI confirmed by 1 OCR
+426,level_in,6,6,,AI confirmed by 1 OCR
+427,type,F,F,,AI confirmed by 1 OCR
+427,area,DK,DK,,AI confirmed by 1 OCR
+427,serial,2732,2732,,AI confirmed by 1 OCR
+427,level_ft,4,4,,AI confirmed by 1 OCR
+427,level_in,0,,,AI only (no OCR reading)
+428,type,F,F,,AI confirmed by 1 OCR
+428,area,VS,VS,,AI confirmed by 1 OCR
+428,serial,1681,1681,,AI confirmed by 1 OCR
+428,level_ft,3,3,,AI confirmed by 1 OCR
+428,level_in,6,6,,AI confirmed by 1 OCR
+429,type,F,F,,AI confirmed by 1 OCR
+429,area,E,E,,AI confirmed by 1 OCR
+429,serial,2475,2475,,AI confirmed by 1 OCR
+429,level_ft,9,9,,AI confirmed by 1 OCR
+429,level_in,0,,,AI only (no OCR reading)
+430,type,F,F,,AI confirmed by 1 OCR
+430,area,HR,HR,,AI confirmed by 1 OCR
+430,serial,1121,121,,unconfirmed: OCR differs
+430,level_ft,6,6,,AI confirmed by 1 OCR
+430,level_in,0,0,,AI confirmed by 1 OCR
+431,type,F,F,,AI confirmed by 1 OCR
+431,area,HR,HR,,AI confirmed by 1 OCR
+431,serial,116,116,,AI confirmed by 1 OCR
+431,level_ft,1,1,,AI confirmed by 1 OCR
+431,level_in,0,,,AI only (no OCR reading)
+432,type,F,F,,AI confirmed by 1 OCR
+432,area,HR,HR,,AI confirmed by 1 OCR
+432,serial,5260,5260,,AI confirmed by 1 OCR
+432,level_ft,4,4,,AI confirmed by 1 OCR
+432,level_in,0,,,AI only (no OCR reading)
+433,type,F,F,,AI confirmed by 1 OCR
+433,area,HR,HR,,AI confirmed by 1 OCR
+433,serial,4125,4125,,AI confirmed by 1 OCR
+433,level_ft,4,4,,AI confirmed by 1 OCR
+433,level_in,0,,,AI only (no OCR reading)
+434,type,F,E,,unconfirmed: OCR differs
+434,area,VS,VS,,AI confirmed by 1 OCR
+434,serial,1694,1694,,AI confirmed by 1 OCR
+434,level_ft,2,2,,AI confirmed by 1 OCR
+434,level_in,6,6,,AI confirmed by 1 OCR
+435,type,D,D,,AI confirmed by 1 OCR
+435,area,A,A,,AI confirmed by 1 OCR
+435,serial,148,148,,AI confirmed by 1 OCR
+435,level_ft,5,,,AI only (no OCR reading)
+435,level_in,3,2,,unconfirmed: OCR differs
+436,type,F,F,,AI confirmed by 1 OCR
+436,area,HR,HR,,AI confirmed by 1 OCR
+436,serial,2674,2674,,AI confirmed by 1 OCR
+436,level_ft,3,3,,AI confirmed by 1 OCR
+436,level_in,6,6,,AI confirmed by 1 OCR
+437,type,F,F,,AI confirmed by 1 OCR
+437,area,C,C,,AI confirmed by 1 OCR
+437,serial,554,54,,unconfirmed: OCR differs
+437,level_ft,3,,,AI only (no OCR reading)
+437,level_in,2,2,,AI confirmed by 1 OCR
+438,type,F,F,,AI confirmed by 1 OCR
+438,area,E,E,,AI confirmed by 1 OCR
+438,serial,1095,1095,,AI confirmed by 1 OCR
+438,level_ft,1,1,,AI confirmed by 1 OCR
+438,level_in,0,,,AI only (no OCR reading)
+439,type,F,F,,AI confirmed by 1 OCR
+439,area,DK,DK,,AI confirmed by 1 OCR
+439,serial,1638,1638,,AI confirmed by 1 OCR
+439,level_ft,8,8,,AI confirmed by 1 OCR
+439,level_in,0,0,,AI confirmed by 1 OCR
+440,type,D,D,,AI confirmed by 1 OCR
+440,area,A,A,,AI confirmed by 1 OCR
+440,serial,148,148,,AI confirmed by 1 OCR
+440,level_ft,5,,,AI only (no OCR reading)
+440,level_in,3,2,,unconfirmed: OCR differs
+441,type,D,D,,AI confirmed by 1 OCR
+441,area,HR,HR,,AI confirmed by 1 OCR
+441,serial,5248,5248,,AI confirmed by 1 OCR
+441,level_ft,5,5,,AI confirmed by 1 OCR
+441,level_in,0,,,AI only (no OCR reading)
+442,type,D,D,,AI confirmed by 1 OCR
+442,area,HR,HR,,AI confirmed by 1 OCR
+442,serial,3732,3732,,AI confirmed by 1 OCR
+442,level_ft,3,3,,AI confirmed by 1 OCR
+442,level_in,0,,,AI only (no OCR reading)
+443,type,B,B,,AI confirmed by 1 OCR
+443,area,HR,HR,,AI confirmed by 1 OCR
+443,serial,4434,4434,,AI confirmed by 1 OCR
+443,level_ft,1,1,,AI confirmed by 1 OCR
+443,level_in,6,6,,AI confirmed by 1 OCR
+444,type,F,F,,AI confirmed by 1 OCR
+444,area,VS,VS,,AI confirmed by 1 OCR
+444,serial,3454,3454,,AI confirmed by 1 OCR
+444,level_ft,2,,,AI only (no OCR reading)
+444,level_in,3,2,,unconfirmed: OCR differs
+445,type,F,F,,AI confirmed by 1 OCR
+445,area,L,L,,AI confirmed by 1 OCR
+445,serial,650,650,,AI confirmed by 1 OCR
+445,level_ft,5,,,AI only (no OCR reading)
+445,level_in,0,,,AI only (no OCR reading)
+446,type,F,F,,AI confirmed by 1 OCR
+446,area,HR,HR,,AI confirmed by 1 OCR
+446,serial,350,2060,,unconfirmed: OCR differs
+446,level_ft,3,3,,AI confirmed by 1 OCR
+446,level_in,0,0,,AI confirmed by 1 OCR
+447,type,F,F,,AI confirmed by 1 OCR
+447,area,VS,VS,,AI confirmed by 1 OCR
+447,serial,2289,2289,,AI confirmed by 1 OCR
+447,level_ft,6,6,,AI confirmed by 1 OCR
+447,level_in,4,4,,AI confirmed by 1 OCR
+448,type,F,F,,AI confirmed by 1 OCR
+448,area,HR,HR,,AI confirmed by 1 OCR
+448,serial,6177,6177,,AI confirmed by 1 OCR
+448,level_ft,10,10,,AI confirmed by 1 OCR
+448,level_in,0,,,AI only (no OCR reading)
+449,type,F,F,,AI confirmed by 1 OCR
+449,area,DK,DK,,AI confirmed by 1 OCR
+449,serial,597,597,,AI confirmed by 1 OCR
+449,level_ft,6,6,,AI confirmed by 1 OCR
+449,level_in,0,0,,AI confirmed by 1 OCR
+450,type,F,F,,AI confirmed by 1 OCR
+450,area,C,C,,AI confirmed by 1 OCR
+450,serial,656,656,,AI confirmed by 1 OCR
+450,level_ft,4,4,,AI confirmed by 1 OCR
+450,level_in,5,5,,AI confirmed by 1 OCR
+451,type,B,B,,AI confirmed by 1 OCR
+451,area,VS,VS,,AI confirmed by 1 OCR
+451,serial,880,880,,AI confirmed by 1 OCR
+451,level_ft,2,2,,AI confirmed by 1 OCR
+451,level_in,6,6,,AI confirmed by 1 OCR
+452,type,F,F,,AI confirmed by 1 OCR
+452,area,B,B,,AI confirmed by 1 OCR
+452,serial,290,290,,AI confirmed by 1 OCR
+452,level_ft,3,4,,unconfirmed: OCR differs
+452,level_in,0,0,,AI confirmed by 1 OCR
+453,type,F,F,,AI confirmed by 1 OCR
+453,area,HR,HR,,AI confirmed by 1 OCR
+453,serial,3478,3478,,AI confirmed by 1 OCR
+453,level_ft,3,3,,AI confirmed by 1 OCR
+453,level_in,0,,,AI only (no OCR reading)
+454,type,F,F,,AI confirmed by 1 OCR
+454,area,L,L,,AI confirmed by 1 OCR
+454,serial,291,25,,unconfirmed: OCR differs
+454,level_ft,surface,surface,,AI confirmed by 1 OCR
+455,type,F,F,,AI confirmed by 1 OCR
+455,area,HR,HR,,AI confirmed by 1 OCR
+455,serial,4373,4373,,AI confirmed by 1 OCR
+455,level_ft,4,4,,AI confirmed by 1 OCR
+455,level_in,0,0,,AI confirmed by 1 OCR
+456,type,F,F,,AI confirmed by 1 OCR
+456,area,C,C,,AI confirmed by 1 OCR
+456,serial,204,204,,AI confirmed by 1 OCR
+456,level_ft,5,,,AI only (no OCR reading)
+456,level_in,6,6,,AI confirmed by 1 OCR
+457,type,F,F,,AI confirmed by 1 OCR
+457,area,VS,VS,,AI confirmed by 1 OCR
+457,serial,3553,3553,,AI confirmed by 1 OCR
+457,level_ft,10,10,,AI confirmed by 1 OCR
+457,level_in,0,,,AI only (no OCR reading)
+458,type,F,F,,AI confirmed by 1 OCR
+458,area,SD,SD,,AI confirmed by 1 OCR
+458,serial,1962,1962,,AI confirmed by 1 OCR
+458,level_ft,8,8,,AI confirmed by 1 OCR
+458,level_in,4,4,,AI confirmed by 1 OCR
+459,type,D,D,,AI confirmed by 1 OCR
+459,area,VS,VS,,AI confirmed by 1 OCR
+459,serial,208,208,,AI confirmed by 1 OCR
+459,level_ft,3,4,,unconfirmed: OCR differs
+459,level_in,1,1,,AI confirmed by 1 OCR
+460,type,I,I,,AI confirmed by 1 OCR
+460,area,VS,VS,,AI confirmed by 1 OCR
+460,serial,2846,2846,,AI confirmed by 1 OCR
+460,level_ft,9,9,,AI confirmed by 1 OCR
+460,level_in,6,6,,AI confirmed by 1 OCR
+461,type,F,F,,AI confirmed by 1 OCR
+461,area,HR,HR,,AI confirmed by 1 OCR
+461,serial,4459,4459,,AI confirmed by 1 OCR
+461,level_ft,2,2,,AI confirmed by 1 OCR
+461,level_in,0,,,AI only (no OCR reading)
+462,type,F,F,,AI confirmed by 1 OCR
+462,area,HR,HR,,AI confirmed by 1 OCR
+462,serial,3767,3767,,AI confirmed by 1 OCR
+462,level_ft,6,6,,AI confirmed by 1 OCR
+462,level_in,0,,,AI only (no OCR reading)
+463,type,F,F,,AI confirmed by 1 OCR
+463,area,VS,VS,,AI confirmed by 1 OCR
+463,serial,953,953,,AI confirmed by 1 OCR
+463,level_ft,3,,,AI only (no OCR reading)
+463,level_in,6,6,,AI confirmed by 1 OCR
+464,type,F,F,,AI confirmed by 1 OCR
+464,area,HR,HR,,AI confirmed by 1 OCR
+464,serial,4109,4109,,AI confirmed by 1 OCR
+464,level_ft,2,37,,unconfirmed: OCR differs
+464,level_in,5,,,AI only (no OCR reading)
+465,type,F,F,,AI confirmed by 1 OCR
+465,area,VS,VS,,AI confirmed by 1 OCR
+465,serial,2100,2100,,AI confirmed by 1 OCR
+465,level_ft,1,1,,AI confirmed by 1 OCR
+465,level_in,0,0,,AI confirmed by 1 OCR
+466,type,F,F,,AI confirmed by 1 OCR
+466,area,DK,DK,,AI confirmed by 1 OCR
+466,serial,1291,1291,,AI confirmed by 1 OCR
+466,level_ft,1,1,,AI confirmed by 1 OCR
+466,level_in,0,,,AI only (no OCR reading)
+467,type,F,F,,AI confirmed by 1 OCR
+467,area,C,C,,AI confirmed by 1 OCR
+467,serial,1878,188,,unconfirmed: OCR differs
+467,level_ft,3,3,,AI confirmed by 1 OCR
+467,level_in,6,6,,AI confirmed by 1 OCR
+468,type,F,F,,AI confirmed by 1 OCR
+468,area,HR,HR,,AI confirmed by 1 OCR
+468,serial,4285,4285,,AI confirmed by 1 OCR
+468,level_ft,4,4,,AI confirmed by 1 OCR
+468,level_in,0,,,AI only (no OCR reading)
+469,type,F,F,,AI confirmed by 1 OCR
+469,area,HR,HR,,AI confirmed by 1 OCR
+469,serial,3689,3689,,AI confirmed by 1 OCR
+469,level_ft,10,10,,AI confirmed by 1 OCR
+469,level_in,0,0,,AI confirmed by 1 OCR
+470,type,F,F,,AI confirmed by 1 OCR
+470,area,HR,HR,,AI confirmed by 1 OCR
+470,serial,4237,4237,,AI confirmed by 1 OCR
+470,level_ft,1,1,,AI confirmed by 1 OCR
+470,level_in,6,6,,AI confirmed by 1 OCR
+471,type,C,C,,AI confirmed by 1 OCR
+471,area,HR,HR,,AI confirmed by 1 OCR
+471,serial,2240,22309,,unconfirmed: OCR differs
+471,level_ft,9,,,AI only (no OCR reading)
+471,level_in,0,,,AI only (no OCR reading)
+472,type,C,C,,AI confirmed by 1 OCR
+472,area,HR,HR,,AI confirmed by 1 OCR
+472,serial,2240,2240,,AI confirmed by 1 OCR
+472,level_ft,9,9,,AI confirmed by 1 OCR
+472,level_in,0,,,AI only (no OCR reading)
+473,type,C,C,,AI confirmed by 1 OCR
+473,area,HR,HR,,AI confirmed by 1 OCR
+473,serial,2240,2240,,AI confirmed by 1 OCR
+473,level_ft,9,,,AI only (no OCR reading)
+473,level_in,0,,,AI only (no OCR reading)
+474,area,D,D,,AI confirmed by 1 OCR
+474,serial,263,263,,AI confirmed by 1 OCR
+474,level_ft,4,4,,AI confirmed by 1 OCR
+474,level_in,0,,,AI only (no OCR reading)
+475,type,C,C,,AI confirmed by 1 OCR
+475,area,E,E,,AI confirmed by 1 OCR
+475,serial,904,4,,unconfirmed: OCR differs
+475,level_ft,3,3,,AI confirmed by 1 OCR
+475,level_in,0,,,AI only (no OCR reading)
+476,type,C,C,,AI confirmed by 1 OCR
+476,area,E,E,,AI confirmed by 1 OCR
+476,serial,904,4,,unconfirmed: OCR differs
+476,level_ft,3,3,,AI confirmed by 1 OCR
+476,level_in,0,,,AI only (no OCR reading)
+477,type,C,C,,AI confirmed by 1 OCR
+477,area,C,C,,AI confirmed by 1 OCR
+477,serial,2631,2531,,unconfirmed: OCR differs
+477,level_in,0,,,AI only (no OCR reading)
+478,type,H,H,,AI confirmed by 1 OCR
+478,area,VS,VS,,AI confirmed by 1 OCR
+478,serial,3227,3027,,unconfirmed: OCR differs
+478,level_ft,5,2,,unconfirmed: OCR differs
+478,level_in,0,,,AI only (no OCR reading)
+479,type,B,B,,AI confirmed by 1 OCR
+479,area,SD,SD,,AI confirmed by 1 OCR
+479,serial,533,533,,AI confirmed by 1 OCR
+479,level_ft,5,,,AI only (no OCR reading)
+479,level_in,0,0,,AI confirmed by 1 OCR
+480,type,B,B,,AI confirmed by 1 OCR
+480,area,E,E,,AI confirmed by 1 OCR
+480,serial,1007,1007,,AI confirmed by 1 OCR
+480,level_in,0,,,AI only (no OCR reading)
+481,type,?,,,AI only (no OCR reading)
+481,level_in,0,,,AI only (no OCR reading)
+482,type,E,E,,AI confirmed by 1 OCR
+482,area,HR,HR,,AI confirmed by 1 OCR
+482,serial,1400,1399,,unconfirmed: OCR differs
+482,level_ft,9,9,,AI confirmed by 1 OCR
+482,level_in,4,4,,AI confirmed by 1 OCR
+483,area,B,B,,AI confirmed by 1 OCR
+483,serial,731,731,,AI confirmed by 1 OCR
+483,level_in,0,,,AI only (no OCR reading)
+484,type,?,,,AI only (no OCR reading)
+484,area,F,F,,AI confirmed by 1 OCR
+484,serial,30,30,,AI confirmed by 1 OCR
+484,level_ft,4,4,,AI confirmed by 1 OCR
+484,level_in,0,,,AI only (no OCR reading)
+485,type,B,B,,AI confirmed by 1 OCR
+485,area,C,C,,AI confirmed by 1 OCR
+485,serial,40,42,,unconfirmed: OCR differs
+485,level_ft,2,2,,AI confirmed by 1 OCR
+485,level_in,0,,,AI only (no OCR reading)
+486,area,C,C,,AI confirmed by 1 OCR
+486,serial,1287,17,,unconfirmed: OCR differs
+486,level_ft,1,1,,AI confirmed by 1 OCR
+486,level_in,6,6,,AI confirmed by 1 OCR
+487,type,B,B,,AI confirmed by 1 OCR
+487,area,HR,HR,,AI confirmed by 1 OCR
+487,serial,4394,4394,,AI confirmed by 1 OCR
+487,level_in,0,,,AI only (no OCR reading)
+488,area,B,,,AI only (no OCR reading)
+488,serial,604,,,AI only (no OCR reading)
+488,level_ft,8,,,AI only (no OCR reading)
+488,level_in,0,,,AI only (no OCR reading)
+489,type,?,,,AI only (no OCR reading)
+489,level_in,0,,,AI only (no OCR reading)
+490,type,B,B,,AI confirmed by 1 OCR
+490,area,HR,HR,,AI confirmed by 1 OCR
+490,serial,2939,2939,,AI confirmed by 1 OCR
+490,level_ft,5,2,,unconfirmed: OCR differs
+490,level_in,0,,,AI only (no OCR reading)
+491,type,B,,,AI only (no OCR reading)
+491,area,E,E,,AI confirmed by 1 OCR
+491,serial,894,894,,AI confirmed by 1 OCR
+491,level_ft,2,,,AI only (no OCR reading)
+491,level_in,3,4,,unconfirmed: OCR differs
+492,type,B,B,,AI confirmed by 1 OCR
+492,area,DK,DKS,,unconfirmed: OCR differs
+492,serial,595,95,,unconfirmed: OCR differs
+492,level_ft,6,6,,AI confirmed by 1 OCR
+492,level_in,0,,,AI only (no OCR reading)
+493,type,B,,,AI only (no OCR reading)
+493,area,VS,,,AI only (no OCR reading)
+493,serial,880,,,AI only (no OCR reading)
+493,level_ft,2,2,,AI confirmed by 1 OCR
+493,level_in,6,6,,AI confirmed by 1 OCR
+494,type,F,F,,AI confirmed by 1 OCR
+494,area,DK,DK,,AI confirmed by 1 OCR
+494,serial,931,31,,unconfirmed: OCR differs
+494,level_ft,2,2,,AI confirmed by 1 OCR
+494,level_in,0,,,AI only (no OCR reading)
+495,type,B,B,,AI confirmed by 1 OCR
+495,area,DK,DK,,AI confirmed by 1 OCR
+495,serial,844,44,,unconfirmed: OCR differs
+495,level_ft,2,,,AI only (no OCR reading)
+495,level_in,0,,,AI only (no OCR reading)
+496,type,B,B,,AI confirmed by 1 OCR
+496,area,DK,,,AI only (no OCR reading)
+496,level_in,0,,,AI only (no OCR reading)
+497,type,B (?),B,,unconfirmed: OCR differs
+497,area,VS,VS,,AI confirmed by 1 OCR
+497,serial,3331,3331,,AI confirmed by 1 OCR
+497,level_ft,4,3,,unconfirmed: OCR differs
+497,level_in,0,,,AI only (no OCR reading)
+498,type,F,F,,AI confirmed by 1 OCR
+498,area,E,E,,AI confirmed by 1 OCR
+498,serial,2528,2528,,AI confirmed by 1 OCR
+498,level_ft,7,4,,unconfirmed: OCR differs
+498,level_in,0,,,AI only (no OCR reading)
+499,type,B,B,,AI confirmed by 1 OCR
+499,area,DK,DK,,AI confirmed by 1 OCR
+499,serial,2363,2363,,AI confirmed by 1 OCR
+499,level_ft,5,5,,AI confirmed by 1 OCR
+499,level_in,0,,,AI only (no OCR reading)
+500,type,E,E,,AI confirmed by 1 OCR
+500,area,D,D,,AI confirmed by 1 OCR
+500,serial,234,234,,AI confirmed by 1 OCR
+500,level_ft,2,2,,AI confirmed by 1 OCR
+500,level_in,9,,,AI only (no OCR reading)
+501,type,E,F,,unconfirmed: OCR differs
+501,area,HR,HR,,AI confirmed by 1 OCR
+501,serial,2728,2728,,AI confirmed by 1 OCR
+501,level_ft,2,2,,AI confirmed by 1 OCR
+501,level_in,0,,,AI only (no OCR reading)
+502,type,E,E,,AI confirmed by 1 OCR
+502,area,HR,HR,,AI confirmed by 1 OCR
+502,serial,5572,5572,,AI confirmed by 1 OCR
+502,level_ft,3,3,,AI confirmed by 1 OCR
+502,level_in,4,4,,AI confirmed by 1 OCR
+503,type,E,F,,unconfirmed: OCR differs
+503,area,L,L,,AI confirmed by 1 OCR
+503,serial,209,209,,AI confirmed by 1 OCR
+503,level_ft,surface,surface,,AI confirmed by 1 OCR
+504,type,E,F,,unconfirmed: OCR differs
+504,area,HR,HR,,AI confirmed by 1 OCR
+504,serial,5503,5393,,unconfirmed: OCR differs
+504,level_ft,3,3,,AI confirmed by 1 OCR
+504,level_in,0,,,AI only (no OCR reading)
+505,type,E,F,,unconfirmed: OCR differs
+505,area,DM,DM,,AI confirmed by 1 OCR
+505,serial,7,5,,unconfirmed: OCR differs
+505,level_ft,5,5,,AI confirmed by 1 OCR
+505,level_in,0,,,AI only (no OCR reading)
+506,type,E,F,,unconfirmed: OCR differs
+506,area,HR,HR,,AI confirmed by 1 OCR
+506,serial,6147,4147,,unconfirmed: OCR differs
+506,level_ft,8,3,,unconfirmed: OCR differs
+506,level_in,0,,,AI only (no OCR reading)
+507,type,E,E,,AI confirmed by 1 OCR
+507,area,HR,,,AI only (no OCR reading)
+507,serial,4869,,,AI only (no OCR reading)
+507,level_ft,3,3,,AI confirmed by 1 OCR
+507,level_in,0,,,AI only (no OCR reading)
+508,type,C,C,,AI confirmed by 1 OCR
+508,area,HR,HR,,AI confirmed by 1 OCR
+508,serial,4503,4503,,AI confirmed by 1 OCR
+508,level_in,0,,,AI only (no OCR reading)
+509,type,E,,,AI only (no OCR reading)
+509,area,HR,HR,,AI confirmed by 1 OCR
+509,serial,6163,6163,,AI confirmed by 1 OCR
+509,level_ft,6,6,,AI confirmed by 1 OCR
+509,level_in,0,,,AI only (no OCR reading)
+510,type,E,F,,unconfirmed: OCR differs
+510,area,HR,HR,,AI confirmed by 1 OCR
+510,serial,5628,628,,unconfirmed: OCR differs
+510,level_ft,4,,,AI only (no OCR reading)
+510,level_in,0,,,AI only (no OCR reading)
+511,type,E,,,AI only (no OCR reading)
+511,area,HR,,,AI only (no OCR reading)
+511,serial,5657,,,AI only (no OCR reading)
+511,level_ft,3,3,,AI confirmed by 1 OCR
+511,level_in,0,,,AI only (no OCR reading)
+512,type,F,F,,AI confirmed by 1 OCR
+512,area,E,E,,AI confirmed by 1 OCR
+512,serial,1723,1723,,AI confirmed by 1 OCR
+512,level_in,0,,,AI only (no OCR reading)
+513,type,E,,,AI only (no OCR reading)
+513,area,VS,VS,,AI confirmed by 1 OCR
+513,serial,1960,10,,unconfirmed: OCR differs
+513,level_ft,5,,,AI only (no OCR reading)
+513,level_in,0,0,,AI confirmed by 1 OCR
+514,type,E,F,,unconfirmed: OCR differs
+514,area,HR,,,AI only (no OCR reading)
+514,serial,1464,,,AI only (no OCR reading)
+514,level_ft,12,12,,AI confirmed by 1 OCR
+514,level_in,0,,,AI only (no OCR reading)
+515,type,E,I,,unconfirmed: OCR differs
+515,area,E,F,,unconfirmed: OCR differs
+515,serial,1989,1489,,unconfirmed: OCR differs
+515,level_ft,1,1,,AI confirmed by 1 OCR
+515,level_in,6,,,AI only (no OCR reading)
+516,type,E,E,,AI confirmed by 1 OCR
+516,area,HR,,,AI only (no OCR reading)
+516,serial,1,,,AI only (no OCR reading)
+516,level_ft,surface,surface,,AI confirmed by 1 OCR
+517,area,C,C,,AI confirmed by 1 OCR
+517,serial,2927,2927,,AI confirmed by 1 OCR
+517,level_ft,3,7,,unconfirmed: OCR differs
+517,level_in,0,,,AI only (no OCR reading)
+518,type,E,E,,AI confirmed by 1 OCR
+518,area,MUS,,,AI only (no OCR reading)
+518,serial,8,,,AI only (no OCR reading)
+518,level_in,0,,,AI only (no OCR reading)
+519,type,B,B,,AI confirmed by 1 OCR
+519,area,D,D,,AI confirmed by 1 OCR
+519,serial,349,349,,AI confirmed by 1 OCR
+519,level_ft,2,2,,AI confirmed by 1 OCR
+519,level_in,9,9,,AI confirmed by 1 OCR
+520,type,E,E,,AI confirmed by 1 OCR
+520,area,HR,HR,,AI confirmed by 1 OCR
+520,serial,6207,6207,,AI confirmed by 1 OCR
+520,level_ft,6,6,,AI confirmed by 1 OCR
+520,level_in,0,0,,AI confirmed by 1 OCR
+521,type,E,E,,AI confirmed by 1 OCR
+521,area,VS,VS,,AI confirmed by 1 OCR
+521,serial,1278,1278,,AI confirmed by 1 OCR
+521,level_ft,5,,,AI only (no OCR reading)
+521,level_in,0,,,AI only (no OCR reading)
+522,type,F,F,,AI confirmed by 1 OCR
+522,area,DK,DK,,AI confirmed by 1 OCR
+522,serial,1298,1298,,AI confirmed by 1 OCR
+522,level_ft,surface,surface,,AI confirmed by 1 OCR
+523,type,G,G,,AI confirmed by 1 OCR
+523,area,VS,VS,,AI confirmed by 1 OCR
+523,serial,928,928,,AI confirmed by 1 OCR
+523,level_ft,5,,,AI only (no OCR reading)
+523,level_in,0,,,AI only (no OCR reading)
+524,type,G,G,,AI confirmed by 1 OCR
+524,area,B,B,,AI confirmed by 1 OCR
+524,serial,594,594,,AI confirmed by 1 OCR
+524,level_ft,3,3,,AI confirmed by 1 OCR
+524,level_in,0,,,AI only (no OCR reading)
+525,type,G,G,,AI confirmed by 1 OCR
+525,area,E,E,,AI confirmed by 1 OCR
+525,serial,1261,1261,,AI confirmed by 1 OCR
+525,level_in,0,,,AI only (no OCR reading)
+526,type,G,G,,AI confirmed by 1 OCR
+526,area,E,E,,AI confirmed by 1 OCR
+526,serial,492,492,,AI confirmed by 1 OCR
+526,level_ft,3,3,,AI confirmed by 1 OCR
+526,level_in,6,6,,AI confirmed by 1 OCR
+526b,type,F,F,,AI confirmed by 1 OCR
+526b,area,L,L,,AI confirmed by 1 OCR
+526b,serial,702,702,,AI confirmed by 1 OCR
+526b,level_ft,3,3,,AI confirmed by 1 OCR
+526b,level_in,6,6,,AI confirmed by 1 OCR
+527,type,J,J,,AI confirmed by 1 OCR
+527,area,E,E,,AI confirmed by 1 OCR
+527,serial,1908,1998,,unconfirmed: OCR differs
+527,level_ft,5,5,,AI confirmed by 1 OCR
+527,level_in,0,,,AI only (no OCR reading)
+528,type,G,G,,AI confirmed by 1 OCR
+528,area,HR,HR,,AI confirmed by 1 OCR
+528,serial,3388,3388,,AI confirmed by 1 OCR
+528,level_ft,2,2,,AI confirmed by 1 OCR
+528,level_in,0,,,AI only (no OCR reading)
+528b,type,E,E,,AI confirmed by 1 OCR
+528b,area,VS,VS,,AI confirmed by 1 OCR
+528b,serial,3459,3459,,AI confirmed by 1 OCR
+528b,level_ft,4,4,,AI confirmed by 1 OCR
+528b,level_in,0,0,,AI confirmed by 1 OCR
+529,type,A,A,,AI confirmed by 1 OCR
+529,area,HR,HR,,AI confirmed by 1 OCR
+529,serial,5515,515,,unconfirmed: OCR differs
+529,level_ft,4,4,,AI confirmed by 1 OCR
+529,level_in,0,,,AI only (no OCR reading)
+530,type,A,A,,AI confirmed by 1 OCR
+530,area,HR,HR,,AI confirmed by 1 OCR
+530,serial,4985,4985,,AI confirmed by 1 OCR
+530,level_ft,3,,,AI only (no OCR reading)
+530,level_in,0,,,AI only (no OCR reading)
+531,type,A,A,,AI confirmed by 1 OCR
+531,area,DK,DK,,AI confirmed by 1 OCR
+531,serial,2666,2666,,AI confirmed by 1 OCR
+531,level_ft,4,,,AI only (no OCR reading)
+531,level_in,0,,,AI only (no OCR reading)
+532,type,A,A,,AI confirmed by 1 OCR
+532,area,VS,VS,,AI confirmed by 1 OCR
+532,serial,875,845,,unconfirmed: OCR differs
+532,level_ft,12,2,,unconfirmed: OCR differs
+532,level_in,0,,,AI only (no OCR reading)
+533,type,A,A,,AI confirmed by 1 OCR
+533,area,VS,VS,,AI confirmed by 1 OCR
+533,serial,958,8,,unconfirmed: OCR differs
+533,level_ft,10,10,,AI confirmed by 1 OCR
+533,level_in,0,5,,unconfirmed: OCR differs
+534,type,B,B,,AI confirmed by 1 OCR
+534,area,DK,DR,,unconfirmed: OCR differs
+534,serial,1543,1543,,AI confirmed by 1 OCR
+534,level_ft,8,6,,unconfirmed: OCR differs
+534,level_in,0,6,,unconfirmed: OCR differs
+535,type,B,B,,AI confirmed by 1 OCR
+535,area,VS,VS,,AI confirmed by 1 OCR
+535,serial,665,665,,AI confirmed by 1 OCR
+535,level_ft,2,2,,AI confirmed by 1 OCR
+535,level_in,6,6,,AI confirmed by 1 OCR
+536,type,B,B,,AI confirmed by 1 OCR
+536,area,HR,HR,,AI confirmed by 1 OCR
+536,serial,5787,6787,,unconfirmed: OCR differs
+536,level_ft,6,6,,AI confirmed by 1 OCR
+536,level_in,0,,,AI only (no OCR reading)
+537,type,B,B,,AI confirmed by 1 OCR
+537,area,VS,VS,,AI confirmed by 1 OCR
+537,serial,955,935,,unconfirmed: OCR differs
+537,level_ft,3,,,AI only (no OCR reading)
+537,level_in,0,,,AI only (no OCR reading)
+538,type,B,B,,AI confirmed by 1 OCR
+538,area,C,C,,AI confirmed by 1 OCR
+538,serial,2572,2072,,unconfirmed: OCR differs
+538,level_ft,4,4,,AI confirmed by 1 OCR
+538,level_in,0,,,AI only (no OCR reading)
+539,type,B,B,,AI confirmed by 1 OCR
+539,area,DK,DK,,AI confirmed by 1 OCR
+539,serial,121,2,,unconfirmed: OCR differs
+539,level_ft,2,2,,AI confirmed by 1 OCR
+539,level_in,0,,,AI only (no OCR reading)
+540,type,B,B,,AI confirmed by 1 OCR
+540,area,D,,,AI only (no OCR reading)
+540,serial,258,,,AI only (no OCR reading)
+540,level_ft,5,,,AI only (no OCR reading)
+540,level_in,0,,,AI only (no OCR reading)
+541,type,B,B,,AI confirmed by 1 OCR
+541,area,HR,HR,,AI confirmed by 1 OCR
+541,serial,49,49,,AI confirmed by 1 OCR
+541,level_ft,2,,,AI only (no OCR reading)
+541,level_in,0,,,AI only (no OCR reading)
+542,type,B,B,,AI confirmed by 1 OCR
+542,area,L,L,,AI confirmed by 1 OCR
+542,serial,785,5,,unconfirmed: OCR differs
+542,level_ft,6,6,,AI confirmed by 1 OCR
+542,level_in,0,,,AI only (no OCR reading)
+543,type,B,B,,AI confirmed by 1 OCR
+543,area,HR,HR,,AI confirmed by 1 OCR
+543,serial,4435,4425,,unconfirmed: OCR differs
+543,level_ft,1,1,,AI confirmed by 1 OCR
+543,level_in,0,,,AI only (no OCR reading)
+544,type,B,B,,AI confirmed by 1 OCR
+544,area,DK,DK,,AI confirmed by 1 OCR
+544,serial,3518,3218,,unconfirmed: OCR differs
+544,level_ft,4,4,,AI confirmed by 1 OCR
+544,level_in,0,,,AI only (no OCR reading)
+545,type,B,I,,unconfirmed: OCR differs
+545,area,HR,HR,,AI confirmed by 1 OCR
+545,serial,2022,222,,unconfirmed: OCR differs
+545,level_in,0,,,AI only (no OCR reading)
+546,type,B,,,AI only (no OCR reading)
+546,area,F,F,,AI confirmed by 1 OCR
+546,serial,47,47,,AI confirmed by 1 OCR
+546,level_ft,1,1,,AI confirmed by 1 OCR
+546,level_in,6,6,,AI confirmed by 1 OCR
+547,type,B,B,,AI confirmed by 1 OCR
+547,area,HR,,,AI only (no OCR reading)
+547,serial,5876,,,AI only (no OCR reading)
+547,level_in,0,,,AI only (no OCR reading)
+548,type,B,,,AI only (no OCR reading)
+548,area,HR,HR,,AI confirmed by 1 OCR
+548,serial,1110,1,,unconfirmed: OCR differs
+548,level_ft,8,,,AI only (no OCR reading)
+548,level_in,6,,,AI only (no OCR reading)
+549,type,B,B,,AI confirmed by 1 OCR
+549,area,MUS,MUS,,AI confirmed by 1 OCR
+549,serial,1,1,,AI confirmed by 1 OCR
+549,level_in,0,,,AI only (no OCR reading)
+550,type,B,B,,AI confirmed by 1 OCR
+550,area,HR,HR,,AI confirmed by 1 OCR
+550,serial,140,149,,unconfirmed: OCR differs
+550,level_ft,2,,,AI only (no OCR reading)
+550,level_in,0,,,AI only (no OCR reading)
+551,type,B,B,,AI confirmed by 1 OCR
+551,area,HR,HE,,unconfirmed: OCR differs
+551,serial,4399,4744,,unconfirmed: OCR differs
+551,level_ft,3,2,,unconfirmed: OCR differs
+551,level_in,0,,,AI only (no OCR reading)
+552,type,B,B,,AI confirmed by 1 OCR
+552,area,B,B,,AI confirmed by 1 OCR
+552,serial,428,425,,unconfirmed: OCR differs
+552,level_ft,8,,,AI only (no OCR reading)
+552,level_in,0,,,AI only (no OCR reading)
+553,type,B,B,,AI confirmed by 1 OCR
+553,area,SD,SD,,AI confirmed by 1 OCR
+553,serial,92,92,,AI confirmed by 1 OCR
+553,level_ft,4,4,,AI confirmed by 1 OCR
+553,level_in,3,7,,unconfirmed: OCR differs
+554,type,B,,,AI only (no OCR reading)
+554,area,DK,,,AI only (no OCR reading)
+554,serial,2651,,,AI only (no OCR reading)
+554,level_ft,2,2,,AI confirmed by 1 OCR
+554,level_in,0,,,AI only (no OCR reading)
+555,type,B,B,,AI confirmed by 1 OCR
+555,area,DM,SM,,unconfirmed: OCR differs
+555,serial,135,13,,unconfirmed: OCR differs
+555,level_ft,17,17,,AI confirmed by 1 OCR
+555,level_in,6,,,AI only (no OCR reading)
+556,type,B,B,,AI confirmed by 1 OCR
+556,area,C,,,AI only (no OCR reading)
+556,serial,2277,,,AI only (no OCR reading)
+556,level_ft,5,,,AI only (no OCR reading)
+556,level_in,6,,,AI only (no OCR reading)
+557,type,F,,,AI only (no OCR reading)
+557,area,VS,V,,unconfirmed: OCR differs
+557,serial,623,433,,unconfirmed: OCR differs
+557,level_ft,6,,,AI only (no OCR reading)
+557,level_in,0,,,AI only (no OCR reading)
+557b,type,F,,,AI only (no OCR reading)
+557b,area,B,R,,unconfirmed: OCR differs
+557b,serial,426,124,,unconfirmed: OCR differs
+557b,level_ft,8,surface,,unconfirmed: OCR differs
+557b,level_in,5,,,AI only (no OCR reading)

@@ -6,11 +6,13 @@ work, reusable), some are DERIVED from third-party corpora (subject to their lic
 and some are COMPUTED from either.
 
 ---
-## transcriptions/ - hand transcription, our own work (CC BY 4.0)
+## transcriptions/ - AI-assisted transcription, our own work (CC BY 4.0)
 
 ### transcriptions/mackay1938_seal_table/p*.csv -> outputs/mackay_seal_table.csv
 Mackay (1938) vol. I, "Tabulation of Seals", printed pp. 369-391. 709 rows, Nos. 1-704
-plus 8 addenda. Read from page images; OCR was unusable on this table.
+plus 8 addenda. Transcribed from page images using an AI model; independent Tesseract OCR
+cross-check (596 of 709 rows matched) gave 95.7% agreement on type; depth and field
+number could not be independently verified this way.
 
 | column | meaning |
 |---|---|
@@ -33,7 +35,8 @@ narrative depths for Nos. 695-703, and the published data for the "Pashupati" se
 
 ### transcriptions/marshall1931_seal_table/p*.csv -> outputs/marshall_seal_table_transcribed.csv
 Marshall (1931) vol. II, "Tabulation of Seals", printed pp. 402-405. 560 rows, Nos. 1-557
-plus 526b, 528b, 557b.
+plus 526b, 528b, 557b. Transcribed from page images using an AI model; independent
+Tesseract OCR cross-check gave 97.5% agreement on type, 96.4% on area, 76.7% on serial.
 
 | column | meaning |
 |---|---|
@@ -81,6 +84,6 @@ each linked to the finding it supports or corrects.
 | `conditioning_profile.csv`, `conditioning_decay.csv`, `length_control.csv`, `affix_profile.csv` | the cross-corpus structural comparisons, with nulls |
 | `concordance_parpola_G.csv`, `concordance_m77_G_inferred.csv` | sign concordances between the corpora used |
 | `typology_metrics.csv`, `seal_legend_comparison.csv` | writing-system typology and the Mesopotamian seal-legend comparison |
-| `marshall_seal_table.csv` | SUPERSEDED OCR version of the Marshall table; kept only for comparison with the hand transcription |
+| `marshall_seal_table.csv` | SUPERSEDED OCR version of the Marshall table; kept only for comparison with the AI-assisted transcription |
 | `findspots_mackay.csv` | seal mentions parsed from Mackay's narrative text (7 with explicit levels) |
 | `*_atlas.png` | rendered sign atlases by family and by behaviour class |

@@ -1,14 +1,14 @@
 cff-version: 1.2.0
 message: "If you use these data or this code, please cite as below."
 title: "Indus script: machine-readable seal catalogues from Mackay (1938) and Marshall (1931), with photo-coded text features and a reproducible analysis pipeline"
-abstract: "Two hand-transcribed, machine-readable catalogues of Mohenjo-daro seals with find-spots and levels; text features coded from all thirteen of Mackay's seal plates; a held-out validated constraint set on Indus sign sequences; and a reproducible pipeline of genre- and size-matched structural comparisons against Sumerian, Egyptian, Aegean and proto-cuneiform corpora. Results are mainly negative and documented as such. No decipherment is offered."
+abstract: "Two machine-readable catalogues of Mohenjo-daro seals with find-spots and levels, transcribed from page images by an AI model (Mackay (1938): independent Tesseract OCR cross-check, on 596 of 709 rows, agreement 95.7% on type; depth and field number not independently verified; Marshall (1931): independent Tesseract OCR cross-check, agreement 97.5% on type, 96.4% on area, 76.7% on serial); text features coded from all thirteen of Mackay's seal plates; a held-out validated constraint set on Indus sign sequences; and a reproducible pipeline of genre- and size-matched structural comparisons against Sumerian, Egyptian, Aegean and proto-cuneiform corpora. Results are mainly negative and documented as such. No decipherment is offered."
 authors:
   - family-names: Koshy
     given-names: Nitin Stephen
     orcid: "https://orcid.org/0009-0009-2690-0588"
-version: 0.2.5
+version: 0.2.6
 doi: "10.5281/zenodo.22852769"
-date-released: 2026-09-20
+date-released: 2026-10-10
 license:
   - MIT
   - CC-BY-4.0

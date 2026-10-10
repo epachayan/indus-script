@@ -49,16 +49,17 @@ from a comparison corpus might follow from length alone, the comparison corpus i
 truncated to the Indus length distribution and re-measured. This shrank one earlier claim.
 
 ## Manual steps, and why they were necessary
-Two datasets were transcribed by hand because OCR failed on them:
+Three datasets were produced from page images rather than by plain OCR:
 - **Mackay (1938) seal table** - `transcriptions/mackay1938_seal_table/`. OCR mangled the
-  numeric columns; the table was read from page images. Validation: Mackay's own type
+  numeric columns; the table was transcribed from page images by an AI model
+  and cross-checked against an independent Tesseract reading (`scripts/xcheck/`). Validation: Mackay's own type
   totals, his narrative depths, and published data for the Pashupati seal (No. 420).
 - **Mackay plate coding** - `transcriptions/mackay1938_plates/`. Features were read from
   the seal photographs (sign count, jar ending, numerals). The printed seal numbers are
   hand-lettered and defeat OCR, so they were read by eye from generated label grids.
   Reliability was measured by blind re-coding 36 seals (FINDINGS 25).
 - **Marshall (1931) seal table** - `transcriptions/marshall1931_seal_table/`. Transcribed
-  from page images after an OCR pass proved unreliable (that pass is kept as
+  from page images by an AI model after an OCR pass proved unreliable (that pass is kept as
   `parse_marshall_table.py` for comparison only).
 These steps need the source PDFs, which are not redistributed here; `README.md` gives the
 Internet Archive identifiers and the page ranges.

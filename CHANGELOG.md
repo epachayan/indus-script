@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.2.6 - 2026-10-10
+- **CORRECTED PROVENANCE**: the Mackay (1938) and Marshall (1931) seal tables were
+  transcribed from page images by an AI model, not by hand as previously stated. Corrected
+  in `README.md`, `CITATION.cff`, `.zenodo.json`, `docs/RESEARCH_NOTE.md`,
+  `docs/ABSTRACT.md`, `docs/APPROACH.md`, `docs/REPRODUCING.md`, `docs/DATASETS.md`,
+  `docs/FINDINGS.md`, `docs/ROADMAP.md`, both transcription `NOTES.md` files and the
+  `build_*_table.py` headers. The transcribed values themselves are unchanged.
+- Added `scripts/xcheck/`: an independent Tesseract cell-level reader for each table, with
+  per-field agreement against the AI transcription. Marshall: type 97.5%, area 96.4%,
+  serial 76.7%. Mackay (596 of 709 rows matched): type 95.7%, level 39.1%, field number
+  50.0%, so depth and field number are not independently verified by this check.
+  Agreement measures consistency between readers, not accuracy.
+
 ## 0.2.5 - 2026-09-20
 An external review of the published record found one claim that had to be retracted and
 one that had to be qualified. Landed here as a corrected Zenodo version rather than a

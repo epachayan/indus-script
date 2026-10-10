@@ -1,0 +1,292 @@
+reader,plate_no,page,column,row,field,ai_value,reader_value,reader_raw
+out_tess_marshall,1,402,L,1,level_ft,3,2,7 0
+out_tess_marshall,2,402,L,2,serial,1187,4187,E4187
+out_tess_marshall,3,402,L,3,area,VS,VSR,VS R22
+out_tess_marshall,3,402,L,3,serial,823,22,VS R22
+out_tess_marshall,4,402,L,4,level_ft,3,2,2
+out_tess_marshall,7,402,L,7,serial,4110,411,HR411
+out_tess_marshall,7,402,L,7,level_ft,3,47,2 0
+out_tess_marshall,7,402,L,7,level_in,0,9,2 0
+out_tess_marshall,10,402,L,10,level_ft,3,2,r
+out_tess_marshall,14,402,L,14,level_ft,3,2,2
+out_tess_marshall,21,402,L,21,level_ft,3,2,6
+out_tess_marshall,25,402,L,25,level_in,0,5,2 0
+out_tess_marshall,27,402,L,27,level_in,0,5,0
+out_tess_marshall,28,402,L,28,level_ft,3,7,26
+out_tess_marshall,31,402,L,31,level_ft,5,2,2?0
+out_tess_marshall,32,402,L,32,level_ft,5,2,2?
+out_tess_marshall,36,402,L,36,serial,46,40,F 40
+out_tess_marshall,38,402,L,38,serial,2040,2049,VS2049
+out_tess_marshall,40,402,L,40,level_ft,3,7,2 6
+out_tess_marshall,41,402,L,41,serial,2652,2632,VS2632
+out_tess_marshall,43,402,L,43,area,C,CS,C S41
+out_tess_marshall,43,402,L,43,serial,841,41,C S41
+out_tess_marshall,45,402,L,45,level_in,6,67,26
+out_tess_marshall,46,402,L,46,level_ft,3,2,2 6
+out_tess_marshall,48,402,L,48,level_ft,3,2,29
+out_tess_marshall,52,402,L,52,level_ft,3,2,2
+out_tess_marshall,53,402,L,53,level_ft,3,7,0
+out_tess_marshall,60,402,L,60,level_ft,3,37,3.
+out_tess_marshall,64,402,L,64,serial,2468,2460,HR2460
+out_tess_marshall,69,402,L,69,serial,640,649,HR649
+out_tess_marshall,69,402,L,69,level_ft,3,27,27
+out_tess_marshall,69,402,L,69,level_in,0,9,27
+out_tess_marshall,71,402,R,1,area,BJ,B,B 4
+out_tess_marshall,72,402,R,2,area,DK,DKR,DKR33
+out_tess_marshall,73,402,R,3,serial,3191,319,C319
+out_tess_marshall,73,402,R,3,level_ft,3,2,20
+out_tess_marshall,74,402,R,4,serial,1541,154,DK154
+out_tess_marshall,75,402,R,5,area,DK,DR,DR2139
+out_tess_marshall,75,402,R,5,serial,2130,2139,DR2139
+out_tess_marshall,76,402,R,6,serial,3055,3985,C3985
+out_tess_marshall,79,402,R,9,serial,1585,1385,E1385
+out_tess_marshall,81,402,R,11,level_ft,3,37,3
+out_tess_marshall,82,402,R,12,level_in,3,2,3? 2
+out_tess_marshall,83,402,R,13,area,DK,DR,DR 12
+out_tess_marshall,88,402,R,18,level_in,3,2,r2
+out_tess_marshall,89,402,R,19,serial,3332,3322,VS3322
+out_tess_marshall,90,402,R,20,level_ft,2,3,2 1
+out_tess_marshall,92,402,R,22,serial,4411,4,HR4
+out_tess_marshall,92,402,R,22,level_ft,3,2,2
+out_tess_marshall,94,402,R,24,serial,426,26,B 26
+out_tess_marshall,95,402,R,25,serial,92,2,DK2
+out_tess_marshall,95,402,R,25,level_in,3,7,1
+out_tess_marshall,96,402,R,26,serial,4625a,4625,HR 4625
+out_tess_marshall,105,402,R,35,level_in,0,4,6
+out_tess_marshall,109,402,R,39,level_in,3,2,12
+out_tess_marshall,111,402,R,41,serial,1850,1860,SD1860
+out_tess_marshall,113,402,R,43,serial,962,62,DK62
+out_tess_marshall,113,402,R,43,level_ft,3,2,20
+out_tess_marshall,115,402,R,45,level_ft,3,37,37
+out_tess_marshall,118,402,R,48,level_in,0,5,89
+out_tess_marshall,123,402,R,53,serial,3732a,37324,HR37324
+out_tess_marshall,125,402,R,55,serial,2484a,2844,E2844
+out_tess_marshall,126,402,R,56,level_ft,7,5,7 r
+out_tess_marshall,127,402,R,57,level_ft,2,4,4
+out_tess_marshall,136,402,R,66,level_ft,3,2,26
+out_tess_marshall,137,402,R,67,serial,3154,3164,VS3164
+out_tess_marshall,141,403,L,1,serial,1950,1959,HR1959
+out_tess_marshall,142,403,L,2,area,DK,DR,DR3054
+out_tess_marshall,143,403,L,3,serial,4057,4067,HR4067
+out_tess_marshall,144,403,L,4,serial,5076,5976,HR5976
+out_tess_marshall,150,403,L,10,serial,3155,3185,C3185
+out_tess_marshall,151,403,L,11,serial,5905,3995,HR3995
+out_tess_marshall,154,403,L,14,serial,90,0,VS0
+out_tess_marshall,154,403,L,14,level_ft,3,2,2 1
+out_tess_marshall,155,403,L,15,level_in,0,5,5
+out_tess_marshall,157,403,L,17,serial,1666,1066,VS1066
+out_tess_marshall,157,403,L,17,level_ft,3,27,2 6
+out_tess_marshall,158,403,L,18,level_ft,4,1,DM50
+out_tess_marshall,160,403,L,20,level_in,0,5,9 9
+out_tess_marshall,162,403,L,22,level_ft,3,2,0
+out_tess_marshall,165,403,L,25,serial,206,200,C 200
+out_tess_marshall,165,403,L,25,level_ft,5,2,267
+out_tess_marshall,167,403,L,27,level_in,0,3,47
+out_tess_marshall,168,403,L,28,level_in,0,3,60
+out_tess_marshall,169,403,L,29,serial,810,310,C 310
+out_tess_marshall,171,403,L,31,serial,5703,6703,HR6703
+out_tess_marshall,175,403,L,35,serial,1558,15658,VS15658
+out_tess_marshall,175,403,L,35,level_ft,3,2,9
+out_tess_marshall,177,403,L,37,serial,2541,2641,VS2641
+out_tess_marshall,178,403,L,38,serial,1521,121,E121
+out_tess_marshall,180,403,L,40,level_ft,6,67,67 0
+out_tess_marshall,181,403,L,41,level_ft,10,1,100
+out_tess_marshall,185,403,L,45,level_ft,2,3,26
+out_tess_marshall,189,403,L,49,level_in,3,2,2
+out_tess_marshall,190,403,L,50,serial,3024,4024,C4024
+out_tess_marshall,190,403,L,50,level_ft,3,7,2
+out_tess_marshall,191,403,L,51,level_ft,2,3,6
+out_tess_marshall,192,403,L,52,level_in,5,7,2?
+out_tess_marshall,193,403,L,53,level_ft,5,7,0
+out_tess_marshall,193,403,L,53,level_in,0,5,0
+out_tess_marshall,194,403,L,54,serial,2114,24,C24
+out_tess_marshall,197,403,L,57,serial,3202,43202,C43202
+out_tess_marshall,198,403,L,58,serial,1912,12,E12
+out_tess_marshall,200,403,L,60,serial,1451,1461,HR1461
+out_tess_marshall,201,403,L,61,level_ft,2,7,29
+out_tess_marshall,203,403,L,63,level_in,0,5,40
+out_tess_marshall,207,403,L,67,level_ft,3,2,2 0
+out_tess_marshall,212,403,R,2,serial,2692,2092,C2092
+out_tess_marshall,214,403,R,4,serial,5057,357,HR357
+out_tess_marshall,214,403,R,4,level_in,0,4,6
+out_tess_marshall,215,403,R,5,serial,1154,44,E44
+out_tess_marshall,225,403,R,15,serial,2202,2262,VS2262
+out_tess_marshall,226,403,R,16,serial,4872,3872,HR3872
+out_tess_marshall,237,403,R,27,serial,5516,516,HR516
+out_tess_marshall,243,403,R,33,serial,505,506,VS 506
+out_tess_marshall,244,403,R,34,level_in,0,4,4
+out_tess_marshall,247,403,R,37,level_ft,3,2,2?
+out_tess_marshall,252,403,R,42,level_ft,3,2,20
+out_tess_marshall,252,403,R,42,level_in,0,5,20
+out_tess_marshall,255,403,R,45,serial,3010,3019,HR3019
+out_tess_marshall,256,403,R,46,serial,4112,12,HR12
+out_tess_marshall,257,403,R,47,level_ft,7,5,3
+out_tess_marshall,258,403,R,48,serial,5251,261,HR261
+out_tess_marshall,260,403,R,50,level_in,3,5,13
+out_tess_marshall,263,403,R,53,serial,2912,292,HR292
+out_tess_marshall,264,403,R,54,serial,661,461,L 461
+out_tess_marshall,267,403,R,57,serial,2294,2794,E2794
+out_tess_marshall,268,403,R,58,level_ft,3,2,26
+out_tess_marshall,271,403,R,61,level_in,0,6,B434
+out_tess_marshall,273,403,R,63,serial,2294,2293,DK2293
+out_tess_marshall,277,403,R,67,serial,250,2590,E 2590
+out_tess_marshall,278,403,R,68,serial,2518,20187,VS20187
+out_tess_marshall,279,403,R,69,serial,1510,3,DK3
+out_tess_marshall,279,403,R,69,level_ft,2,3,20
+out_tess_marshall,279,403,R,69,level_in,0,57,20
+out_tess_marshall,280,403,R,70,serial,5589,589,HR589
+out_tess_marshall,281,404,L,1,level_ft,3,37,338
+out_tess_marshall,282,404,L,2,serial,2766,2760,C2760
+out_tess_marshall,282,404,L,2,level_ft,5,2,2? 2
+out_tess_marshall,283,404,L,3,level_ft,2,7,3
+out_tess_marshall,286,404,L,6,serial,3732b,3772,HR3772
+out_tess_marshall,287,404,L,7,level_ft,3,4,2 6
+out_tess_marshall,289,404,L,9,serial,90,9,D 9
+out_tess_marshall,291,404,L,11,level_in,6,67,2 6
+out_tess_marshall,299,404,L,19,serial,5788,6788,HR6788
+out_tess_marshall,300,404,L,20,serial,323,333,E333
+out_tess_marshall,301,404,L,21,level_in,3,2,2
+out_tess_marshall,302,404,L,22,level_ft,2,3,23
+out_tess_marshall,302,404,L,22,level_in,2,3,23
+out_tess_marshall,305,404,L,25,serial,5225,226,HR226
+out_tess_marshall,307,404,L,27,level_in,0,4,4
+out_tess_marshall,309,404,L,29,level_ft,4,47,HR4393
+out_tess_marshall,314,404,L,34,level_ft,3,2,20
+out_tess_marshall,317,404,L,37,level_ft,3,2,2 0
+out_tess_marshall,318,404,L,38,level_in,6,67,36
+out_tess_marshall,320,404,L,40,level_ft,5,2,20
+out_tess_marshall,324,404,L,44,level_in,0,5,63
+out_tess_marshall,326,404,L,46,serial,209,259,DK259
+out_tess_marshall,326,404,L,46,level_in,6,67,16
+out_tess_marshall,329,404,L,49,level_ft,3,2,2
+out_tess_marshall,330,404,L,50,level_in,5,3,4 5
+out_tess_marshall,334,404,L,54,level_in,6,67,6
+out_tess_marshall,340,404,L,60,serial,3080,3089,HR 3089
+out_tess_marshall,342,404,L,62,serial,5992,52,HR52
+out_tess_marshall,344,404,L,64,serial,2853,2353,C2353
+out_tess_marshall,346,404,L,66,serial,5971,71,HR71
+out_tess_marshall,346,404,L,66,level_ft,8,7,4 0
+out_tess_marshall,348,404,L,68,serial,1438,31433,VS31433
+out_tess_marshall,350,404,L,70,area,DK,DR,DR426
+out_tess_marshall,350,404,L,70,level_in,6,5,2
+out_tess_marshall,353,404,R,3,level_ft,3,2,10
+out_tess_marshall,354,404,R,4,serial,860,86,L 86
+out_tess_marshall,355,404,R,5,serial,2869,286,DK286
+out_tess_marshall,357,404,R,7,level_ft,5,2,6
+out_tess_marshall,358,404,R,8,level_ft,0,5,067
+out_tess_marshall,362,404,R,12,serial,1651,161,E161
+out_tess_marshall,363,404,R,13,area,D,JD,JD 194
+out_tess_marshall,363,404,R,13,serial,104,194,JD 194
+out_tess_marshall,363,404,R,13,level_ft,3,2,20
+out_tess_marshall,364,404,R,14,level_ft,8,27,8??
+out_tess_marshall,367,404,R,17,level_ft,3,2,6
+out_tess_marshall,370,404,R,20,serial,5611,611,HR611
+out_tess_marshall,370,404,R,20,level_ft,3,2,2 0
+out_tess_marshall,375,404,R,25,level_ft,3,2,2
+out_tess_marshall,375,404,R,25,level_in,0,5,2
+out_tess_marshall,378,404,R,28,level_ft,3,2,2 0
+out_tess_marshall,383,404,R,33,level_ft,3,2,2 6
+out_tess_marshall,388,404,R,38,level_ft,8,7,86
+out_tess_marshall,389,404,R,39,level_in,0,17,17
+out_tess_marshall,390,404,R,40,level_ft,9,0,1
+out_tess_marshall,390,404,R,40,level_in,1,17,1
+out_tess_marshall,393,404,R,43,serial,3130,4130,HR4130
+out_tess_marshall,393,404,R,43,level_ft,3,2,10
+out_tess_marshall,393,404,R,43,level_in,0,7,10
+out_tess_marshall,394,404,R,44,level_in,6,64,6 67
+out_tess_marshall,399,404,R,49,level_in,0,7,27
+out_tess_marshall,400,404,R,50,level_ft,3,7,HR3005
+out_tess_marshall,401,404,R,51,level_in,0,7,8 0
+out_tess_marshall,405,404,R,55,level_in,6,67,2? 67
+out_tess_marshall,407,404,R,57,level_ft,3,37,77
+out_tess_marshall,408,404,R,58,serial,2505,2805,E2805
+out_tess_marshall,408,404,R,58,level_in,0,3,2 0
+out_tess_marshall,409,404,R,59,level_in,0,6,26
+out_tess_marshall,410,404,R,60,serial,1681,168,VS168
+out_tess_marshall,410,404,R,60,level_ft,3,7,76
+out_tess_marshall,414,404,R,64,type,F,E,E
+out_tess_marshall,414,404,R,64,area,SD,D,D818
+out_tess_marshall,415,404,R,65,serial,114,1,D 1
+out_tess_marshall,417,404,R,67,area,HR,AR,AR5167
+out_tess_marshall,419,404,R,69,area,HR,AR,AR5796
+out_tess_marshall,421,405,L,1,type,F,I,I
+out_tess_marshall,421,405,L,1,level_ft,3,7,rr
+out_tess_marshall,430,405,L,10,serial,1121,121,HR121
+out_tess_marshall,434,405,L,14,type,F,E,EF
+out_tess_marshall,435,405,L,15,level_in,3,2,2
+out_tess_marshall,437,405,L,17,serial,554,54,C54
+out_tess_marshall,440,405,L,20,level_in,3,2,9
+out_tess_marshall,444,405,L,24,level_in,3,2,VS3454
+out_tess_marshall,446,405,L,26,serial,350,2060,HR 2060
+out_tess_marshall,452,405,L,32,level_ft,3,4,4 0
+out_tess_marshall,454,405,L,34,serial,291,25,L 25
+out_tess_marshall,459,405,L,39,level_ft,3,4,2
+out_tess_marshall,464,405,L,44,level_ft,2,37,3 ?
+out_tess_marshall,467,405,L,47,serial,1878,188,C 188
+out_tess_marshall,471,405,L,51,serial,2240,22309,HR22309
+out_tess_marshall,475,405,L,55,serial,904,4,E 4
+out_tess_marshall,476,405,L,56,serial,904,4,E 4
+out_tess_marshall,477,405,L,57,serial,2631,2531,C2531
+out_tess_marshall,478,405,L,58,serial,3227,3027,VS3027
+out_tess_marshall,478,405,L,58,level_ft,5,2,0
+out_tess_marshall,482,405,L,62,serial,1400,1399,HR1399
+out_tess_marshall,485,405,L,65,serial,40,42,C 42
+out_tess_marshall,486,405,L,66,serial,1287,17,C 17
+out_tess_marshall,490,405,L,70,level_ft,5,2,2
+out_tess_marshall,491,405,R,1,level_in,3,4,2
+out_tess_marshall,492,405,R,2,area,DK,DKS,DKS95
+out_tess_marshall,492,405,R,2,serial,595,95,DKS95
+out_tess_marshall,494,405,R,4,serial,931,31,DK31
+out_tess_marshall,495,405,R,5,serial,844,44,DK44
+out_tess_marshall,497,405,R,7,type,B (?),B,B
+out_tess_marshall,497,405,R,7,level_ft,4,3,450
+out_tess_marshall,498,405,R,8,level_ft,7,4,6
+out_tess_marshall,501,405,R,11,type,E,F,FE
+out_tess_marshall,503,405,R,13,type,E,F,F
+out_tess_marshall,504,405,R,14,type,E,F,F
+out_tess_marshall,504,405,R,14,serial,5503,5393,HR5393
+out_tess_marshall,505,405,R,15,type,E,F,F
+out_tess_marshall,505,405,R,15,serial,7,5,DM5
+out_tess_marshall,506,405,R,16,type,E,F,F
+out_tess_marshall,506,405,R,16,serial,6147,4147,HR4147
+out_tess_marshall,506,405,R,16,level_ft,8,3,3 r
+out_tess_marshall,510,405,R,20,type,E,F,F
+out_tess_marshall,510,405,R,20,serial,5628,628,HR628
+out_tess_marshall,513,405,R,23,serial,1960,10,VS 10
+out_tess_marshall,514,405,R,24,type,E,F,F
+out_tess_marshall,515,405,R,25,type,E,I,I
+out_tess_marshall,515,405,R,25,area,E,F,F1489
+out_tess_marshall,515,405,R,25,serial,1989,1489,F1489
+out_tess_marshall,517,405,R,27,level_ft,3,7,3
+out_tess_marshall,527,405,R,38,serial,1908,1998,E1998
+out_tess_marshall,529,405,R,41,serial,5515,515,HR515
+out_tess_marshall,532,405,R,44,serial,875,845,VS845
+out_tess_marshall,532,405,R,44,level_ft,12,2,120
+out_tess_marshall,533,405,R,45,serial,958,8,VS8
+out_tess_marshall,533,405,R,45,level_in,0,5,10
+out_tess_marshall,534,405,R,46,area,DK,DR,DR1543
+out_tess_marshall,534,405,R,46,level_ft,8,6,DR1543
+out_tess_marshall,534,405,R,46,level_in,0,6,DR1543
+out_tess_marshall,536,405,R,48,serial,5787,6787,HR6787
+out_tess_marshall,537,405,R,49,serial,955,935,VS935
+out_tess_marshall,538,405,R,50,serial,2572,2072,C2072
+out_tess_marshall,539,405,R,51,serial,121,2,DK2
+out_tess_marshall,542,405,R,54,serial,785,5,L5
+out_tess_marshall,543,405,R,55,serial,4435,4425,HR4425
+out_tess_marshall,544,405,R,56,serial,3518,3218,DK3218
+out_tess_marshall,545,405,R,57,type,B,I,I
+out_tess_marshall,545,405,R,57,serial,2022,222,HR222
+out_tess_marshall,548,405,R,60,serial,1110,1,HR1
+out_tess_marshall,550,405,R,62,serial,140,149,HR149
+out_tess_marshall,551,405,R,63,area,HR,HE,HE4744
+out_tess_marshall,551,405,R,63,serial,4399,4744,HE4744
+out_tess_marshall,551,405,R,63,level_ft,3,2,2
+out_tess_marshall,552,405,R,64,serial,428,425,B 425
+out_tess_marshall,553,405,R,65,level_in,3,7,43
+out_tess_marshall,555,405,R,67,area,DM,SM,SM13
+out_tess_marshall,555,405,R,67,serial,135,13,SM13
+out_tess_marshall,557,405,R,69,area,VS,V,V433
+out_tess_marshall,557,405,R,69,serial,623,433,V433
+out_tess_marshall,557b,405,R,70,area,B,R,R 124
+out_tess_marshall,557b,405,R,70,serial,426,124,R 124
+out_tess_marshall,557b,405,R,70,level_ft,8,surface,S.

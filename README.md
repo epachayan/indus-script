@@ -15,8 +15,8 @@ evidence.** The analytical results are largely negative and are documented as su
 
 | | |
 |---|---|
-| **Mackay (1938) seal table** | 709 rows: type, size, material, block/house/room, level, field number. Hand-transcribed; validated against Mackay's own totals |
-| **Marshall (1931) seal table** | 560 rows: type, size, material, excavation area, depth |
+| **Mackay (1938) seal table** | 709 rows: type, size, material, block/house/room, level, field number. AI-transcribed; validated against Mackay's own totals; independent Tesseract OCR cross-check, on 596 of 709 rows, agreement 95.7% on type; depth and field number not independently verified |
+| **Marshall (1931) seal table** | 560 rows: type, size, material, excavation area, depth. AI-transcribed; independent Tesseract OCR cross-check, agreement 97.5% on type, 96.4% on area, 76.7% on serial |
 | **Plate codings** | 531 seals from all thirteen seal plates, 419 joined to find-spots; blind re-coding gives kappa 0.89 |
 | **Constraint set** | 90 distributional rules, mined on half the corpus and scored on the held-out half (1.08% violations) |
 | **Comparisons** | Sumerian seal legends and administrative text, Egyptian (Old/Middle and Later), Linear A/B, proto-cuneiform, Proto-Elamite - genre-, size- and length-matched |
@@ -102,7 +102,7 @@ Marshall's own "Tabulation of Seals" (printed pp. 402-405 = PDF pages 56-59) cov
 1922-27 seasons, i.e. seals independent of Mackay's. Save the volume as
 `data/marshall1931_vol2.pdf`; source (out of copyright):
 https://archive.org/details/in.ernet.dli.2015.107493
-`transcriptions/marshall1931_seal_table/` holds the hand transcription (COMPLETE: 560
+`transcriptions/marshall1931_seal_table/` holds the AI-assisted transcription (COMPLETE: 560
 rows, Nos. 1-557 plus three suffixed), merged by `build_marshall_table.py` into
 `outputs/marshall_seal_table_transcribed.csv`. `parse_marshall_table.py` also OCRs the
 table into `outputs/marshall_seal_table.csv`, PROVISIONAL:
@@ -126,7 +126,7 @@ datum levels.
   printed in CISI vol. 1 (Joshi & Parpola 1987); it has to be transcribed by hand.
 
 ## Mackay (1938) seal table (in repo)
-`transcriptions/mackay1938_seal_table/` holds a hand transcription of Mackay's
+`transcriptions/mackay1938_seal_table/` holds an AI-assisted transcription of Mackay's
 "Tabulation of Seals" (number, type, size, material, block/house/room or street, level,
 field number) - complete, 709 rows. `build_mackay_table.py` merges and checks it into
 `outputs/mackay_seal_table.csv` and adds area, DK-datum level and an estimated phase. See the NOTES file there for conventions and progress.

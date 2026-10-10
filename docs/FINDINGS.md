@@ -248,7 +248,7 @@ cores segmented with strong sign pairs (3.4 units per core).
   main text.
 
 ## 19. Mackay's seal table: context without texts [build_mackay_table, mackay_context]
-- Complete hand transcription of Mackay (1938) "Tabulation of Seals": Nos. 1-704 plus
+- Complete AI-assisted transcription of Mackay (1938) "Tabulation of Seals": Nos. 1-704 plus
   8 addenda (709 rows, 693 distinct seals by field number). Validated against Mackay's
   own totals (type B 558 vs 559 transcribed; type F 81 vs 84), his rare-type lists
   (differences traced to the book itself), his narrative depths, and the published

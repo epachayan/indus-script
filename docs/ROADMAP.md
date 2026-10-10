@@ -28,7 +28,7 @@ Working model (FINDINGS 6, 11-13):
    a. the report's OCR text in `data/mackay1938_vol1.txt` (link in README);
    b. a CISI <-> Mackay number concordance (CISI vol. 1), transcribed into
       `data/concordance_cisi_mackay.csv` - the real bottleneck;
-   b2. ~~hand transcription of Mackay's seal table~~ (done, FINDINGS 19).
+   b2. ~~AI-assisted transcription of Mackay's seal table~~ (done, FINDINGS 19).
    b3. IN PROGRESS: link Mackay numbers to CISI texts through the plates. Plate LXXXII
       (Nos. 687-704) received at full resolution and readable; workflow in
       transcriptions/mackay1938_plates/. Remaining: plates LXXXIII onwards

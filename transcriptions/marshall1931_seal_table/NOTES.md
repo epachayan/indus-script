@@ -1,5 +1,5 @@
 # Marshall (1931) vol. II, "Mohenjo-daro: Tabulation of Seals" (pp. 402-405)
-## Hand transcription
+## AI-assisted transcription
 
 Source: Internet Archive item in.ernet.dli.2015.107493 (out of copyright), PDF pages
 56-59 = printed pages 402-405. Two columns per page; file names follow the printed page
@@ -24,8 +24,9 @@ Progress: Nos. 1-140 done (p402L, p402R). Remaining: pp. 403-405, about 310 rows
 Independent check available: the table is ordered by seal type, so the type column should
 stay constant in long runs and change at block boundaries.
 
-Progress: COMPLETE. 560 rows (Nos. 1-557 plus 526b, 528b, 557b), transcribed from the
-page images; no missing or duplicated plate numbers.
+Progress: COMPLETE. 560 rows (Nos. 1-557 plus 526b, 528b, 557b), transcribed from page
+images using an AI model; no missing or duplicated plate numbers. Independent Tesseract
+OCR cross-check: 97.5% agreement on type, 96.4% on area, 76.7% on serial.
 Points to note while reading the file
 - No. 481 and No. 489 have no site/serial printed; No. 496 has an area but no serial.
 - No. 272 has "B.P." in the level column (Marshall's bathing-pavement reference, not a

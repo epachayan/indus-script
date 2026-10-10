@@ -1,6 +1,6 @@
 # Indus script: machine-readable seal catalogues from Mackay (1938) and Marshall (1931), with photo-coded text features and a reproducible analysis pipeline
 
-## No decipherment. Two hand-transcribed catalogues, a held-out validated constraint set, and controlled structural comparisons against six other writing systems
+## No decipherment. Two AI-transcribed catalogues, a held-out validated constraint set, and controlled structural comparisons against six other writing systems
 
 Nitin Stephen Koshy
 
@@ -92,9 +92,10 @@ shared IDs — mapped by behaviour and self-training; §see FINDINGS §14). The 
 disagree on 10-20% of sign positions, which is treated throughout as noise rather than
 resolved.
 
-**Two hand-transcribed excavation-report catalogues**, produced because OCR failed on both:
+**Two AI-transcribed excavation-report catalogues** (an AI model reading the page images;
+independent Tesseract cross-check in `scripts/xcheck/`):
 - **Mackay (1938) seal table** — 709 rows: type, size, material, block/house/room or
-  street, level relative to the DK datum, field number. Read by eye from page images of
+  street, level relative to the DK datum, field number. Transcribed by an AI model from page images of
   "Tabulation of Seals" (vol. I, pp. 369-391). Validated against Mackay's own published
   totals (type B 558 vs 559 transcribed; type F 81 vs 84), his narrative depths, and the
   published data for the "Pashupati" seal (No. 420). Three counts recur below for this
@@ -104,8 +105,8 @@ resolved.
   (rows with a plain numeric catalogue number, i.e. excluding the lettered addenda, that
   also carry a recorded depth — the denominator used for depth-vs-type analyses, §11).
 - **Marshall (1931) seal table** — 560 rows (Nos. 1-557 plus three suffixed): plate number,
-  size, level below the modern surface, type, material, excavation area and serial. Read
-  from page images of "Tabulation of Seals" (vol. II, pp. 402-405), covering the 1922-27
+  size, level below the modern surface, type, material, excavation area and serial. Transcribed
+  by an AI model from page images of "Tabulation of Seals" (vol. II, pp. 402-405), covering the 1922-27
   seasons, independent of Mackay's. Not directly poolable with the Mackay table: different
   depth datum (below the modern surface vs a fixed datum) and coarser locus resolution
   (area only, not block/house/room).
@@ -169,9 +170,10 @@ allows — with texts of the same social function (seal legends, name-and-title 
 rather than with running prose or administrative tablets. Conclusions changed materially
 when this was done properly (§10; FINDINGS §28, 37).
 
-**Manual transcription.** Both seal tables and the plate codings were produced by reading
-page images by eye because OCR was unusable on them (numeric tabulation columns; hand-
-lettered plate captions). These are one-coder efforts; reliability, not accuracy, was
+**Transcription.** Both seal tables were transcribed from page images by an AI model and
+cross-checked against an independent Tesseract reading (`scripts/xcheck/`); agreement on
+the type field is 95.7% (Mackay) and 97.5% (Marshall), lower on numeric columns. The plate
+codings were produced by reading page images by eye (hand-lettered plate captions). These are one-coder efforts; reliability, not accuracy, was
 checked by blind re-coding (§FINDINGS 25). This is stated as a limitation in §15.
 
 ## 4. Sign classification and behaviour
@@ -574,8 +576,8 @@ Every script that samples or permutes sets an explicit seed. Steps whose optiona
 (the CDLI dump, the Marshall vol. II PDF, the TLA Egyptian corpora) are absent are skipped
 with a message rather than failing; `docs/REPRODUCING.md` lists exactly what each optional
 input unlocks. Three components cannot be automated and are not re-derived by the pipeline:
-the two seal tables and the plate codings were produced by reading page images by eye
-because OCR was unusable on them; the results are committed in `transcriptions/` and used
+the two seal tables were transcribed from page images by an AI model, and the plate
+codings by reading page images by eye; the results are committed in `transcriptions/` and used
 as-is on every run. Full data provenance and licensing — what is committed, what is
 regenerated locally, and under what licence — is in `docs/DATASETS.md` and
 `docs/DATA_NOTICE.md`.

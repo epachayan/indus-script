@@ -1,10 +1,12 @@
 # Mackay (1938), Further Excavations at Mohenjo-daro, vol. I, ch. XI
-## "Tabulation of Seals (DK and SD Areas)" - hand transcription
+## "Tabulation of Seals (DK and SD Areas)" - AI-assisted transcription
 
 Source: Internet Archive scan TVA_BOK_0009130 (out of copyright). `pdf_page` is the page
 number within the chapter-XI extract (page 45 = printed p. 369); printed page = pdf_page + 324.
 
-Transcribed by reading the page images (OCR was too unreliable on these tables).
+Transcribed from page images using an AI model. Independent Tesseract OCR cross-check:
+596 of 709 rows matched; 95.7% agreement on type, 39.1% on level, 50.0% on field
+number (see scripts/xcheck/README_mackay.md).
 
 Conventions
 - `dims_in`: as printed, in inches, `?` where Mackay prints `?`.
